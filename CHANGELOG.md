@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org).
 This changelog is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 0.1.0 (2026-03-02)
+
+
+### Bug Fixes
+
+* **categorize:** resolve TPM category collision by prioritizing Product Management explicitly ([a3b2abd](https://github.com/ambicuity/New-Grad-Jobs/commit/a3b2abde70725e337ba72d953ffa5ebabe222ef6))
+* **ci:** fix yaml config key and pre-commit formatting issues ([672bc7d](https://github.com/ambicuity/New-Grad-Jobs/commit/672bc7d552347556a8c3ea4c1e35127b5de7f20b))
+* **ci:** grant trivy workflow security-events write permission and bump upload-sarif to v4 ([fc9515a](https://github.com/ambicuity/New-Grad-Jobs/commit/fc9515a396f776134721d176dc359d01005b11cd))
+* **security:** resolve CodeQL alerts ([c23105e](https://github.com/ambicuity/New-Grad-Jobs/commit/c23105e8ec3d0c0c52516d741b69a30c4b187086))
+* **tests:** resolve failing test suite ([e1ad340](https://github.com/ambicuity/New-Grad-Jobs/commit/e1ad340bff08206e4747cf900b1a1e2b50cb2e44))
+
 ## [Unreleased]
 
 ### Added
