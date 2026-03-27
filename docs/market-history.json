@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-27T21:57:05.053314",
+    "last_updated": "2026-03-27T22:30:19.765336",
     "total_snapshots": 23,
     "date_range": {
       "start": "2026-03-05",
@@ -1220,12 +1220,12 @@
     },
     {
       "date": "2026-03-27",
-      "total_jobs": 996,
+      "total_jobs": 997,
       "categories": {},
       "tiers": {
         "unicorn": 484,
-        "faang_plus": 162,
-        "other": 350
+        "faang_plus": 167,
+        "other": 346
       },
       "top_companies": [
         {
@@ -1245,15 +1245,15 @@
           "jobs": 26
         },
         {
+          "company": "Boeing",
+          "jobs": 26
+        },
+        {
           "company": "ClickHouse",
           "jobs": 23
         },
         {
           "company": "MongoDB",
-          "jobs": 21
-        },
-        {
-          "company": "Boeing",
           "jobs": 21
         },
         {
@@ -1269,9 +1269,9 @@
           "jobs": 18
         }
       ],
-      "unique_companies": 215,
-      "avg_jobs_per_company": 4.63,
-      "timestamp": "2026-03-27T21:57:05.052914"
+      "unique_companies": 210,
+      "avg_jobs_per_company": 4.75,
+      "timestamp": "2026-03-27T22:30:19.764837"
     }
   ]
 }
