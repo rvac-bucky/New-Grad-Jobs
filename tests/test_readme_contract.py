@@ -54,15 +54,49 @@ def test_scraper_does_not_define_generate_readme() -> None:
     )
 
 
+def _string_constant_bindings(tree: ast.Module) -> dict[str, str]:
+    """Return simple top-level name -> string bindings for constant paths."""
+    bindings: dict[str, str] = {}
+    for node in tree.body:
+        if not isinstance(node, ast.Assign) or len(node.targets) != 1:
+            continue
+        target = node.targets[0]
+        value = node.value
+        if isinstance(target, ast.Name) and isinstance(value, ast.Constant) and isinstance(value.value, str):
+            bindings[target.id] = value.value
+    return bindings
+
+
+def _resolve_string(expr: ast.AST, bindings: dict[str, str]) -> str:
+    """Resolve an AST expression to a comparable string when straightforward."""
+    if isinstance(expr, ast.Constant) and isinstance(expr.value, str):
+        return expr.value
+    if isinstance(expr, ast.Name):
+        return bindings.get(expr.id, expr.id)
+    if isinstance(expr, ast.Call) and expr.args:
+        fn = expr.func
+        if (
+            isinstance(fn, ast.Name)
+            and fn.id == "Path"
+            or isinstance(fn, ast.Attribute)
+            and fn.attr == "Path"
+        ):
+            return _resolve_string(expr.args[0], bindings)
+    return ast.unparse(expr)
+
+
 def _readme_open_violations(tree: ast.Module) -> list[str]:
-    """Return a list of AST violation strings for any open() call that targets README.
+    """Return AST violation strings for any open() call that targets README.
 
     Handles:
     - positional arg:   open("README.md", ...)
     - keyword arg:      open(file="README.md", ...)
-    - attribute open:   Path("README.md").open(...)  /  pathlib.Path(...).open(...)
+    - simple binding:   p = "README.md"; open(p)
+    - attribute open:   Path("README.md").open(...) / pathlib.Path(...).open(...)
+    - simple binding:   p = "README.md"; Path(p).open(...)
     """
     violations = []
+    bindings = _string_constant_bindings(tree)
     for node in ast.walk(tree):
         if not isinstance(node, ast.Call):
             continue
@@ -70,30 +104,34 @@ def _readme_open_violations(tree: ast.Module) -> list[str]:
 
         # open(...) as a plain name or attribute (e.g. builtins.open)
         if isinstance(fn, ast.Name) and fn.id == "open":
-            _check_open_args(node, violations)
+            _check_open_args(node, violations, bindings)
 
         elif isinstance(fn, ast.Attribute) and fn.attr == "open":
             # Path("README.md").open() — check the receiver, not the call args
-            receiver_str = ast.unparse(fn.value)
+            receiver_str = _resolve_string(fn.value, bindings)
             if "readme" in receiver_str.lower():
                 violations.append(
                     f"line {node.lineno}: <expr>.open() on {receiver_str!r}"
                 )
             # Also check any args passed to .open() itself
-            _check_open_args(node, violations)
+            _check_open_args(node, violations, bindings)
 
     return violations
 
 
-def _check_open_args(node: ast.Call, violations: list[str]) -> None:
+def _check_open_args(
+    node: ast.Call,
+    violations: list[str],
+    bindings: dict[str, str],
+) -> None:
     """Append a violation string if any open() argument names a README path."""
     candidates: list[str] = []
     # Positional arg[0] is the file path
     if node.args:
-        candidates.append(ast.unparse(node.args[0]))
+        candidates.append(_resolve_string(node.args[0], bindings))
     # Keyword arg named "file"
     candidates.extend(
-        ast.unparse(kw.value) for kw in node.keywords if kw.arg == "file"
+        _resolve_string(kw.value, bindings) for kw in node.keywords if kw.arg == "file"
     )
     for arg_str in candidates:
         if "readme" in arg_str.lower():
@@ -125,13 +163,18 @@ def test_scraper_docstring_does_not_mention_readme() -> None:
 # Guard B: update-jobs.yml must not stage README.md
 # ---------------------------------------------------------------------------
 
+def _git_add_lines() -> list[str]:
+    """Extract only the workflow lines that execute git add commands."""
+    content = WORKFLOW.read_text(encoding="utf-8")
+    return re.findall(r"(?m)^\s*git add\s+([^\n]+)$", content)
+
+
 def test_workflow_does_not_stage_readme() -> None:
     """update-jobs.yml git-add step must not include README.md."""
-    content = WORKFLOW.read_text(encoding="utf-8")
-    # Matches "git add README.md" with optional surrounding tokens
-    match = re.search(r"git add\s+[^\n]*README\.md", content)
+    git_add_lines = _git_add_lines()
+    match = next((line for line in git_add_lines if "README.md" in line), None)
     assert match is None, (
-        f"update-jobs.yml stages README.md: {match.group()!r}\n"
+        f"update-jobs.yml stages README.md: {match!r}\n"
         "README.md must not be committed by the automated scraper workflow.  "
         "See issue #156."
     )
@@ -139,14 +182,14 @@ def test_workflow_does_not_stage_readme() -> None:
 
 def test_workflow_stages_docs_files() -> None:
     """update-jobs.yml must stage the required docs/ artifacts."""
-    content = WORKFLOW.read_text(encoding="utf-8")
+    git_add_blob = "\n".join(_git_add_lines())
     required = [
         "docs/jobs.json",
         "docs/market-history.json",
         "docs/health.json",
         "docs/feed.xml",
     ]
-    missing = [f for f in required if f not in content]
+    missing = [f for f in required if f not in git_add_blob]
     assert not missing, (
         "update-jobs.yml is missing required docs/ artifacts in git add: "
         + ", ".join(missing)
