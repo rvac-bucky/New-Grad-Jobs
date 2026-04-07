@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-07T15:57:45.289881",
+    "last_updated": "2026-04-07T16:58:20.024929",
     "total_snapshots": 34,
     "date_range": {
       "start": "2026-03-05",
@@ -1825,12 +1825,12 @@
     },
     {
       "date": "2026-04-07",
-      "total_jobs": 1003,
+      "total_jobs": 999,
       "categories": {},
       "tiers": {
-        "unicorn": 469,
-        "other": 368,
-        "faang_plus": 166
+        "unicorn": 468,
+        "other": 362,
+        "faang_plus": 169
       },
       "top_companies": [
         {
@@ -1842,16 +1842,16 @@
           "jobs": 58
         },
         {
+          "company": "Northrop Grumman",
+          "jobs": 26
+        },
+        {
           "company": "ClickHouse",
           "jobs": 25
         },
         {
           "company": "Lyft",
           "jobs": 24
-        },
-        {
-          "company": "Northrop Grumman",
-          "jobs": 21
         },
         {
           "company": "Boeing",
@@ -1863,7 +1863,7 @@
         },
         {
           "company": "Affirm",
-          "jobs": 20
+          "jobs": 19
         },
         {
           "company": "MongoDB",
@@ -1874,9 +1874,9 @@
           "jobs": 16
         }
       ],
-      "unique_companies": 219,
-      "avg_jobs_per_company": 4.58,
-      "timestamp": "2026-04-07T15:57:45.289365"
+      "unique_companies": 210,
+      "avg_jobs_per_company": 4.76,
+      "timestamp": "2026-04-07T16:58:20.024457"
     }
   ]
 }
