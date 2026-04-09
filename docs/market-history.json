@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-09T17:25:47.929504",
+    "last_updated": "2026-04-09T18:36:25.574698",
     "total_snapshots": 36,
     "date_range": {
       "start": "2026-03-05",
@@ -1935,12 +1935,12 @@
     },
     {
       "date": "2026-04-09",
-      "total_jobs": 955,
+      "total_jobs": 975,
       "categories": {},
       "tiers": {
-        "unicorn": 469,
-        "other": 344,
-        "faang_plus": 142
+        "other": 357,
+        "unicorn": 468,
+        "faang_plus": 150
       },
       "top_companies": [
         {
@@ -1953,15 +1953,19 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 26
+          "jobs": 27
         },
         {
           "company": "ClickHouse",
           "jobs": 26
         },
         {
-          "company": "Lyft",
+          "company": "Accenture",
           "jobs": 22
+        },
+        {
+          "company": "Lyft",
+          "jobs": 21
         },
         {
           "company": "Affirm",
@@ -1976,17 +1980,13 @@
           "jobs": 18
         },
         {
-          "company": "Stripe",
-          "jobs": 17
-        },
-        {
-          "company": "Opendoor",
+          "company": "Boeing",
           "jobs": 17
         }
       ],
-      "unique_companies": 186,
-      "avg_jobs_per_company": 5.13,
-      "timestamp": "2026-04-09T17:25:47.929047"
+      "unique_companies": 183,
+      "avg_jobs_per_company": 5.33,
+      "timestamp": "2026-04-09T18:36:25.574205"
     }
   ]
 }
