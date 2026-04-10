@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-10T22:03:52.633189",
+    "last_updated": "2026-04-10T22:55:29.410705",
     "total_snapshots": 37,
     "date_range": {
       "start": "2026-03-05",
@@ -1990,12 +1990,12 @@
     },
     {
       "date": "2026-04-10",
-      "total_jobs": 1036,
+      "total_jobs": 1018,
       "categories": {},
       "tiers": {
         "unicorn": 469,
-        "other": 400,
-        "faang_plus": 167
+        "other": 388,
+        "faang_plus": 161
       },
       "top_companies": [
         {
@@ -2005,10 +2005,6 @@
         {
           "company": "Waymo",
           "jobs": 53
-        },
-        {
-          "company": "Boeing",
-          "jobs": 31
         },
         {
           "company": "Northrop Grumman",
@@ -2027,6 +2023,10 @@
           "jobs": 26
         },
         {
+          "company": "Boeing",
+          "jobs": 25
+        },
+        {
           "company": "Lyft",
           "jobs": 21
         },
@@ -2039,9 +2039,9 @@
           "jobs": 19
         }
       ],
-      "unique_companies": 189,
-      "avg_jobs_per_company": 5.48,
-      "timestamp": "2026-04-10T22:03:52.632582"
+      "unique_companies": 185,
+      "avg_jobs_per_company": 5.5,
+      "timestamp": "2026-04-10T22:55:29.410165"
     }
   ]
 }
