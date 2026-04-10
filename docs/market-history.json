@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-10T08:09:56.018061",
+    "last_updated": "2026-04-10T09:41:18.906645",
     "total_snapshots": 37,
     "date_range": {
       "start": "2026-03-05",
@@ -1990,12 +1990,12 @@
     },
     {
       "date": "2026-04-10",
-      "total_jobs": 1022,
+      "total_jobs": 973,
       "categories": {},
       "tiers": {
+        "other": 359,
         "unicorn": 466,
-        "other": 369,
-        "faang_plus": 187
+        "faang_plus": 148
       },
       "top_companies": [
         {
@@ -2005,10 +2005,6 @@
         {
           "company": "Waymo",
           "jobs": 54
-        },
-        {
-          "company": "Apple",
-          "jobs": 35
         },
         {
           "company": "Northrop Grumman",
@@ -2037,11 +2033,15 @@
         {
           "company": "MongoDB",
           "jobs": 18
+        },
+        {
+          "company": "Stripe",
+          "jobs": 17
         }
       ],
-      "unique_companies": 183,
-      "avg_jobs_per_company": 5.58,
-      "timestamp": "2026-04-10T08:09:56.017322"
+      "unique_companies": 170,
+      "avg_jobs_per_company": 5.72,
+      "timestamp": "2026-04-10T09:41:18.906189"
     }
   ]
 }
