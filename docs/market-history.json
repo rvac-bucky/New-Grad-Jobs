@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-11T00:06:31.286120",
+    "last_updated": "2026-04-11T03:21:04.015107",
     "total_snapshots": 38,
     "date_range": {
       "start": "2026-03-05",
@@ -2045,12 +2045,12 @@
     },
     {
       "date": "2026-04-11",
-      "total_jobs": 1034,
+      "total_jobs": 1037,
       "categories": {},
       "tiers": {
-        "faang_plus": 160,
-        "other": 405,
-        "unicorn": 469
+        "unicorn": 468,
+        "other": 411,
+        "faang_plus": 158
       },
       "top_companies": [
         {
@@ -2064,6 +2064,10 @@
         {
           "company": "Northrop Grumman",
           "jobs": 30
+        },
+        {
+          "company": "Accenture",
+          "jobs": 26
         },
         {
           "company": "NTT DATA",
@@ -2088,15 +2092,11 @@
         {
           "company": "Dropbox",
           "jobs": 19
-        },
-        {
-          "company": "Scale AI",
-          "jobs": 17
         }
       ],
       "unique_companies": 191,
-      "avg_jobs_per_company": 5.41,
-      "timestamp": "2026-04-11T00:06:31.284711"
+      "avg_jobs_per_company": 5.43,
+      "timestamp": "2026-04-11T03:21:04.013788"
     }
   ]
 }
