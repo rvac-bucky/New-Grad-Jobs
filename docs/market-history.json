@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-16T16:14:00.673158",
+    "last_updated": "2026-04-16T17:48:45.926926",
     "total_snapshots": 43,
     "date_range": {
       "start": "2026-03-05",
@@ -2320,12 +2320,12 @@
     },
     {
       "date": "2026-04-16",
-      "total_jobs": 962,
+      "total_jobs": 989,
       "categories": {},
       "tiers": {
-        "faang_plus": 125,
-        "other": 356,
-        "unicorn": 481
+        "other": 378,
+        "unicorn": 481,
+        "faang_plus": 130
       },
       "top_companies": [
         {
@@ -2353,6 +2353,10 @@
           "jobs": 20
         },
         {
+          "company": "Accenture",
+          "jobs": 20
+        },
+        {
           "company": "Lyft",
           "jobs": 19
         },
@@ -2363,15 +2367,11 @@
         {
           "company": "Abnormal Security",
           "jobs": 17
-        },
-        {
-          "company": "Scale AI",
-          "jobs": 17
         }
       ],
-      "unique_companies": 195,
-      "avg_jobs_per_company": 4.93,
-      "timestamp": "2026-04-16T16:14:00.672148"
+      "unique_companies": 205,
+      "avg_jobs_per_company": 4.82,
+      "timestamp": "2026-04-16T17:48:45.926369"
     }
   ]
 }
