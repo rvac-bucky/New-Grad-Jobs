@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-21T09:22:42.602555",
+    "last_updated": "2026-04-21T10:54:51.656365",
     "total_snapshots": 47,
     "date_range": {
       "start": "2026-03-05",
@@ -2540,12 +2540,12 @@
     },
     {
       "date": "2026-04-21",
-      "total_jobs": 880,
+      "total_jobs": 985,
       "categories": {},
       "tiers": {
-        "other": 322,
-        "unicorn": 422,
-        "faang_plus": 136
+        "unicorn": 479,
+        "other": 371,
+        "faang_plus": 135
       },
       "top_companies": [
         {
@@ -2559,6 +2559,10 @@
         {
           "company": "Waymo",
           "jobs": 49
+        },
+        {
+          "company": "ClickHouse",
+          "jobs": 27
         },
         {
           "company": "Boeing",
@@ -2583,15 +2587,11 @@
         {
           "company": "Scale AI",
           "jobs": 17
-        },
-        {
-          "company": "Lyft",
-          "jobs": 16
         }
       ],
-      "unique_companies": 173,
-      "avg_jobs_per_company": 5.09,
-      "timestamp": "2026-04-21T09:22:42.601906"
+      "unique_companies": 189,
+      "avg_jobs_per_company": 5.21,
+      "timestamp": "2026-04-21T10:54:51.655700"
     }
   ]
 }
