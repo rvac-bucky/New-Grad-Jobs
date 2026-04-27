@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-27T17:00:23.578544",
+    "last_updated": "2026-04-27T18:14:58.853823",
     "total_snapshots": 53,
     "date_range": {
       "start": "2026-03-05",
@@ -2870,11 +2870,11 @@
     },
     {
       "date": "2026-04-27",
-      "total_jobs": 1018,
+      "total_jobs": 1043,
       "categories": {},
       "tiers": {
-        "other": 400,
         "unicorn": 495,
+        "other": 425,
         "faang_plus": 123
       },
       "top_companies": [
@@ -2889,6 +2889,10 @@
         {
           "company": "RBC",
           "jobs": 36
+        },
+        {
+          "company": "Syms Strategic Group, LLC (SSG)",
+          "jobs": 29
         },
         {
           "company": "ClickHouse",
@@ -2907,10 +2911,6 @@
           "jobs": 19
         },
         {
-          "company": "Boeing",
-          "jobs": 19
-        },
-        {
           "company": "Stripe",
           "jobs": 19
         },
@@ -2919,9 +2919,9 @@
           "jobs": 19
         }
       ],
-      "unique_companies": 212,
-      "avg_jobs_per_company": 4.8,
-      "timestamp": "2026-04-27T17:00:23.577723"
+      "unique_companies": 211,
+      "avg_jobs_per_company": 4.94,
+      "timestamp": "2026-04-27T18:14:58.852960"
     }
   ]
 }
