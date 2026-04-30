@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-30T16:57:44.670982",
+    "last_updated": "2026-04-30T18:11:15.968083",
     "total_snapshots": 56,
     "date_range": {
       "start": "2026-03-05",
@@ -3035,12 +3035,12 @@
     },
     {
       "date": "2026-04-30",
-      "total_jobs": 979,
+      "total_jobs": 1007,
       "categories": {},
       "tiers": {
+        "other": 374,
         "unicorn": 496,
-        "faang_plus": 135,
-        "other": 348
+        "faang_plus": 137
       },
       "top_companies": [
         {
@@ -3053,7 +3053,7 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 27
+          "jobs": 26
         },
         {
           "company": "ClickHouse",
@@ -3072,21 +3072,21 @@
           "jobs": 21
         },
         {
+          "company": "Accenture",
+          "jobs": 21
+        },
+        {
           "company": "Stripe",
           "jobs": 19
         },
         {
           "company": "Dropbox",
           "jobs": 19
-        },
-        {
-          "company": "Scale AI",
-          "jobs": 17
         }
       ],
-      "unique_companies": 209,
-      "avg_jobs_per_company": 4.68,
-      "timestamp": "2026-04-30T16:57:44.670387"
+      "unique_companies": 216,
+      "avg_jobs_per_company": 4.66,
+      "timestamp": "2026-04-30T18:11:15.967309"
     }
   ]
 }
