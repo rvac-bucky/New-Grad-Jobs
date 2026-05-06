@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-06T13:15:01.152518",
+    "last_updated": "2026-05-06T15:40:12.632578",
     "total_snapshots": 61,
     "date_range": {
       "start": "2026-03-05",
@@ -3310,12 +3310,12 @@
     },
     {
       "date": "2026-05-06",
-      "total_jobs": 989,
+      "total_jobs": 983,
       "categories": {},
       "tiers": {
-        "other": 357,
         "unicorn": 483,
-        "faang_plus": 149
+        "faang_plus": 147,
+        "other": 353
       },
       "top_companies": [
         {
@@ -3328,11 +3328,11 @@
         },
         {
           "company": "Boeing",
-          "jobs": 26
+          "jobs": 24
         },
         {
           "company": "Lyft",
-          "jobs": 24
+          "jobs": 23
         },
         {
           "company": "ClickHouse",
@@ -3347,11 +3347,11 @@
           "jobs": 19
         },
         {
-          "company": "Oscar Health",
+          "company": "Stripe",
           "jobs": 18
         },
         {
-          "company": "Stripe",
+          "company": "Oscar Health",
           "jobs": 18
         },
         {
@@ -3360,8 +3360,8 @@
         }
       ],
       "unique_companies": 212,
-      "avg_jobs_per_company": 4.67,
-      "timestamp": "2026-05-06T13:15:01.150955"
+      "avg_jobs_per_company": 4.64,
+      "timestamp": "2026-05-06T15:40:12.631501"
     }
   ]
 }
