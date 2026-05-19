@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-19T06:06:00.016903",
+    "last_updated": "2026-05-19T10:06:42.758876",
     "total_snapshots": 74,
     "date_range": {
       "start": "2026-03-05",
@@ -4025,12 +4025,12 @@
     },
     {
       "date": "2026-05-19",
-      "total_jobs": 999,
+      "total_jobs": 967,
       "categories": {},
       "tiers": {
-        "other": 360,
         "unicorn": 483,
-        "faang_plus": 156
+        "other": 340,
+        "faang_plus": 144
       },
       "top_companies": [
         {
@@ -4046,10 +4046,6 @@
           "jobs": 29
         },
         {
-          "company": "Boeing",
-          "jobs": 27
-        },
-        {
           "company": "Affirm",
           "jobs": 25
         },
@@ -4058,12 +4054,12 @@
           "jobs": 24
         },
         {
-          "company": "Accenture",
-          "jobs": 22
-        },
-        {
           "company": "University of Ottawa",
           "jobs": 21
+        },
+        {
+          "company": "Boeing",
+          "jobs": 20
         },
         {
           "company": "Abnormal Security",
@@ -4072,11 +4068,15 @@
         {
           "company": "Lyft",
           "jobs": 20
+        },
+        {
+          "company": "Oscar Health",
+          "jobs": 19
         }
       ],
-      "unique_companies": 204,
-      "avg_jobs_per_company": 4.9,
-      "timestamp": "2026-05-19T06:06:00.015578"
+      "unique_companies": 198,
+      "avg_jobs_per_company": 4.88,
+      "timestamp": "2026-05-19T10:06:42.758169"
     }
   ]
 }
