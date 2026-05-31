@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-31T01:57:30.674617",
+    "last_updated": "2026-05-31T06:22:36.687481",
     "total_snapshots": 86,
     "date_range": {
       "start": "2026-03-05",
@@ -4685,12 +4685,12 @@
     },
     {
       "date": "2026-05-31",
-      "total_jobs": 893,
+      "total_jobs": 932,
       "categories": {},
       "tiers": {
         "faang_plus": 117,
         "unicorn": 479,
-        "other": 297
+        "other": 336
       },
       "top_companies": [
         {
@@ -4700,6 +4700,10 @@
         {
           "company": "Waymo",
           "jobs": 56
+        },
+        {
+          "company": "Deloitte",
+          "jobs": 55
         },
         {
           "company": "Affirm",
@@ -4728,15 +4732,11 @@
         {
           "company": "Lyft",
           "jobs": 16
-        },
-        {
-          "company": "Northrop Grumman",
-          "jobs": 15
         }
       ],
-      "unique_companies": 206,
-      "avg_jobs_per_company": 4.33,
-      "timestamp": "2026-05-31T01:57:30.673739"
+      "unique_companies": 195,
+      "avg_jobs_per_company": 4.78,
+      "timestamp": "2026-05-31T06:22:36.686583"
     }
   ]
 }
