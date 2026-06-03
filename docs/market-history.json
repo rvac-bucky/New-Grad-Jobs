@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-06-03T07:20:32.437198",
+    "last_updated": "2026-06-03T12:19:17.129059",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-03-05",
@@ -4850,12 +4850,12 @@
     },
     {
       "date": "2026-06-03",
-      "total_jobs": 928,
+      "total_jobs": 917,
       "categories": {},
       "tiers": {
+        "other": 296,
         "unicorn": 497,
-        "other": 310,
-        "faang_plus": 121
+        "faang_plus": 124
       },
       "top_companies": [
         {
@@ -4871,16 +4871,16 @@
           "jobs": 26
         },
         {
+          "company": "Northrop Grumman",
+          "jobs": 24
+        },
+        {
           "company": "Robinhood",
           "jobs": 23
         },
         {
           "company": "Stripe",
           "jobs": 22
-        },
-        {
-          "company": "Corona Regional Medical Center",
-          "jobs": 20
         },
         {
           "company": "Pinterest",
@@ -4891,17 +4891,17 @@
           "jobs": 18
         },
         {
-          "company": "Northrop Grumman",
+          "company": "Figma",
           "jobs": 17
         },
         {
-          "company": "Figma",
-          "jobs": 17
+          "company": "Twilio",
+          "jobs": 15
         }
       ],
-      "unique_companies": 211,
-      "avg_jobs_per_company": 4.4,
-      "timestamp": "2026-06-03T07:20:32.436377"
+      "unique_companies": 215,
+      "avg_jobs_per_company": 4.27,
+      "timestamp": "2026-06-03T12:19:17.127963"
     }
   ]
 }
