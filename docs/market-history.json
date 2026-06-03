@@ -1,10 +1,10 @@
 {
   "meta": {
-    "last_updated": "2026-06-02T23:49:01.627293",
-    "total_snapshots": 88,
+    "last_updated": "2026-06-03T02:17:43.975005",
+    "total_snapshots": 89,
     "date_range": {
       "start": "2026-03-05",
-      "end": "2026-06-02"
+      "end": "2026-06-03"
     }
   },
   "snapshots": [
@@ -4847,6 +4847,61 @@
       "unique_companies": 218,
       "avg_jobs_per_company": 4.32,
       "timestamp": "2026-06-02T23:49:01.626351"
+    },
+    {
+      "date": "2026-06-03",
+      "total_jobs": 935,
+      "categories": {},
+      "tiers": {
+        "unicorn": 495,
+        "faang_plus": 114,
+        "other": 326
+      },
+      "top_companies": [
+        {
+          "company": "SpaceX",
+          "jobs": 185
+        },
+        {
+          "company": "Waymo",
+          "jobs": 54
+        },
+        {
+          "company": "Affirm",
+          "jobs": 26
+        },
+        {
+          "company": "Robinhood",
+          "jobs": 23
+        },
+        {
+          "company": "Stripe",
+          "jobs": 22
+        },
+        {
+          "company": "Accenture",
+          "jobs": 20
+        },
+        {
+          "company": "Corona Regional Medical Center",
+          "jobs": 20
+        },
+        {
+          "company": "Pinterest",
+          "jobs": 18
+        },
+        {
+          "company": "Abnormal Security",
+          "jobs": 18
+        },
+        {
+          "company": "Figma",
+          "jobs": 17
+        }
+      ],
+      "unique_companies": 214,
+      "avg_jobs_per_company": 4.37,
+      "timestamp": "2026-06-03T02:17:43.974015"
     }
   ]
 }
