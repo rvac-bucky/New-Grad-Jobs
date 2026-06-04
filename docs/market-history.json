@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-06-04T09:15:02.637897",
+    "last_updated": "2026-06-04T12:24:38.189137",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-03-06",
@@ -4850,12 +4850,12 @@
     },
     {
       "date": "2026-06-04",
-      "total_jobs": 948,
+      "total_jobs": 954,
       "categories": {},
       "tiers": {
-        "faang_plus": 138,
+        "other": 312,
         "unicorn": 506,
-        "other": 304
+        "faang_plus": 136
       },
       "top_companies": [
         {
@@ -4883,6 +4883,10 @@
           "jobs": 22
         },
         {
+          "company": "Abnormal Security",
+          "jobs": 19
+        },
+        {
           "company": "Pinterest",
           "jobs": 19
         },
@@ -4891,17 +4895,13 @@
           "jobs": 19
         },
         {
-          "company": "Abnormal Security",
-          "jobs": 18
-        },
-        {
           "company": "Figma",
           "jobs": 17
         }
       ],
-      "unique_companies": 224,
-      "avg_jobs_per_company": 4.23,
-      "timestamp": "2026-06-04T09:15:02.636250"
+      "unique_companies": 234,
+      "avg_jobs_per_company": 4.08,
+      "timestamp": "2026-06-04T12:24:38.188205"
     }
   ]
 }
