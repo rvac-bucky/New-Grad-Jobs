@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-06-09T20:33:04.165902",
+    "last_updated": "2026-06-09T22:14:20.439021",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-03-11",
@@ -4850,29 +4850,21 @@
     },
     {
       "date": "2026-06-09",
-      "total_jobs": 950,
+      "total_jobs": 937,
       "categories": {},
       "tiers": {
-        "unicorn": 494,
-        "other": 302,
-        "faang_plus": 154
+        "unicorn": 496,
+        "other": 293,
+        "faang_plus": 148
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 197
+          "jobs": 199
         },
         {
           "company": "Waymo",
-          "jobs": 48
-        },
-        {
-          "company": "Northrop Grumman",
-          "jobs": 28
-        },
-        {
-          "company": "Accenture",
-          "jobs": 26
+          "jobs": 49
         },
         {
           "company": "Affirm",
@@ -4881,6 +4873,14 @@
         {
           "company": "Stripe",
           "jobs": 24
+        },
+        {
+          "company": "Accenture",
+          "jobs": 24
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 23
         },
         {
           "company": "Robinhood",
@@ -4899,9 +4899,9 @@
           "jobs": 18
         }
       ],
-      "unique_companies": 205,
-      "avg_jobs_per_company": 4.63,
-      "timestamp": "2026-06-09T20:33:04.164896"
+      "unique_companies": 203,
+      "avg_jobs_per_company": 4.62,
+      "timestamp": "2026-06-09T22:14:20.438157"
     }
   ]
 }
