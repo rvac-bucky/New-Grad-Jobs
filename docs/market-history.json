@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-06-10T14:06:31.792537",
+    "last_updated": "2026-06-10T17:36:20.388741",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-03-12",
@@ -4850,12 +4850,12 @@
     },
     {
       "date": "2026-06-10",
-      "total_jobs": 925,
+      "total_jobs": 918,
       "categories": {},
       "tiers": {
-        "unicorn": 493,
-        "other": 289,
-        "faang_plus": 143
+        "unicorn": 491,
+        "faang_plus": 147,
+        "other": 280
       },
       "top_companies": [
         {
@@ -4864,19 +4864,23 @@
         },
         {
           "company": "Waymo",
-          "jobs": 49
+          "jobs": 48
         },
         {
           "company": "Affirm",
-          "jobs": 25
+          "jobs": 23
         },
         {
           "company": "Stripe",
-          "jobs": 24
+          "jobs": 23
         },
         {
           "company": "Robinhood",
           "jobs": 23
+        },
+        {
+          "company": "Boeing",
+          "jobs": 21
         },
         {
           "company": "Northrop Grumman",
@@ -4887,21 +4891,17 @@
           "jobs": 20
         },
         {
-          "company": "Boeing",
-          "jobs": 19
-        },
-        {
           "company": "Pinterest",
-          "jobs": 18
+          "jobs": 19
         },
         {
           "company": "Figma",
           "jobs": 17
         }
       ],
-      "unique_companies": 212,
-      "avg_jobs_per_company": 4.36,
-      "timestamp": "2026-06-10T14:06:31.791421"
+      "unique_companies": 211,
+      "avg_jobs_per_company": 4.35,
+      "timestamp": "2026-06-10T17:36:20.387581"
     }
   ]
 }
