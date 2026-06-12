@@ -1,68 +1,13 @@
 {
   "meta": {
-    "last_updated": "2026-06-11T23:02:05.208962",
+    "last_updated": "2026-06-12T00:26:38.300223",
     "total_snapshots": 89,
     "date_range": {
-      "start": "2026-03-13",
-      "end": "2026-06-11"
+      "start": "2026-03-14",
+      "end": "2026-06-12"
     }
   },
   "snapshots": [
-    {
-      "date": "2026-03-13",
-      "total_jobs": 959,
-      "categories": {},
-      "tiers": {
-        "other": 344,
-        "faang_plus": 129,
-        "unicorn": 486
-      },
-      "top_companies": [
-        {
-          "company": "SpaceX",
-          "jobs": 159
-        },
-        {
-          "company": "Waymo",
-          "jobs": 67
-        },
-        {
-          "company": "Lyft",
-          "jobs": 27
-        },
-        {
-          "company": "Dropbox",
-          "jobs": 25
-        },
-        {
-          "company": "Boeing",
-          "jobs": 21
-        },
-        {
-          "company": "Oscar Health",
-          "jobs": 18
-        },
-        {
-          "company": "MetLife",
-          "jobs": 18
-        },
-        {
-          "company": "Affirm",
-          "jobs": 17
-        },
-        {
-          "company": "Opendoor",
-          "jobs": 16
-        },
-        {
-          "company": "MongoDB",
-          "jobs": 16
-        }
-      ],
-      "unique_companies": 209,
-      "avg_jobs_per_company": 4.59,
-      "timestamp": "2026-03-13T23:45:33.695818"
-    },
     {
       "date": "2026-03-14",
       "total_jobs": 952,
@@ -4902,6 +4847,61 @@
       "unique_companies": 203,
       "avg_jobs_per_company": 4.58,
       "timestamp": "2026-06-11T23:02:05.208106"
+    },
+    {
+      "date": "2026-06-12",
+      "total_jobs": 929,
+      "categories": {},
+      "tiers": {
+        "faang_plus": 152,
+        "other": 287,
+        "unicorn": 490
+      },
+      "top_companies": [
+        {
+          "company": "SpaceX",
+          "jobs": 196
+        },
+        {
+          "company": "Waymo",
+          "jobs": 45
+        },
+        {
+          "company": "Boeing",
+          "jobs": 35
+        },
+        {
+          "company": "Affirm",
+          "jobs": 25
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 23
+        },
+        {
+          "company": "Stripe",
+          "jobs": 23
+        },
+        {
+          "company": "Robinhood",
+          "jobs": 21
+        },
+        {
+          "company": "Pinterest",
+          "jobs": 20
+        },
+        {
+          "company": "Abnormal Security",
+          "jobs": 20
+        },
+        {
+          "company": "Figma",
+          "jobs": 18
+        }
+      ],
+      "unique_companies": 197,
+      "avg_jobs_per_company": 4.72,
+      "timestamp": "2026-06-12T00:26:38.299277"
     }
   ]
 }
