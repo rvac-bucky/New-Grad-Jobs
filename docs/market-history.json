@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-06-12T15:56:59.423563",
+    "last_updated": "2026-06-12T18:07:43.588961",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-03-14",
@@ -4850,12 +4850,12 @@
     },
     {
       "date": "2026-06-12",
-      "total_jobs": 908,
+      "total_jobs": 920,
       "categories": {},
       "tiers": {
+        "faang_plus": 137,
         "unicorn": 493,
-        "other": 275,
-        "faang_plus": 140
+        "other": 290
       },
       "top_companies": [
         {
@@ -4868,11 +4868,11 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 28
+          "jobs": 31
         },
         {
-          "company": "Boeing",
-          "jobs": 28
+          "company": "Accenture",
+          "jobs": 27
         },
         {
           "company": "Affirm",
@@ -4880,7 +4880,11 @@
         },
         {
           "company": "Stripe",
-          "jobs": 23
+          "jobs": 24
+        },
+        {
+          "company": "Boeing",
+          "jobs": 22
         },
         {
           "company": "Robinhood",
@@ -4893,15 +4897,11 @@
         {
           "company": "Abnormal Security",
           "jobs": 20
-        },
-        {
-          "company": "Figma",
-          "jobs": 18
         }
       ],
-      "unique_companies": 197,
-      "avg_jobs_per_company": 4.61,
-      "timestamp": "2026-06-12T15:56:59.422497"
+      "unique_companies": 196,
+      "avg_jobs_per_company": 4.69,
+      "timestamp": "2026-06-12T18:07:43.587966"
     }
   ]
 }
