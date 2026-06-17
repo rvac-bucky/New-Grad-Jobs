@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-06-17T05:10:56.881508",
+    "last_updated": "2026-06-17T10:05:38.687631",
     "total_snapshots": 88,
     "date_range": {
       "start": "2026-03-19",
@@ -4795,12 +4795,12 @@
     },
     {
       "date": "2026-06-17",
-      "total_jobs": 876,
+      "total_jobs": 895,
       "categories": {},
       "tiers": {
-        "unicorn": 486,
-        "other": 253,
-        "faang_plus": 137
+        "unicorn": 488,
+        "other": 273,
+        "faang_plus": 134
       },
       "top_companies": [
         {
@@ -4813,19 +4813,23 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 31
+          "jobs": 30
+        },
+        {
+          "company": "University of Ottawa",
+          "jobs": 27
         },
         {
           "company": "Pinterest",
           "jobs": 23
         },
         {
-          "company": "Stripe",
+          "company": "Affirm",
           "jobs": 22
         },
         {
-          "company": "Affirm",
-          "jobs": 21
+          "company": "Stripe",
+          "jobs": 22
         },
         {
           "company": "Robinhood",
@@ -4836,17 +4840,13 @@
           "jobs": 20
         },
         {
-          "company": "Boeing",
-          "jobs": 17
-        },
-        {
           "company": "Lyft",
           "jobs": 17
         }
       ],
-      "unique_companies": 191,
-      "avg_jobs_per_company": 4.59,
-      "timestamp": "2026-06-17T05:10:56.879602"
+      "unique_companies": 185,
+      "avg_jobs_per_company": 4.84,
+      "timestamp": "2026-06-17T10:05:38.686593"
     }
   ]
 }
