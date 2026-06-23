@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-06-23T14:28:48.049664+00:00",
+    "last_updated": "2026-06-23T17:04:46.965404+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-03-25",
@@ -5079,21 +5079,21 @@
     },
     {
       "date": "2026-06-23",
-      "total_jobs": 1343,
+      "total_jobs": 1330,
       "categories": {
-        "software_engineering": 866,
-        "other": 118,
-        "data_ml": 142,
-        "infrastructure_sre": 180,
-        "hardware": 11,
-        "data_engineering": 22,
+        "software_engineering": 872,
+        "data_ml": 144,
+        "other": 105,
+        "data_engineering": 24,
+        "infrastructure_sre": 168,
+        "hardware": 13,
         "product_management": 1,
         "quant_finance": 3
       },
       "tiers": {
-        "other": 552,
-        "unicorn": 664,
-        "faang_plus": 127
+        "other": 524,
+        "unicorn": 670,
+        "faang_plus": 136
       },
       "top_companies": [
         {
@@ -5102,15 +5102,19 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 173
+          "jobs": 171
         },
         {
           "company": "OpenAI",
-          "jobs": 52
+          "jobs": 53
         },
         {
           "company": "Waymo",
           "jobs": 41
+        },
+        {
+          "company": "Boeing",
+          "jobs": 25
         },
         {
           "company": "Glean",
@@ -5121,7 +5125,7 @@
           "jobs": 24
         },
         {
-          "company": "Boeing",
+          "company": "Affirm",
           "jobs": 22
         },
         {
@@ -5131,15 +5135,11 @@
         {
           "company": "Stripe",
           "jobs": 21
-        },
-        {
-          "company": "GE HealthCare",
-          "jobs": 20
         }
       ],
-      "unique_companies": 239,
-      "avg_jobs_per_company": 5.62,
-      "timestamp": "2026-06-23T14:28:48.048814+00:00"
+      "unique_companies": 227,
+      "avg_jobs_per_company": 5.86,
+      "timestamp": "2026-06-23T17:04:46.964489+00:00"
     }
   ]
 }
