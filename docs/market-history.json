@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-06-24T18:13:46.869226+00:00",
+    "last_updated": "2026-06-24T20:12:06.369382+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-03-26",
@@ -5088,21 +5088,21 @@
     },
     {
       "date": "2026-06-24",
-      "total_jobs": 1346,
+      "total_jobs": 1351,
       "categories": {
-        "software_engineering": 880,
-        "infrastructure_sre": 177,
-        "data_ml": 143,
-        "data_engineering": 25,
+        "software_engineering": 884,
         "other": 103,
-        "hardware": 12,
+        "infrastructure_sre": 171,
+        "data_ml": 145,
+        "data_engineering": 28,
+        "hardware": 14,
         "product_management": 3,
         "quant_finance": 3
       },
       "tiers": {
-        "unicorn": 673,
-        "other": 567,
-        "faang_plus": 106
+        "unicorn": 678,
+        "other": 564,
+        "faang_plus": 109
       },
       "top_companies": [
         {
@@ -5111,7 +5111,7 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 167
+          "jobs": 168
         },
         {
           "company": "OpenAI",
@@ -5123,11 +5123,19 @@
         },
         {
           "company": "Accenture",
-          "jobs": 29
+          "jobs": 26
         },
         {
           "company": "Glean",
           "jobs": 24
+        },
+        {
+          "company": "Boeing",
+          "jobs": 23
+        },
+        {
+          "company": "Pinterest",
+          "jobs": 22
         },
         {
           "company": "Stripe",
@@ -5136,19 +5144,11 @@
         {
           "company": "Affirm",
           "jobs": 22
-        },
-        {
-          "company": "Robinhood",
-          "jobs": 22
-        },
-        {
-          "company": "Pinterest",
-          "jobs": 22
         }
       ],
-      "unique_companies": 235,
-      "avg_jobs_per_company": 5.73,
-      "timestamp": "2026-06-24T18:13:46.866901+00:00"
+      "unique_companies": 234,
+      "avg_jobs_per_company": 5.77,
+      "timestamp": "2026-06-24T20:12:06.368455+00:00"
     }
   ]
 }
