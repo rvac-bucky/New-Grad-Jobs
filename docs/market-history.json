@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-06-30T19:17:05.495198+00:00",
+    "last_updated": "2026-06-30T21:11:33.992043+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-01",
@@ -5142,21 +5142,21 @@
     },
     {
       "date": "2026-06-30",
-      "total_jobs": 1350,
+      "total_jobs": 1332,
       "categories": {
-        "software_engineering": 880,
-        "data_ml": 144,
-        "data_engineering": 29,
-        "infrastructure_sre": 154,
-        "other": 117,
-        "hardware": 17,
-        "quant_finance": 8,
+        "software_engineering": 878,
+        "data_ml": 137,
+        "infrastructure_sre": 156,
+        "data_engineering": 30,
+        "other": 108,
+        "hardware": 15,
+        "quant_finance": 7,
         "product_management": 1
       },
       "tiers": {
-        "unicorn": 695,
-        "faang_plus": 120,
-        "other": 535
+        "other": 526,
+        "unicorn": 687,
+        "faang_plus": 119
       },
       "top_companies": [
         {
@@ -5176,7 +5176,11 @@
           "jobs": 40
         },
         {
-          "company": "Stripe",
+          "company": "Northrop Grumman",
+          "jobs": 24
+        },
+        {
+          "company": "Glean",
           "jobs": 23
         },
         {
@@ -5184,25 +5188,21 @@
           "jobs": 23
         },
         {
-          "company": "Robinhood",
+          "company": "Stripe",
           "jobs": 22
         },
         {
-          "company": "Northrop Grumman",
+          "company": "Robinhood",
           "jobs": 22
         },
         {
           "company": "Affirm",
           "jobs": 22
-        },
-        {
-          "company": "Glean",
-          "jobs": 22
         }
       ],
-      "unique_companies": 225,
-      "avg_jobs_per_company": 6.0,
-      "timestamp": "2026-06-30T19:17:05.492912+00:00"
+      "unique_companies": 229,
+      "avg_jobs_per_company": 5.82,
+      "timestamp": "2026-06-30T21:11:33.991063+00:00"
     }
   ]
 }
