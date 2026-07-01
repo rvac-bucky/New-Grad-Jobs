@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-01T13:26:28.135004+00:00",
+    "last_updated": "2026-07-01T16:07:47.709993+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-02",
@@ -5151,21 +5151,21 @@
     },
     {
       "date": "2026-07-01",
-      "total_jobs": 1337,
+      "total_jobs": 1382,
       "categories": {
-        "software_engineering": 869,
-        "data_ml": 130,
-        "data_engineering": 29,
-        "infrastructure_sre": 161,
-        "other": 129,
-        "quant_finance": 6,
-        "hardware": 12,
+        "data_ml": 136,
+        "other": 122,
+        "software_engineering": 883,
+        "data_engineering": 30,
+        "infrastructure_sre": 195,
+        "quant_finance": 5,
+        "hardware": 10,
         "product_management": 1
       },
       "tiers": {
-        "faang_plus": 112,
+        "other": 588,
         "unicorn": 681,
-        "other": 544
+        "faang_plus": 113
       },
       "top_companies": [
         {
@@ -5174,7 +5174,7 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 178
+          "jobs": 183
         },
         {
           "company": "OpenAI",
@@ -5186,11 +5186,7 @@
         },
         {
           "company": "University of Ottawa",
-          "jobs": 36
-        },
-        {
-          "company": "Stripe",
-          "jobs": 23
+          "jobs": 35
         },
         {
           "company": "Pinterest",
@@ -5201,17 +5197,21 @@
           "jobs": 22
         },
         {
-          "company": "Glean",
+          "company": "Stripe",
           "jobs": 22
         },
         {
-          "company": "Robinhood",
+          "company": "Ferguson",
+          "jobs": 22
+        },
+        {
+          "company": "Glean",
           "jobs": 22
         }
       ],
-      "unique_companies": 222,
-      "avg_jobs_per_company": 6.02,
-      "timestamp": "2026-07-01T13:26:28.134169+00:00"
+      "unique_companies": 223,
+      "avg_jobs_per_company": 6.2,
+      "timestamp": "2026-07-01T16:07:47.707621+00:00"
     }
   ]
 }
