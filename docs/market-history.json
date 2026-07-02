@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-02T04:41:20.708190+00:00",
+    "last_updated": "2026-07-02T08:00:33.619300+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-03",
@@ -5160,20 +5160,20 @@
     },
     {
       "date": "2026-07-02",
-      "total_jobs": 1345,
+      "total_jobs": 1329,
       "categories": {
-        "data_ml": 138,
-        "software_engineering": 902,
-        "infrastructure_sre": 155,
+        "software_engineering": 889,
+        "data_ml": 136,
+        "infrastructure_sre": 154,
+        "hardware": 12,
+        "other": 103,
         "data_engineering": 30,
-        "other": 105,
-        "hardware": 11,
-        "quant_finance": 3,
-        "product_management": 1
+        "product_management": 2,
+        "quant_finance": 3
       },
       "tiers": {
-        "other": 543,
-        "unicorn": 687,
+        "unicorn": 686,
+        "other": 528,
         "faang_plus": 115
       },
       "top_companies": [
@@ -5210,17 +5210,17 @@
           "jobs": 22
         },
         {
-          "company": "Stripe",
+          "company": "Robinhood",
           "jobs": 22
         },
         {
-          "company": "Robinhood",
-          "jobs": 22
+          "company": "Stripe",
+          "jobs": 21
         }
       ],
-      "unique_companies": 224,
-      "avg_jobs_per_company": 6.0,
-      "timestamp": "2026-07-02T04:41:20.707414+00:00"
+      "unique_companies": 222,
+      "avg_jobs_per_company": 5.99,
+      "timestamp": "2026-07-02T08:00:33.618259+00:00"
     }
   ]
 }
