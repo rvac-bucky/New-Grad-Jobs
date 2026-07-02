@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-02T15:11:11.221814+00:00",
+    "last_updated": "2026-07-02T17:05:31.939244+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-03",
@@ -5160,21 +5160,21 @@
     },
     {
       "date": "2026-07-02",
-      "total_jobs": 1340,
+      "total_jobs": 1360,
       "categories": {
-        "software_engineering": 889,
-        "data_ml": 137,
-        "infrastructure_sre": 155,
-        "hardware": 11,
-        "other": 116,
+        "software_engineering": 903,
+        "data_ml": 139,
+        "infrastructure_sre": 159,
+        "hardware": 9,
+        "other": 118,
         "data_engineering": 28,
         "quant_finance": 3,
         "product_management": 1
       },
       "tiers": {
-        "unicorn": 682,
-        "other": 540,
-        "faang_plus": 118
+        "unicorn": 680,
+        "other": 542,
+        "faang_plus": 138
       },
       "top_companies": [
         {
@@ -5183,11 +5183,15 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 190
+          "jobs": 189
         },
         {
           "company": "OpenAI",
           "jobs": 47
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 42
         },
         {
           "company": "Waymo",
@@ -5195,11 +5199,11 @@
         },
         {
           "company": "University of Ottawa",
-          "jobs": 34
+          "jobs": 30
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 27
+          "company": "Boeing",
+          "jobs": 23
         },
         {
           "company": "Pinterest",
@@ -5212,15 +5216,11 @@
         {
           "company": "Glean",
           "jobs": 22
-        },
-        {
-          "company": "Affirm",
-          "jobs": 22
         }
       ],
-      "unique_companies": 216,
-      "avg_jobs_per_company": 6.2,
-      "timestamp": "2026-07-02T15:11:11.220936+00:00"
+      "unique_companies": 214,
+      "avg_jobs_per_company": 6.36,
+      "timestamp": "2026-07-02T17:05:31.938328+00:00"
     }
   ]
 }
