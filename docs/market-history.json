@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-03T17:02:21.719845+00:00",
+    "last_updated": "2026-07-03T18:23:50.328493+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-04",
@@ -5169,21 +5169,21 @@
     },
     {
       "date": "2026-07-03",
-      "total_jobs": 1386,
+      "total_jobs": 1419,
       "categories": {
-        "software_engineering": 894,
+        "infrastructure_sre": 173,
+        "software_engineering": 924,
         "data_ml": 143,
-        "infrastructure_sre": 169,
         "data_engineering": 29,
-        "other": 130,
-        "hardware": 12,
+        "other": 128,
+        "hardware": 13,
         "quant_finance": 7,
         "product_management": 2
       },
       "tiers": {
-        "other": 574,
         "unicorn": 683,
-        "faang_plus": 129
+        "other": 606,
+        "faang_plus": 130
       },
       "top_companies": [
         {
@@ -5199,12 +5199,16 @@
           "jobs": 47
         },
         {
-          "company": "University of Ottawa",
-          "jobs": 43
-        },
-        {
           "company": "Waymo",
           "jobs": 41
+        },
+        {
+          "company": "University of Ottawa",
+          "jobs": 41
+        },
+        {
+          "company": "Accenture",
+          "jobs": 29
         },
         {
           "company": "Northrop Grumman",
@@ -5221,15 +5225,11 @@
         {
           "company": "Glean",
           "jobs": 23
-        },
-        {
-          "company": "Robinhood",
-          "jobs": 22
         }
       ],
-      "unique_companies": 219,
-      "avg_jobs_per_company": 6.33,
-      "timestamp": "2026-07-03T17:02:21.718815+00:00"
+      "unique_companies": 223,
+      "avg_jobs_per_company": 6.36,
+      "timestamp": "2026-07-03T18:23:50.327347+00:00"
     }
   ]
 }
