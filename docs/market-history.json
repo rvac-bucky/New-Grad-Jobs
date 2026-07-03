@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-03T05:14:51.469070+00:00",
+    "last_updated": "2026-07-03T08:32:38.536243+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-04",
@@ -5169,21 +5169,21 @@
     },
     {
       "date": "2026-07-03",
-      "total_jobs": 1364,
+      "total_jobs": 1363,
       "categories": {
-        "software_engineering": 919,
-        "infrastructure_sre": 157,
+        "data_engineering": 27,
+        "software_engineering": 912,
+        "infrastructure_sre": 156,
         "data_ml": 138,
-        "other": 109,
-        "data_engineering": 25,
+        "other": 114,
         "product_management": 2,
         "quant_finance": 6,
         "hardware": 8
       },
       "tiers": {
         "unicorn": 685,
-        "other": 549,
-        "faang_plus": 130
+        "other": 546,
+        "faang_plus": 132
       },
       "top_companies": [
         {
@@ -5211,10 +5211,6 @@
           "jobs": 28
         },
         {
-          "company": "Accenture",
-          "jobs": 25
-        },
-        {
           "company": "Pinterest",
           "jobs": 23
         },
@@ -5225,11 +5221,15 @@
         {
           "company": "Robinhood",
           "jobs": 22
+        },
+        {
+          "company": "Affirm",
+          "jobs": 22
         }
       ],
-      "unique_companies": 214,
-      "avg_jobs_per_company": 6.37,
-      "timestamp": "2026-07-03T05:14:51.468109+00:00"
+      "unique_companies": 216,
+      "avg_jobs_per_company": 6.31,
+      "timestamp": "2026-07-03T08:32:38.533943+00:00"
     }
   ]
 }
