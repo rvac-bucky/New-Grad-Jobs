@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-06T09:48:13.110281+00:00",
+    "last_updated": "2026-07-06T13:38:44.983459+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-07",
@@ -5196,26 +5196,30 @@
     },
     {
       "date": "2026-07-06",
-      "total_jobs": 1175,
+      "total_jobs": 1352,
       "categories": {
-        "software_engineering": 732,
-        "data_ml": 107,
-        "other": 131,
+        "software_engineering": 882,
+        "data_ml": 143,
+        "other": 129,
+        "infrastructure_sre": 153,
         "data_engineering": 28,
-        "infrastructure_sre": 159,
-        "hardware": 9,
         "quant_finance": 7,
-        "product_management": 2
+        "product_management": 2,
+        "hardware": 8
       },
       "tiers": {
-        "other": 371,
-        "unicorn": 676,
+        "other": 550,
+        "unicorn": 674,
         "faang_plus": 128
       },
       "top_companies": [
         {
           "company": "SpaceX",
           "jobs": 213
+        },
+        {
+          "company": "Anduril Industries",
+          "jobs": 188
         },
         {
           "company": "OpenAI",
@@ -5227,15 +5231,15 @@
         },
         {
           "company": "University of Ottawa",
-          "jobs": 39
+          "jobs": 38
         },
         {
           "company": "Boeing",
-          "jobs": 28
+          "jobs": 27
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 27
+          "jobs": 26
         },
         {
           "company": "Pinterest",
@@ -5248,15 +5252,11 @@
         {
           "company": "Robinhood",
           "jobs": 22
-        },
-        {
-          "company": "Affirm",
-          "jobs": 22
         }
       ],
-      "unique_companies": 219,
-      "avg_jobs_per_company": 5.37,
-      "timestamp": "2026-07-06T09:48:13.109153+00:00"
+      "unique_companies": 215,
+      "avg_jobs_per_company": 6.29,
+      "timestamp": "2026-07-06T13:38:44.982503+00:00"
     }
   ]
 }
