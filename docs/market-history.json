@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-08T00:13:20.042951+00:00",
+    "last_updated": "2026-07-08T03:47:58.740596+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-09",
@@ -5214,21 +5214,21 @@
     },
     {
       "date": "2026-07-08",
-      "total_jobs": 1325,
+      "total_jobs": 1357,
       "categories": {
-        "software_engineering": 874,
-        "data_ml": 139,
-        "hardware": 11,
-        "data_engineering": 23,
+        "software_engineering": 898,
+        "data_ml": 141,
         "other": 128,
-        "infrastructure_sre": 143,
+        "hardware": 11,
+        "data_engineering": 24,
+        "infrastructure_sre": 147,
         "product_management": 3,
-        "quant_finance": 4
+        "quant_finance": 5
       },
       "tiers": {
-        "faang_plus": 128,
-        "other": 526,
-        "unicorn": 671
+        "other": 561,
+        "unicorn": 671,
+        "faang_plus": 125
       },
       "top_companies": [
         {
@@ -5237,7 +5237,7 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 192
+          "jobs": 193
         },
         {
           "company": "Waymo",
@@ -5249,18 +5249,18 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 31
+          "jobs": 32
+        },
+        {
+          "company": "Accenture",
+          "jobs": 28
         },
         {
           "company": "Leidos",
-          "jobs": 24
+          "jobs": 25
         },
         {
           "company": "Glean",
-          "jobs": 23
-        },
-        {
-          "company": "University of Ottawa",
           "jobs": 23
         },
         {
@@ -5272,9 +5272,9 @@
           "jobs": 21
         }
       ],
-      "unique_companies": 211,
+      "unique_companies": 216,
       "avg_jobs_per_company": 6.28,
-      "timestamp": "2026-07-08T00:13:20.040552+00:00"
+      "timestamp": "2026-07-08T03:47:58.739614+00:00"
     }
   ]
 }
