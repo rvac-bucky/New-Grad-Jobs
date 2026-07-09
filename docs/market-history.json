@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-09T20:32:56.847067+00:00",
+    "last_updated": "2026-07-09T22:09:40.662837+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-10",
@@ -5223,30 +5223,30 @@
     },
     {
       "date": "2026-07-09",
-      "total_jobs": 1369,
+      "total_jobs": 1377,
       "categories": {
+        "data_ml": 157,
+        "infrastructure_sre": 153,
         "software_engineering": 898,
-        "infrastructure_sre": 150,
-        "data_ml": 154,
-        "data_engineering": 22,
-        "other": 124,
+        "data_engineering": 24,
+        "other": 125,
         "hardware": 13,
-        "quant_finance": 6,
+        "quant_finance": 5,
         "product_management": 2
       },
       "tiers": {
-        "other": 557,
-        "unicorn": 672,
-        "faang_plus": 140
+        "other": 555,
+        "unicorn": 671,
+        "faang_plus": 151
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 222
+          "jobs": 223
         },
         {
           "company": "Anduril Industries",
-          "jobs": 194
+          "jobs": 195
         },
         {
           "company": "Waymo",
@@ -5258,11 +5258,15 @@
         },
         {
           "company": "Boeing",
-          "jobs": 40
+          "jobs": 39
         },
         {
-          "company": "Accenture",
-          "jobs": 22
+          "company": "Northrop Grumman",
+          "jobs": 27
+        },
+        {
+          "company": "Leidos",
+          "jobs": 24
         },
         {
           "company": "Pinterest",
@@ -5275,15 +5279,11 @@
         {
           "company": "Stripe",
           "jobs": 21
-        },
-        {
-          "company": "Leidos",
-          "jobs": 21
         }
       ],
-      "unique_companies": 226,
-      "avg_jobs_per_company": 6.06,
-      "timestamp": "2026-07-09T20:32:56.846145+00:00"
+      "unique_companies": 220,
+      "avg_jobs_per_company": 6.26,
+      "timestamp": "2026-07-09T22:09:40.661836+00:00"
     }
   ]
 }
