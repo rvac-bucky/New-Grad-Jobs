@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-11T18:18:03.797303+00:00",
+    "last_updated": "2026-07-11T19:39:38.420346+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-12",
@@ -5243,19 +5243,19 @@
       "date": "2026-07-11",
       "total_jobs": 1376,
       "categories": {
+        "software_engineering": 899,
         "data_ml": 143,
-        "software_engineering": 895,
-        "other": 130,
-        "infrastructure_sre": 157,
-        "hardware": 18,
+        "other": 128,
+        "infrastructure_sre": 156,
+        "hardware": 17,
         "quant_finance": 6,
         "data_engineering": 25,
         "product_management": 2
       },
       "tiers": {
         "unicorn": 678,
-        "other": 579,
-        "faang_plus": 119
+        "other": 575,
+        "faang_plus": 123
       },
       "top_companies": [
         {
@@ -5279,6 +5279,10 @@
           "jobs": 26
         },
         {
+          "company": "Northrop Grumman",
+          "jobs": 24
+        },
+        {
           "company": "Stripe",
           "jobs": 22
         },
@@ -5293,15 +5297,11 @@
         {
           "company": "Leidos",
           "jobs": 21
-        },
-        {
-          "company": "Pinterest",
-          "jobs": 21
         }
       ],
-      "unique_companies": 236,
-      "avg_jobs_per_company": 5.83,
-      "timestamp": "2026-07-11T18:18:03.795119+00:00"
+      "unique_companies": 234,
+      "avg_jobs_per_company": 5.88,
+      "timestamp": "2026-07-11T19:39:38.419301+00:00"
     }
   ]
 }
