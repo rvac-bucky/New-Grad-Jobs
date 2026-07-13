@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-13T18:14:10.173548+00:00",
+    "last_updated": "2026-07-13T19:54:02.509655+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-14",
@@ -5259,21 +5259,21 @@
     },
     {
       "date": "2026-07-13",
-      "total_jobs": 1374,
+      "total_jobs": 1368,
       "categories": {
-        "software_engineering": 896,
-        "other": 128,
+        "software_engineering": 892,
         "data_ml": 147,
-        "infrastructure_sre": 157,
-        "data_engineering": 25,
-        "quant_finance": 4,
-        "hardware": 15,
+        "other": 125,
+        "infrastructure_sre": 159,
+        "data_engineering": 24,
+        "quant_finance": 5,
+        "hardware": 14,
         "product_management": 2
       },
       "tiers": {
-        "unicorn": 682,
-        "other": 582,
-        "faang_plus": 110
+        "faang_plus": 106,
+        "unicorn": 678,
+        "other": 584
       },
       "top_companies": [
         {
@@ -5290,11 +5290,7 @@
         },
         {
           "company": "OpenAI",
-          "jobs": 36
-        },
-        {
-          "company": "Glean",
-          "jobs": 26
+          "jobs": 38
         },
         {
           "company": "Affirm",
@@ -5302,7 +5298,7 @@
         },
         {
           "company": "Leidos",
-          "jobs": 24
+          "jobs": 23
         },
         {
           "company": "Stripe",
@@ -5315,11 +5311,15 @@
         {
           "company": "xAI",
           "jobs": 20
+        },
+        {
+          "company": "Glean",
+          "jobs": 19
         }
       ],
-      "unique_companies": 246,
-      "avg_jobs_per_company": 5.59,
-      "timestamp": "2026-07-13T18:14:10.172659+00:00"
+      "unique_companies": 250,
+      "avg_jobs_per_company": 5.47,
+      "timestamp": "2026-07-13T19:54:02.507488+00:00"
     }
   ]
 }
