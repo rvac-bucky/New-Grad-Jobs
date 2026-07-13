@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-13T22:45:13.750189+00:00",
+    "last_updated": "2026-07-13T23:41:42.600353+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-14",
@@ -5259,21 +5259,21 @@
     },
     {
       "date": "2026-07-13",
-      "total_jobs": 1406,
+      "total_jobs": 1394,
       "categories": {
-        "infrastructure_sre": 168,
-        "data_ml": 152,
-        "software_engineering": 909,
-        "data_engineering": 23,
-        "other": 132,
+        "software_engineering": 900,
+        "data_ml": 153,
+        "infrastructure_sre": 166,
+        "data_engineering": 22,
+        "other": 130,
         "quant_finance": 6,
-        "hardware": 14,
+        "hardware": 15,
         "product_management": 2
       },
       "tiers": {
-        "other": 623,
-        "unicorn": 681,
-        "faang_plus": 102
+        "other": 602,
+        "faang_plus": 110,
+        "unicorn": 682
       },
       "top_companies": [
         {
@@ -5282,7 +5282,7 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 197
+          "jobs": 198
         },
         {
           "company": "Waymo",
@@ -5294,19 +5294,15 @@
         },
         {
           "company": "Leidos",
-          "jobs": 25
+          "jobs": 26
         },
         {
           "company": "Affirm",
           "jobs": 24
         },
         {
-          "company": "Base-2 Solutions, LLC",
-          "jobs": 24
-        },
-        {
           "company": "University of Ottawa",
-          "jobs": 24
+          "jobs": 21
         },
         {
           "company": "Stripe",
@@ -5315,11 +5311,15 @@
         {
           "company": "Pinterest",
           "jobs": 21
+        },
+        {
+          "company": "xAI",
+          "jobs": 20
         }
       ],
-      "unique_companies": 245,
-      "avg_jobs_per_company": 5.74,
-      "timestamp": "2026-07-13T22:45:13.749037+00:00"
+      "unique_companies": 244,
+      "avg_jobs_per_company": 5.71,
+      "timestamp": "2026-07-13T23:41:42.599382+00:00"
     }
   ]
 }
