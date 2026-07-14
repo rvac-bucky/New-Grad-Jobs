@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-14T12:01:47.290601+00:00",
+    "last_updated": "2026-07-14T13:53:51.177057+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-15",
@@ -5268,21 +5268,21 @@
     },
     {
       "date": "2026-07-14",
-      "total_jobs": 1389,
+      "total_jobs": 1385,
       "categories": {
-        "software_engineering": 915,
-        "data_ml": 151,
         "infrastructure_sre": 161,
-        "other": 112,
+        "software_engineering": 914,
+        "data_ml": 151,
+        "data_engineering": 23,
+        "other": 110,
         "hardware": 20,
-        "data_engineering": 24,
         "quant_finance": 4,
         "product_management": 2
       },
       "tiers": {
-        "other": 585,
-        "unicorn": 676,
-        "faang_plus": 128
+        "other": 582,
+        "unicorn": 677,
+        "faang_plus": 126
       },
       "top_companies": [
         {
@@ -5291,7 +5291,7 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 198
+          "jobs": 199
         },
         {
           "company": "Waymo",
@@ -5303,7 +5303,7 @@
         },
         {
           "company": "Leidos",
-          "jobs": 30
+          "jobs": 28
         },
         {
           "company": "Affirm",
@@ -5326,9 +5326,9 @@
           "jobs": 18
         }
       ],
-      "unique_companies": 247,
-      "avg_jobs_per_company": 5.62,
-      "timestamp": "2026-07-14T12:01:47.289589+00:00"
+      "unique_companies": 251,
+      "avg_jobs_per_company": 5.52,
+      "timestamp": "2026-07-14T13:53:51.176053+00:00"
     }
   ]
 }
