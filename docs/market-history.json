@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-16T17:55:51.652483+00:00",
+    "last_updated": "2026-07-16T19:02:08.883751+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-17",
@@ -5286,21 +5286,21 @@
     },
     {
       "date": "2026-07-16",
-      "total_jobs": 1426,
+      "total_jobs": 1423,
       "categories": {
-        "software_engineering": 930,
-        "data_ml": 141,
+        "infrastructure_sre": 153,
+        "software_engineering": 927,
         "data_engineering": 21,
         "product_management": 3,
-        "infrastructure_sre": 157,
-        "other": 152,
-        "hardware": 18,
+        "data_ml": 142,
+        "other": 154,
+        "hardware": 19,
         "quant_finance": 4
       },
       "tiers": {
-        "unicorn": 674,
-        "other": 594,
-        "faang_plus": 158
+        "other": 586,
+        "unicorn": 676,
+        "faang_plus": 161
       },
       "top_companies": [
         {
@@ -5316,37 +5316,37 @@
           "jobs": 42
         },
         {
+          "company": "Boeing",
+          "jobs": 38
+        },
+        {
           "company": "OpenAI",
           "jobs": 38
         },
         {
-          "company": "Boeing",
-          "jobs": 35
-        },
-        {
           "company": "Northrop Grumman",
-          "jobs": 29
+          "jobs": 30
         },
         {
           "company": "Accenture",
-          "jobs": 26
-        },
-        {
-          "company": "xAI",
-          "jobs": 21
-        },
-        {
-          "company": "Stripe",
-          "jobs": 21
+          "jobs": 25
         },
         {
           "company": "Affirm",
           "jobs": 21
+        },
+        {
+          "company": "Pinterest",
+          "jobs": 21
+        },
+        {
+          "company": "xAI",
+          "jobs": 21
         }
       ],
-      "unique_companies": 235,
-      "avg_jobs_per_company": 6.07,
-      "timestamp": "2026-07-16T17:55:51.651116+00:00"
+      "unique_companies": 233,
+      "avg_jobs_per_company": 6.11,
+      "timestamp": "2026-07-16T19:02:08.882544+00:00"
     }
   ]
 }
