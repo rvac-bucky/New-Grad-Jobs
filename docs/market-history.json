@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-16T12:58:46.502615+00:00",
+    "last_updated": "2026-07-16T15:07:20.037724+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-17",
@@ -5286,21 +5286,21 @@
     },
     {
       "date": "2026-07-16",
-      "total_jobs": 1382,
+      "total_jobs": 1391,
       "categories": {
-        "data_ml": 144,
-        "software_engineering": 892,
-        "infrastructure_sre": 153,
-        "data_engineering": 21,
+        "software_engineering": 901,
+        "infrastructure_sre": 154,
+        "data_ml": 145,
+        "other": 143,
+        "data_engineering": 22,
         "hardware": 19,
-        "other": 146,
         "quant_finance": 4,
         "product_management": 3
       },
       "tiers": {
         "unicorn": 671,
-        "other": 564,
-        "faang_plus": 147
+        "faang_plus": 148,
+        "other": 572
       },
       "top_companies": [
         {
@@ -5309,7 +5309,7 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 197
+          "jobs": 195
         },
         {
           "company": "Waymo",
@@ -5321,11 +5321,15 @@
         },
         {
           "company": "Boeing",
-          "jobs": 30
+          "jobs": 32
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 28
+          "jobs": 27
+        },
+        {
+          "company": "Stripe",
+          "jobs": 21
         },
         {
           "company": "xAI",
@@ -5336,17 +5340,13 @@
           "jobs": 21
         },
         {
-          "company": "Stripe",
-          "jobs": 20
-        },
-        {
-          "company": "Pinterest",
+          "company": "Leidos",
           "jobs": 20
         }
       ],
-      "unique_companies": 235,
-      "avg_jobs_per_company": 5.88,
-      "timestamp": "2026-07-16T12:58:46.501478+00:00"
+      "unique_companies": 233,
+      "avg_jobs_per_company": 5.97,
+      "timestamp": "2026-07-16T15:07:20.036605+00:00"
     }
   ]
 }
