@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-18T08:16:30.110916+00:00",
+    "last_updated": "2026-07-18T09:53:29.316413+00:00",
     "total_snapshots": 89,
     "date_range": {
       "start": "2026-04-20",
@@ -5304,21 +5304,21 @@
     },
     {
       "date": "2026-07-18",
-      "total_jobs": 1274,
+      "total_jobs": 1378,
       "categories": {
-        "software_engineering": 881,
-        "data_ml": 141,
-        "infrastructure_sre": 129,
-        "hardware": 14,
-        "data_engineering": 22,
+        "data_engineering": 23,
+        "software_engineering": 932,
+        "data_ml": 145,
+        "infrastructure_sre": 143,
+        "other": 112,
         "product_management": 4,
-        "other": 78,
+        "hardware": 14,
         "quant_finance": 5
       },
       "tiers": {
         "unicorn": 686,
-        "other": 521,
-        "faang_plus": 67
+        "other": 542,
+        "faang_plus": 150
       },
       "top_companies": [
         {
@@ -5338,7 +5338,15 @@
           "jobs": 38
         },
         {
+          "company": "Northrop Grumman",
+          "jobs": 38
+        },
+        {
           "company": "Accenture",
+          "jobs": 24
+        },
+        {
+          "company": "Boeing",
           "jobs": 24
         },
         {
@@ -5352,19 +5360,11 @@
         {
           "company": "Figma",
           "jobs": 21
-        },
-        {
-          "company": "Stripe",
-          "jobs": 21
-        },
-        {
-          "company": "Scale AI",
-          "jobs": 20
         }
       ],
       "unique_companies": 211,
-      "avg_jobs_per_company": 6.04,
-      "timestamp": "2026-07-18T08:16:30.108723+00:00"
+      "avg_jobs_per_company": 6.53,
+      "timestamp": "2026-07-18T09:53:29.315146+00:00"
     }
   ]
 }
