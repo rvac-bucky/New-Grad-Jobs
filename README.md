@@ -22,11 +22,11 @@
 ---
 
 <!-- COUNTS:START - counts below are auto-synced from docs/jobs.json by scripts/sync_readme_counts.py -->
-## 📂 Browse <!-- COUNT:total -->1383<!-- /COUNT --> Jobs by Category
+## 📂 Browse <!-- COUNT:total -->1378<!-- /COUNT --> Jobs by Category
 
-💻 [Software Engineering](#software-engineering) (<!-- COUNT:software_engineering -->931<!-- /COUNT -->)
+💻 [Software Engineering](#software-engineering) (<!-- COUNT:software_engineering -->929<!-- /COUNT -->)
 
-🤖 [Data Science & ML](#data-science--ml) (<!-- COUNT:data_ml -->148<!-- /COUNT -->)
+🤖 [Data Science & ML](#data-science--ml) (<!-- COUNT:data_ml -->147<!-- /COUNT -->)
 
 📊 [Data Engineering](#data-engineering) (<!-- COUNT:data_engineering -->23<!-- /COUNT -->)
 
@@ -34,7 +34,7 @@
 
 🔧 [Hardware Engineering](#hardware-engineering) (<!-- COUNT:hardware -->16<!-- /COUNT -->)
 
-💼 [Other](#other) (<!-- COUNT:other -->111<!-- /COUNT -->)
+💼 [Other](#other) (<!-- COUNT:other -->109<!-- /COUNT -->)
 <!-- COUNTS:END -->
 
 ---
@@ -1201,4 +1201,4 @@ Found a job we're missing? Want to report a closed position?
 
 ⭐ **Star this repo** to stay updated with the latest new grad opportunities!
 
-*Last updated: 2026-07-18 17:39:01 UTC*
+*Last updated: 2026-07-18 18:38:33 UTC*
