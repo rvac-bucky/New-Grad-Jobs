@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-19T07:14:42.271245+00:00",
+    "last_updated": "2026-07-19T09:22:00.528186+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-04-20",
@@ -5368,10 +5368,10 @@
     },
     {
       "date": "2026-07-19",
-      "total_jobs": 1378,
+      "total_jobs": 1182,
       "categories": {
-        "software_engineering": 932,
-        "data_ml": 144,
+        "software_engineering": 773,
+        "data_ml": 107,
         "infrastructure_sre": 140,
         "data_engineering": 23,
         "other": 114,
@@ -5381,17 +5381,13 @@
       },
       "tiers": {
         "unicorn": 687,
-        "other": 531,
-        "faang_plus": 160
+        "other": 334,
+        "faang_plus": 161
       },
       "top_companies": [
         {
           "company": "SpaceX",
           "jobs": 229
-        },
-        {
-          "company": "Anduril Industries",
-          "jobs": 198
         },
         {
           "company": "Waymo",
@@ -5424,11 +5420,15 @@
         {
           "company": "Stripe",
           "jobs": 21
+        },
+        {
+          "company": "Scale AI",
+          "jobs": 20
         }
       ],
-      "unique_companies": 213,
-      "avg_jobs_per_company": 6.47,
-      "timestamp": "2026-07-19T07:14:42.270316+00:00"
+      "unique_companies": 214,
+      "avg_jobs_per_company": 5.52,
+      "timestamp": "2026-07-19T09:22:00.527112+00:00"
     }
   ]
 }
