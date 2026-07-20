@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-20T18:55:41.023781+00:00",
+    "last_updated": "2026-07-20T20:21:17.531245+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-04-21",
@@ -5377,21 +5377,21 @@
     },
     {
       "date": "2026-07-20",
-      "total_jobs": 1363,
+      "total_jobs": 1343,
       "categories": {
-        "software_engineering": 906,
-        "data_ml": 143,
-        "infrastructure_sre": 143,
+        "infrastructure_sre": 147,
+        "software_engineering": 892,
+        "data_ml": 141,
         "product_management": 4,
-        "other": 121,
+        "other": 114,
         "data_engineering": 25,
-        "hardware": 18,
-        "quant_finance": 3
+        "hardware": 16,
+        "quant_finance": 4
       },
       "tiers": {
-        "unicorn": 685,
-        "other": 539,
-        "faang_plus": 139
+        "other": 527,
+        "unicorn": 679,
+        "faang_plus": 137
       },
       "top_companies": [
         {
@@ -5400,7 +5400,7 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 199
+          "jobs": 193
         },
         {
           "company": "Waymo",
@@ -5408,7 +5408,7 @@
         },
         {
           "company": "OpenAI",
-          "jobs": 36
+          "jobs": 35
         },
         {
           "company": "Northrop Grumman",
@@ -5416,11 +5416,7 @@
         },
         {
           "company": "xAI",
-          "jobs": 22
-        },
-        {
-          "company": "Pinterest",
-          "jobs": 21
+          "jobs": 23
         },
         {
           "company": "Scale AI",
@@ -5433,11 +5429,15 @@
         {
           "company": "Stripe",
           "jobs": 21
+        },
+        {
+          "company": "Pinterest",
+          "jobs": 20
         }
       ],
-      "unique_companies": 233,
-      "avg_jobs_per_company": 5.85,
-      "timestamp": "2026-07-20T18:55:41.022764+00:00"
+      "unique_companies": 226,
+      "avg_jobs_per_company": 5.94,
+      "timestamp": "2026-07-20T20:21:17.529184+00:00"
     }
   ]
 }
