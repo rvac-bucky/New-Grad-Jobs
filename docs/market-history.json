@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-22T18:56:19.301741+00:00",
+    "last_updated": "2026-07-22T20:12:04.685726+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-04-23",
@@ -5397,19 +5397,19 @@
       "date": "2026-07-22",
       "total_jobs": 1366,
       "categories": {
+        "software_engineering": 905,
         "infrastructure_sre": 146,
-        "software_engineering": 904,
-        "data_ml": 139,
-        "data_engineering": 27,
-        "other": 125,
-        "hardware": 17,
+        "data_ml": 140,
+        "data_engineering": 28,
+        "other": 128,
+        "quant_finance": 7,
         "product_management": 3,
-        "quant_finance": 5
+        "hardware": 9
       },
       "tiers": {
-        "unicorn": 684,
-        "faang_plus": 150,
-        "other": 532
+        "other": 533,
+        "unicorn": 683,
+        "faang_plus": 150
       },
       "top_companies": [
         {
@@ -5418,7 +5418,7 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 191
+          "jobs": 192
         },
         {
           "company": "Waymo",
@@ -5430,6 +5430,10 @@
         },
         {
           "company": "xAI",
+          "jobs": 25
+        },
+        {
+          "company": "Leidos",
           "jobs": 25
         },
         {
@@ -5447,15 +5451,11 @@
         {
           "company": "Anthropic",
           "jobs": 21
-        },
-        {
-          "company": "Leidos",
-          "jobs": 21
         }
       ],
-      "unique_companies": 224,
-      "avg_jobs_per_company": 6.1,
-      "timestamp": "2026-07-22T18:56:19.300903+00:00"
+      "unique_companies": 219,
+      "avg_jobs_per_company": 6.24,
+      "timestamp": "2026-07-22T20:12:04.684423+00:00"
     }
   ]
 }
