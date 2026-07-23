@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-23T15:32:07.633522+00:00",
+    "last_updated": "2026-07-23T17:05:55.245915+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-04-24",
@@ -5404,21 +5404,21 @@
     },
     {
       "date": "2026-07-23",
-      "total_jobs": 1374,
+      "total_jobs": 1364,
       "categories": {
-        "software_engineering": 916,
-        "data_ml": 142,
         "infrastructure_sre": 145,
-        "other": 120,
-        "data_engineering": 29,
-        "hardware": 15,
+        "data_engineering": 28,
+        "software_engineering": 918,
+        "data_ml": 138,
+        "other": 114,
+        "hardware": 14,
         "quant_finance": 4,
         "product_management": 3
       },
       "tiers": {
-        "unicorn": 686,
-        "faang_plus": 156,
-        "other": 532
+        "unicorn": 682,
+        "other": 522,
+        "faang_plus": 160
       },
       "top_companies": [
         {
@@ -5427,11 +5427,11 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 193
+          "jobs": 197
         },
         {
           "company": "Waymo",
-          "jobs": 41
+          "jobs": 40
         },
         {
           "company": "OpenAI",
@@ -5439,14 +5439,14 @@
         },
         {
           "company": "Boeing",
-          "jobs": 28
+          "jobs": 30
         },
         {
           "company": "xAI",
           "jobs": 26
         },
         {
-          "company": "Leidos",
+          "company": "Northrop Grumman",
           "jobs": 24
         },
         {
@@ -5454,7 +5454,7 @@
           "jobs": 22
         },
         {
-          "company": "Northrop Grumman",
+          "company": "Leidos",
           "jobs": 22
         },
         {
@@ -5462,9 +5462,9 @@
           "jobs": 21
         }
       ],
-      "unique_companies": 226,
-      "avg_jobs_per_company": 6.08,
-      "timestamp": "2026-07-23T15:32:07.632624+00:00"
+      "unique_companies": 221,
+      "avg_jobs_per_company": 6.17,
+      "timestamp": "2026-07-23T17:05:55.244929+00:00"
     }
   ]
 }
