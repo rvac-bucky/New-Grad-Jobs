@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-23T17:05:55.245915+00:00",
+    "last_updated": "2026-07-23T18:26:00.829849+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-04-24",
@@ -5404,21 +5404,21 @@
     },
     {
       "date": "2026-07-23",
-      "total_jobs": 1364,
+      "total_jobs": 1389,
       "categories": {
-        "infrastructure_sre": 145,
-        "data_engineering": 28,
-        "software_engineering": 918,
+        "software_engineering": 951,
         "data_ml": 138,
-        "other": 114,
-        "hardware": 14,
+        "infrastructure_sre": 142,
+        "data_engineering": 29,
+        "other": 109,
+        "hardware": 13,
         "quant_finance": 4,
         "product_management": 3
       },
       "tiers": {
-        "unicorn": 682,
-        "other": 522,
-        "faang_plus": 160
+        "other": 544,
+        "unicorn": 683,
+        "faang_plus": 162
       },
       "top_companies": [
         {
@@ -5438,33 +5438,33 @@
           "jobs": 37
         },
         {
+          "company": "Accenture",
+          "jobs": 36
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 28
+        },
+        {
           "company": "Boeing",
-          "jobs": 30
+          "jobs": 28
         },
         {
           "company": "xAI",
           "jobs": 26
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 24
-        },
-        {
           "company": "Stripe",
           "jobs": 22
         },
         {
-          "company": "Leidos",
-          "jobs": 22
-        },
-        {
-          "company": "Anthropic",
+          "company": "Pinterest",
           "jobs": 21
         }
       ],
-      "unique_companies": 221,
-      "avg_jobs_per_company": 6.17,
-      "timestamp": "2026-07-23T17:05:55.244929+00:00"
+      "unique_companies": 208,
+      "avg_jobs_per_company": 6.68,
+      "timestamp": "2026-07-23T18:26:00.828799+00:00"
     }
   ]
 }
