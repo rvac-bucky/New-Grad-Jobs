@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-24T06:21:12.297460+00:00",
+    "last_updated": "2026-07-24T08:52:30.608040+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-04-25",
@@ -5413,19 +5413,19 @@
     },
     {
       "date": "2026-07-24",
-      "total_jobs": 1421,
+      "total_jobs": 1395,
       "categories": {
-        "software_engineering": 954,
-        "infrastructure_sre": 157,
-        "data_ml": 137,
+        "software_engineering": 934,
+        "infrastructure_sre": 154,
+        "data_ml": 136,
+        "quant_finance": 7,
+        "other": 116,
         "data_engineering": 30,
-        "other": 120,
-        "hardware": 14,
-        "quant_finance": 6,
+        "hardware": 15,
         "product_management": 3
       },
       "tiers": {
-        "other": 579,
+        "other": 553,
         "unicorn": 687,
         "faang_plus": 155
       },
@@ -5447,10 +5447,6 @@
           "jobs": 38
         },
         {
-          "company": "Accenture",
-          "jobs": 33
-        },
-        {
           "company": "Boeing",
           "jobs": 29
         },
@@ -5469,11 +5465,15 @@
         {
           "company": "Scale AI",
           "jobs": 21
+        },
+        {
+          "company": "Anthropic",
+          "jobs": 21
         }
       ],
-      "unique_companies": 225,
-      "avg_jobs_per_company": 6.32,
-      "timestamp": "2026-07-24T06:21:12.296386+00:00"
+      "unique_companies": 221,
+      "avg_jobs_per_company": 6.31,
+      "timestamp": "2026-07-24T08:52:30.607153+00:00"
     }
   ]
 }
