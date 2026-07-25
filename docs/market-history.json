@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-25T07:03:36.273198+00:00",
+    "last_updated": "2026-07-25T09:13:16.311425+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-04-26",
@@ -5422,21 +5422,21 @@
     },
     {
       "date": "2026-07-25",
-      "total_jobs": 1291,
+      "total_jobs": 1388,
       "categories": {
-        "data_ml": 135,
-        "data_engineering": 24,
-        "software_engineering": 899,
-        "other": 75,
-        "infrastructure_sre": 133,
-        "quant_finance": 7,
-        "hardware": 15,
+        "data_ml": 140,
+        "data_engineering": 27,
+        "software_engineering": 947,
+        "other": 104,
+        "infrastructure_sre": 145,
+        "quant_finance": 6,
+        "hardware": 16,
         "product_management": 3
       },
       "tiers": {
-        "other": 532,
+        "other": 557,
         "unicorn": 692,
-        "faang_plus": 67
+        "faang_plus": 139
       },
       "top_companies": [
         {
@@ -5464,6 +5464,10 @@
           "jobs": 24
         },
         {
+          "company": "Boeing",
+          "jobs": 24
+        },
+        {
           "company": "Scale AI",
           "jobs": 23
         },
@@ -5472,17 +5476,13 @@
           "jobs": 23
         },
         {
-          "company": "Pinterest",
-          "jobs": 21
-        },
-        {
-          "company": "Anthropic",
-          "jobs": 21
+          "company": "Leidos",
+          "jobs": 23
         }
       ],
-      "unique_companies": 213,
-      "avg_jobs_per_company": 6.06,
-      "timestamp": "2026-07-25T07:03:36.272024+00:00"
+      "unique_companies": 211,
+      "avg_jobs_per_company": 6.58,
+      "timestamp": "2026-07-25T09:13:16.309204+00:00"
     }
   ]
 }
