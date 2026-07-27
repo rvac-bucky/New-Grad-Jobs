@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-27T17:59:03.597363+00:00",
+    "last_updated": "2026-07-27T19:25:25.906723+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-04-28",
@@ -5440,21 +5440,21 @@
     },
     {
       "date": "2026-07-27",
-      "total_jobs": 1438,
+      "total_jobs": 1440,
       "categories": {
-        "software_engineering": 946,
-        "infrastructure_sre": 161,
-        "data_ml": 138,
-        "other": 151,
-        "data_engineering": 24,
-        "quant_finance": 5,
-        "hardware": 10,
-        "product_management": 3
+        "software_engineering": 947,
+        "data_ml": 142,
+        "data_engineering": 23,
+        "infrastructure_sre": 165,
+        "other": 142,
+        "product_management": 4,
+        "hardware": 12,
+        "quant_finance": 5
       },
       "tiers": {
-        "unicorn": 691,
-        "other": 616,
-        "faang_plus": 131
+        "other": 610,
+        "unicorn": 692,
+        "faang_plus": 138
       },
       "top_companies": [
         {
@@ -5463,7 +5463,7 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 205
+          "jobs": 207
         },
         {
           "company": "Waymo",
@@ -5472,6 +5472,10 @@
         {
           "company": "OpenAI",
           "jobs": 38
+        },
+        {
+          "company": "Leidos",
+          "jobs": 27
         },
         {
           "company": "xAI",
@@ -5486,10 +5490,6 @@
           "jobs": 23
         },
         {
-          "company": "Leidos",
-          "jobs": 22
-        },
-        {
           "company": "University of Ottawa",
           "jobs": 21
         },
@@ -5498,9 +5498,9 @@
           "jobs": 21
         }
       ],
-      "unique_companies": 237,
-      "avg_jobs_per_company": 6.07,
-      "timestamp": "2026-07-27T17:59:03.596213+00:00"
+      "unique_companies": 240,
+      "avg_jobs_per_company": 6.0,
+      "timestamp": "2026-07-27T19:25:25.905514+00:00"
     }
   ]
 }
