@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-28T09:14:21.318082+00:00",
+    "last_updated": "2026-07-28T11:33:47.046503+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-04-29",
@@ -5449,21 +5449,21 @@
     },
     {
       "date": "2026-07-28",
-      "total_jobs": 1406,
+      "total_jobs": 1415,
       "categories": {
-        "software_engineering": 940,
-        "data_ml": 142,
-        "other": 119,
+        "software_engineering": 945,
         "infrastructure_sre": 164,
+        "data_ml": 143,
+        "other": 121,
+        "hardware": 11,
         "data_engineering": 22,
-        "hardware": 10,
         "quant_finance": 6,
         "product_management": 3
       },
       "tiers": {
-        "unicorn": 696,
-        "other": 577,
-        "faang_plus": 133
+        "unicorn": 697,
+        "other": 583,
+        "faang_plus": 135
       },
       "top_companies": [
         {
@@ -5487,6 +5487,10 @@
           "jobs": 28
         },
         {
+          "company": "Affirm",
+          "jobs": 24
+        },
+        {
           "company": "xAI",
           "jobs": 24
         },
@@ -5495,21 +5499,17 @@
           "jobs": 24
         },
         {
-          "company": "Affirm",
-          "jobs": 23
-        },
-        {
           "company": "Scale AI",
           "jobs": 23
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 21
+          "jobs": 22
         }
       ],
-      "unique_companies": 233,
-      "avg_jobs_per_company": 6.03,
-      "timestamp": "2026-07-28T09:14:21.317030+00:00"
+      "unique_companies": 238,
+      "avg_jobs_per_company": 5.95,
+      "timestamp": "2026-07-28T11:33:47.045137+00:00"
     }
   ]
 }
