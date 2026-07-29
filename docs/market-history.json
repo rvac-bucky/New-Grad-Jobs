@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-29T17:45:00.825036+00:00",
+    "last_updated": "2026-07-29T18:46:39.539700+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-04-30",
@@ -5458,21 +5458,21 @@
     },
     {
       "date": "2026-07-29",
-      "total_jobs": 1413,
+      "total_jobs": 1424,
       "categories": {
-        "data_ml": 138,
-        "infrastructure_sre": 163,
-        "software_engineering": 952,
-        "data_engineering": 24,
+        "software_engineering": 951,
+        "data_ml": 139,
+        "infrastructure_sre": 168,
+        "data_engineering": 25,
         "product_management": 3,
-        "other": 115,
-        "hardware": 13,
+        "other": 118,
+        "hardware": 15,
         "quant_finance": 5
       },
       "tiers": {
         "unicorn": 693,
-        "other": 589,
-        "faang_plus": 131
+        "other": 596,
+        "faang_plus": 135
       },
       "top_companies": [
         {
@@ -5481,7 +5481,7 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 209
+          "jobs": 210
         },
         {
           "company": "OpenAI",
@@ -5493,18 +5493,14 @@
         },
         {
           "company": "Boeing",
-          "jobs": 29
+          "jobs": 31
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 28
+          "jobs": 29
         },
         {
           "company": "Accenture",
-          "jobs": 27
-        },
-        {
-          "company": "Leidos",
           "jobs": 26
         },
         {
@@ -5512,13 +5508,17 @@
           "jobs": 25
         },
         {
+          "company": "Leidos",
+          "jobs": 25
+        },
+        {
           "company": "Stripe",
           "jobs": 24
         }
       ],
-      "unique_companies": 220,
-      "avg_jobs_per_company": 6.42,
-      "timestamp": "2026-07-29T17:45:00.823942+00:00"
+      "unique_companies": 226,
+      "avg_jobs_per_company": 6.3,
+      "timestamp": "2026-07-29T18:46:39.537536+00:00"
     }
   ]
 }
