@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-29T16:15:33.512773+00:00",
+    "last_updated": "2026-07-29T17:45:00.825036+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-04-30",
@@ -5458,34 +5458,34 @@
     },
     {
       "date": "2026-07-29",
-      "total_jobs": 1392,
+      "total_jobs": 1413,
       "categories": {
-        "software_engineering": 927,
-        "data_engineering": 25,
-        "product_management": 3,
         "data_ml": 138,
+        "infrastructure_sre": 163,
+        "software_engineering": 952,
+        "data_engineering": 24,
+        "product_management": 3,
         "other": 115,
-        "infrastructure_sre": 164,
-        "hardware": 15,
+        "hardware": 13,
         "quant_finance": 5
       },
       "tiers": {
-        "unicorn": 692,
-        "other": 569,
+        "unicorn": 693,
+        "other": 589,
         "faang_plus": 131
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 238
+          "jobs": 237
         },
         {
           "company": "Anduril Industries",
-          "jobs": 210
+          "jobs": 209
         },
         {
           "company": "OpenAI",
-          "jobs": 39
+          "jobs": 40
         },
         {
           "company": "Waymo",
@@ -5493,11 +5493,15 @@
         },
         {
           "company": "Boeing",
-          "jobs": 28
+          "jobs": 29
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 26
+          "jobs": 28
+        },
+        {
+          "company": "Accenture",
+          "jobs": 27
         },
         {
           "company": "Leidos",
@@ -5510,15 +5514,11 @@
         {
           "company": "Stripe",
           "jobs": 24
-        },
-        {
-          "company": "Scale AI",
-          "jobs": 23
         }
       ],
-      "unique_companies": 221,
-      "avg_jobs_per_company": 6.3,
-      "timestamp": "2026-07-29T16:15:33.511927+00:00"
+      "unique_companies": 220,
+      "avg_jobs_per_company": 6.42,
+      "timestamp": "2026-07-29T17:45:00.823942+00:00"
     }
   ]
 }
