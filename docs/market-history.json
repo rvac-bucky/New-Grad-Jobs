@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-29T22:17:40.221881+00:00",
+    "last_updated": "2026-07-29T23:21:00.232918+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-04-30",
@@ -5458,21 +5458,21 @@
     },
     {
       "date": "2026-07-29",
-      "total_jobs": 1434,
+      "total_jobs": 1431,
       "categories": {
-        "software_engineering": 958,
+        "data_ml": 134,
+        "software_engineering": 952,
         "infrastructure_sre": 172,
-        "data_ml": 135,
         "data_engineering": 22,
         "product_management": 4,
-        "other": 125,
-        "hardware": 13,
+        "other": 127,
+        "hardware": 15,
         "quant_finance": 5
       },
       "tiers": {
-        "other": 602,
+        "other": 590,
         "unicorn": 691,
-        "faang_plus": 141
+        "faang_plus": 150
       },
       "top_companies": [
         {
@@ -5488,16 +5488,16 @@
           "jobs": 40
         },
         {
+          "company": "Northrop Grumman",
+          "jobs": 39
+        },
+        {
           "company": "Waymo",
           "jobs": 38
         },
         {
           "company": "Boeing",
-          "jobs": 33
-        },
-        {
-          "company": "Northrop Grumman",
-          "jobs": 30
+          "jobs": 34
         },
         {
           "company": "Stripe",
@@ -5516,9 +5516,9 @@
           "jobs": 23
         }
       ],
-      "unique_companies": 229,
-      "avg_jobs_per_company": 6.26,
-      "timestamp": "2026-07-29T22:17:40.220809+00:00"
+      "unique_companies": 224,
+      "avg_jobs_per_company": 6.39,
+      "timestamp": "2026-07-29T23:21:00.231768+00:00"
     }
   ]
 }
