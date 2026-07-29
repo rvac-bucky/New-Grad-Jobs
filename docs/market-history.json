@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-29T12:27:04.155723+00:00",
+    "last_updated": "2026-07-29T14:43:24.198637+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-04-30",
@@ -5458,26 +5458,30 @@
     },
     {
       "date": "2026-07-29",
-      "total_jobs": 1170,
+      "total_jobs": 1381,
       "categories": {
-        "software_engineering": 749,
-        "data_ml": 105,
-        "infrastructure_sre": 160,
-        "other": 111,
-        "hardware": 17,
-        "data_engineering": 20,
+        "software_engineering": 919,
+        "data_ml": 138,
+        "other": 113,
+        "infrastructure_sre": 166,
+        "hardware": 15,
+        "data_engineering": 22,
         "quant_finance": 5,
         "product_management": 3
       },
       "tiers": {
-        "unicorn": 692,
-        "other": 343,
-        "faang_plus": 135
+        "unicorn": 693,
+        "other": 558,
+        "faang_plus": 130
       },
       "top_companies": [
         {
           "company": "SpaceX",
           "jobs": 238
+        },
+        {
+          "company": "Anduril Industries",
+          "jobs": 209
         },
         {
           "company": "OpenAI",
@@ -5489,7 +5493,7 @@
         },
         {
           "company": "Boeing",
-          "jobs": 27
+          "jobs": 26
         },
         {
           "company": "xAI",
@@ -5504,21 +5508,17 @@
           "jobs": 24
         },
         {
-          "company": "Scale AI",
+          "company": "Leidos",
           "jobs": 23
         },
         {
-          "company": "Affirm",
-          "jobs": 22
-        },
-        {
-          "company": "Pinterest",
-          "jobs": 21
+          "company": "Scale AI",
+          "jobs": 23
         }
       ],
-      "unique_companies": 209,
-      "avg_jobs_per_company": 5.6,
-      "timestamp": "2026-07-29T12:27:04.154581+00:00"
+      "unique_companies": 212,
+      "avg_jobs_per_company": 6.51,
+      "timestamp": "2026-07-29T14:43:24.197608+00:00"
     }
   ]
 }
