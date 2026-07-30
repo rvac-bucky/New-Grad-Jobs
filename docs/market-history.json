@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-30T13:03:11.632846+00:00",
+    "last_updated": "2026-07-30T15:23:19.752659+00:00",
     "total_snapshots": 90,
     "date_range": {
       "start": "2026-05-01",
@@ -5467,26 +5467,26 @@
     },
     {
       "date": "2026-07-30",
-      "total_jobs": 1403,
+      "total_jobs": 1391,
       "categories": {
-        "data_ml": 131,
-        "software_engineering": 928,
-        "infrastructure_sre": 165,
-        "data_engineering": 26,
+        "software_engineering": 925,
+        "data_ml": 133,
         "other": 128,
-        "hardware": 17,
+        "infrastructure_sre": 166,
+        "data_engineering": 22,
         "product_management": 3,
-        "quant_finance": 5
+        "quant_finance": 5,
+        "hardware": 9
       },
       "tiers": {
-        "unicorn": 686,
-        "faang_plus": 151,
-        "other": 566
+        "faang_plus": 141,
+        "other": 566,
+        "unicorn": 684
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 237
+          "jobs": 236
         },
         {
           "company": "Anduril Industries",
@@ -5498,15 +5498,15 @@
         },
         {
           "company": "Waymo",
-          "jobs": 38
+          "jobs": 37
         },
         {
           "company": "Boeing",
-          "jobs": 34
+          "jobs": 33
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 30
+          "jobs": 26
         },
         {
           "company": "Stripe",
@@ -5525,9 +5525,9 @@
           "jobs": 22
         }
       ],
-      "unique_companies": 215,
-      "avg_jobs_per_company": 6.53,
-      "timestamp": "2026-07-30T13:03:11.630872+00:00"
+      "unique_companies": 214,
+      "avg_jobs_per_company": 6.5,
+      "timestamp": "2026-07-30T15:23:19.751583+00:00"
     }
   ]
 }
