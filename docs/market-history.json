@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-02T12:50:29.398431+00:00",
+    "last_updated": "2026-08-02T14:23:47.494008+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-04",
@@ -5549,11 +5549,11 @@
     },
     {
       "date": "2026-08-02",
-      "total_jobs": 1413,
+      "total_jobs": 1417,
       "categories": {
-        "software_engineering": 943,
+        "software_engineering": 944,
         "data_ml": 137,
-        "infrastructure_sre": 161,
+        "infrastructure_sre": 164,
         "other": 126,
         "hardware": 16,
         "data_engineering": 23,
@@ -5561,7 +5561,7 @@
         "quant_finance": 4
       },
       "tiers": {
-        "other": 599,
+        "other": 603,
         "unicorn": 703,
         "faang_plus": 111
       },
@@ -5591,6 +5591,10 @@
           "jobs": 24
         },
         {
+          "company": "Leidos",
+          "jobs": 23
+        },
+        {
           "company": "Stripe",
           "jobs": 23
         },
@@ -5599,17 +5603,13 @@
           "jobs": 23
         },
         {
-          "company": "Leidos",
-          "jobs": 22
-        },
-        {
           "company": "Affirm",
           "jobs": 22
         }
       ],
-      "unique_companies": 220,
-      "avg_jobs_per_company": 6.42,
-      "timestamp": "2026-08-02T12:50:29.397438+00:00"
+      "unique_companies": 222,
+      "avg_jobs_per_company": 6.38,
+      "timestamp": "2026-08-02T14:23:47.492743+00:00"
     }
   ]
 }
