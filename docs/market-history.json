@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-03T20:01:11.265086+00:00",
+    "last_updated": "2026-08-03T21:09:27.883771+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-05",
@@ -5558,21 +5558,21 @@
     },
     {
       "date": "2026-08-03",
-      "total_jobs": 1416,
+      "total_jobs": 1424,
       "categories": {
-        "infrastructure_sre": 160,
-        "data_engineering": 25,
+        "infrastructure_sre": 168,
         "software_engineering": 954,
-        "data_ml": 143,
+        "data_engineering": 25,
+        "data_ml": 145,
         "product_management": 3,
-        "other": 108,
-        "hardware": 19,
-        "quant_finance": 4
+        "other": 106,
+        "hardware": 18,
+        "quant_finance": 5
       },
       "tiers": {
-        "other": 586,
         "unicorn": 703,
-        "faang_plus": 127
+        "other": 596,
+        "faang_plus": 125
       },
       "top_companies": [
         {
@@ -5592,20 +5592,20 @@
           "jobs": 34
         },
         {
-          "company": "Accenture",
-          "jobs": 25
-        },
-        {
           "company": "xAI",
-          "jobs": 25
+          "jobs": 26
         },
         {
           "company": "Leidos",
-          "jobs": 24
+          "jobs": 25
         },
         {
           "company": "Scale AI",
           "jobs": 24
+        },
+        {
+          "company": "Accenture",
+          "jobs": 22
         },
         {
           "company": "Stripe",
@@ -5616,9 +5616,9 @@
           "jobs": 22
         }
       ],
-      "unique_companies": 217,
+      "unique_companies": 218,
       "avg_jobs_per_company": 6.53,
-      "timestamp": "2026-08-03T20:01:11.262601+00:00"
+      "timestamp": "2026-08-03T21:09:27.881637+00:00"
     }
   ]
 }
