@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-04T20:08:26.734335+00:00",
+    "last_updated": "2026-08-04T21:28:41.664540+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-06",
@@ -5567,21 +5567,21 @@
     },
     {
       "date": "2026-08-04",
-      "total_jobs": 1456,
+      "total_jobs": 1474,
       "categories": {
-        "software_engineering": 992,
-        "data_ml": 150,
+        "software_engineering": 989,
+        "infrastructure_sre": 182,
+        "data_ml": 149,
         "data_engineering": 28,
-        "infrastructure_sre": 166,
         "product_management": 3,
-        "other": 95,
-        "hardware": 17,
-        "quant_finance": 5
+        "other": 103,
+        "quant_finance": 6,
+        "hardware": 14
       },
       "tiers": {
         "unicorn": 702,
-        "faang_plus": 163,
-        "other": 591
+        "faang_plus": 158,
+        "other": 614
       },
       "top_companies": [
         {
@@ -5590,7 +5590,7 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 212
+          "jobs": 210
         },
         {
           "company": "OpenAI",
@@ -5614,20 +5614,20 @@
         },
         {
           "company": "Twilio",
+          "jobs": 25
+        },
+        {
+          "company": "Leidos",
           "jobs": 24
         },
         {
           "company": "Scale AI",
           "jobs": 23
-        },
-        {
-          "company": "TikTok",
-          "jobs": 23
         }
       ],
       "unique_companies": 209,
-      "avg_jobs_per_company": 6.97,
-      "timestamp": "2026-08-04T20:08:26.733393+00:00"
+      "avg_jobs_per_company": 7.05,
+      "timestamp": "2026-08-04T21:28:41.663466+00:00"
     }
   ]
 }
