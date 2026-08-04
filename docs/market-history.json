@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-04T14:47:48.337584+00:00",
+    "last_updated": "2026-08-04T16:37:51.197066+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-06",
@@ -5567,30 +5567,30 @@
     },
     {
       "date": "2026-08-04",
-      "total_jobs": 1458,
+      "total_jobs": 1450,
       "categories": {
-        "software_engineering": 968,
-        "other": 108,
-        "data_ml": 150,
-        "infrastructure_sre": 181,
-        "data_engineering": 23,
+        "software_engineering": 972,
+        "data_engineering": 26,
         "product_management": 3,
-        "hardware": 20,
+        "data_ml": 154,
+        "other": 103,
+        "infrastructure_sre": 171,
+        "hardware": 16,
         "quant_finance": 5
       },
       "tiers": {
+        "other": 581,
         "unicorn": 707,
-        "other": 589,
         "faang_plus": 162
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 241
+          "jobs": 242
         },
         {
           "company": "Anduril Industries",
-          "jobs": 213
+          "jobs": 214
         },
         {
           "company": "OpenAI",
@@ -5601,16 +5601,16 @@
           "jobs": 34
         },
         {
-          "company": "TikTok",
-          "jobs": 28
-        },
-        {
           "company": "Northrop Grumman",
-          "jobs": 27
+          "jobs": 33
         },
         {
           "company": "xAI",
           "jobs": 26
+        },
+        {
+          "company": "TikTok",
+          "jobs": 24
         },
         {
           "company": "Scale AI",
@@ -5625,9 +5625,9 @@
           "jobs": 22
         }
       ],
-      "unique_companies": 227,
-      "avg_jobs_per_company": 6.42,
-      "timestamp": "2026-08-04T14:47:48.335426+00:00"
+      "unique_companies": 219,
+      "avg_jobs_per_company": 6.62,
+      "timestamp": "2026-08-04T16:37:51.196127+00:00"
     }
   ]
 }
