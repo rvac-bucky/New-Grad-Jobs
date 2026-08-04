@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-04T16:37:51.197066+00:00",
+    "last_updated": "2026-08-04T18:22:02.149234+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-06",
@@ -5567,21 +5567,21 @@
     },
     {
       "date": "2026-08-04",
-      "total_jobs": 1450,
+      "total_jobs": 1462,
       "categories": {
-        "software_engineering": 972,
         "data_engineering": 26,
+        "software_engineering": 998,
+        "data_ml": 153,
+        "infrastructure_sre": 167,
         "product_management": 3,
-        "data_ml": 154,
-        "other": 103,
-        "infrastructure_sre": 171,
-        "hardware": 16,
+        "other": 95,
+        "hardware": 15,
         "quant_finance": 5
       },
       "tiers": {
-        "other": 581,
-        "unicorn": 707,
-        "faang_plus": 162
+        "other": 589,
+        "faang_plus": 166,
+        "unicorn": 707
       },
       "top_companies": [
         {
@@ -5590,19 +5590,23 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 214
+          "jobs": 213
         },
         {
           "company": "OpenAI",
           "jobs": 45
         },
         {
+          "company": "Northrop Grumman",
+          "jobs": 37
+        },
+        {
           "company": "Waymo",
           "jobs": 34
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 33
+          "company": "Accenture",
+          "jobs": 30
         },
         {
           "company": "xAI",
@@ -5619,15 +5623,11 @@
         {
           "company": "Twilio",
           "jobs": 22
-        },
-        {
-          "company": "Stripe",
-          "jobs": 22
         }
       ],
-      "unique_companies": 219,
-      "avg_jobs_per_company": 6.62,
-      "timestamp": "2026-08-04T16:37:51.196127+00:00"
+      "unique_companies": 209,
+      "avg_jobs_per_company": 7.0,
+      "timestamp": "2026-08-04T18:22:02.148105+00:00"
     }
   ]
 }
