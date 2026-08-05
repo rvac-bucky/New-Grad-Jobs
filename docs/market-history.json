@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-05T01:11:57.516363+00:00",
+    "last_updated": "2026-08-05T04:32:56.721293+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-07",
@@ -5576,30 +5576,30 @@
     },
     {
       "date": "2026-08-05",
-      "total_jobs": 1471,
+      "total_jobs": 1463,
       "categories": {
-        "software_engineering": 992,
-        "other": 112,
-        "data_engineering": 27,
+        "software_engineering": 984,
+        "data_ml": 147,
+        "other": 111,
+        "data_engineering": 28,
         "infrastructure_sre": 170,
-        "data_ml": 145,
         "product_management": 3,
         "quant_finance": 8,
-        "hardware": 14
+        "hardware": 12
       },
       "tiers": {
-        "other": 612,
-        "faang_plus": 153,
-        "unicorn": 706
+        "unicorn": 701,
+        "faang_plus": 157,
+        "other": 605
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 242
+          "jobs": 238
         },
         {
           "company": "Anduril Industries",
-          "jobs": 212
+          "jobs": 208
         },
         {
           "company": "OpenAI",
@@ -5611,11 +5611,11 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 27
+          "jobs": 33
         },
         {
-          "company": "Twilio",
-          "jobs": 27
+          "company": "Accenture",
+          "jobs": 28
         },
         {
           "company": "xAI",
@@ -5626,17 +5626,17 @@
           "jobs": 25
         },
         {
-          "company": "Leidos",
-          "jobs": 23
+          "company": "Twilio",
+          "jobs": 25
         },
         {
-          "company": "Scale AI",
+          "company": "Leidos",
           "jobs": 23
         }
       ],
       "unique_companies": 221,
-      "avg_jobs_per_company": 6.66,
-      "timestamp": "2026-08-05T01:11:57.515409+00:00"
+      "avg_jobs_per_company": 6.62,
+      "timestamp": "2026-08-05T04:32:56.720368+00:00"
     }
   ]
 }
