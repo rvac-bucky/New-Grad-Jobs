@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-06T00:19:53.465092+00:00",
+    "last_updated": "2026-08-06T03:49:15.094229+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-08",
@@ -5585,26 +5585,26 @@
     },
     {
       "date": "2026-08-06",
-      "total_jobs": 1488,
+      "total_jobs": 1490,
       "categories": {
-        "data_engineering": 30,
-        "data_ml": 151,
-        "software_engineering": 989,
-        "other": 123,
-        "infrastructure_sre": 169,
+        "software_engineering": 1003,
+        "data_ml": 153,
+        "data_engineering": 28,
+        "other": 116,
+        "infrastructure_sre": 162,
         "product_management": 3,
-        "hardware": 18,
+        "hardware": 20,
         "quant_finance": 5
       },
       "tiers": {
-        "faang_plus": 175,
-        "other": 608,
-        "unicorn": 705
+        "unicorn": 705,
+        "faang_plus": 172,
+        "other": 613
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 240
+          "jobs": 239
         },
         {
           "company": "Anduril Industries",
@@ -5616,15 +5616,15 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 42
+          "jobs": 38
         },
         {
           "company": "Waymo",
-          "jobs": 35
+          "jobs": 36
         },
         {
           "company": "xAI",
-          "jobs": 29
+          "jobs": 30
         },
         {
           "company": "Twilio",
@@ -5635,17 +5635,17 @@
           "jobs": 25
         },
         {
-          "company": "Leidos",
-          "jobs": 25
+          "company": "Stripe",
+          "jobs": 23
         },
         {
-          "company": "Stripe",
+          "company": "Scale AI",
           "jobs": 23
         }
       ],
-      "unique_companies": 219,
-      "avg_jobs_per_company": 6.79,
-      "timestamp": "2026-08-06T00:19:53.462880+00:00"
+      "unique_companies": 213,
+      "avg_jobs_per_company": 7.0,
+      "timestamp": "2026-08-06T03:49:15.093193+00:00"
     }
   ]
 }
