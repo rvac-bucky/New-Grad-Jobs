@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-06T13:23:52.990641+00:00",
+    "last_updated": "2026-08-06T15:40:46.778093+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-08",
@@ -5585,21 +5585,21 @@
     },
     {
       "date": "2026-08-06",
-      "total_jobs": 1472,
+      "total_jobs": 1469,
       "categories": {
-        "data_ml": 152,
-        "software_engineering": 987,
-        "infrastructure_sre": 167,
-        "data_engineering": 26,
-        "other": 111,
-        "hardware": 20,
-        "quant_finance": 6,
-        "product_management": 3
+        "infrastructure_sre": 175,
+        "data_ml": 153,
+        "data_engineering": 25,
+        "software_engineering": 982,
+        "product_management": 3,
+        "other": 107,
+        "hardware": 18,
+        "quant_finance": 6
       },
       "tiers": {
-        "unicorn": 704,
-        "other": 592,
-        "faang_plus": 176
+        "other": 598,
+        "unicorn": 703,
+        "faang_plus": 168
       },
       "top_companies": [
         {
@@ -5619,33 +5619,33 @@
           "jobs": 36
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 34
-        },
-        {
           "company": "xAI",
           "jobs": 30
         },
         {
+          "company": "Northrop Grumman",
+          "jobs": 28
+        },
+        {
           "company": "Boeing",
-          "jobs": 26
+          "jobs": 28
         },
         {
           "company": "Twilio",
-          "jobs": 26
+          "jobs": 25
+        },
+        {
+          "company": "Affirm",
+          "jobs": 24
         },
         {
           "company": "Stripe",
           "jobs": 23
-        },
-        {
-          "company": "Scale AI",
-          "jobs": 23
         }
       ],
-      "unique_companies": 217,
-      "avg_jobs_per_company": 6.78,
-      "timestamp": "2026-08-06T13:23:52.989594+00:00"
+      "unique_companies": 215,
+      "avg_jobs_per_company": 6.83,
+      "timestamp": "2026-08-06T15:40:46.777094+00:00"
     }
   ]
 }
