@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-08T08:24:21.899153+00:00",
+    "last_updated": "2026-08-08T09:11:47.096149+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-10",
@@ -5603,21 +5603,21 @@
     },
     {
       "date": "2026-08-08",
-      "total_jobs": 1415,
+      "total_jobs": 1464,
       "categories": {
-        "data_ml": 143,
-        "software_engineering": 968,
-        "infrastructure_sre": 165,
-        "other": 99,
+        "data_ml": 147,
+        "software_engineering": 990,
+        "infrastructure_sre": 170,
+        "other": 117,
         "data_engineering": 23,
         "hardware": 10,
         "quant_finance": 5,
         "product_management": 2
       },
       "tiers": {
-        "other": 589,
+        "other": 588,
         "unicorn": 702,
-        "faang_plus": 124
+        "faang_plus": 174
       },
       "top_companies": [
         {
@@ -5641,6 +5641,10 @@
           "jobs": 36
         },
         {
+          "company": "Boeing",
+          "jobs": 33
+        },
+        {
           "company": "xAI",
           "jobs": 29
         },
@@ -5655,15 +5659,11 @@
         {
           "company": "Affirm",
           "jobs": 24
-        },
-        {
-          "company": "Scale AI",
-          "jobs": 23
         }
       ],
-      "unique_companies": 220,
-      "avg_jobs_per_company": 6.43,
-      "timestamp": "2026-08-08T08:24:21.898235+00:00"
+      "unique_companies": 223,
+      "avg_jobs_per_company": 6.57,
+      "timestamp": "2026-08-08T09:11:47.095263+00:00"
     }
   ]
 }
