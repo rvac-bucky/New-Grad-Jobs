@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-10T08:52:36.180693+00:00",
+    "last_updated": "2026-08-10T10:10:24.604281+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-12",
@@ -5621,30 +5621,26 @@
     },
     {
       "date": "2026-08-10",
-      "total_jobs": 1468,
+      "total_jobs": 1251,
       "categories": {
-        "software_engineering": 962,
-        "infrastructure_sre": 176,
-        "data_ml": 143,
+        "software_engineering": 782,
+        "infrastructure_sre": 170,
+        "data_ml": 111,
         "other": 146,
-        "hardware": 15,
+        "hardware": 16,
         "data_engineering": 19,
         "quant_finance": 5,
         "product_management": 2
       },
       "tiers": {
         "unicorn": 690,
-        "other": 614,
-        "faang_plus": 164
+        "other": 396,
+        "faang_plus": 165
       },
       "top_companies": [
         {
           "company": "SpaceX",
           "jobs": 239
-        },
-        {
-          "company": "Anduril Industries",
-          "jobs": 212
         },
         {
           "company": "OpenAI",
@@ -5659,29 +5655,33 @@
           "jobs": 36
         },
         {
-          "company": "University of Ottawa",
-          "jobs": 30
-        },
-        {
           "company": "Boeing",
-          "jobs": 30
+          "jobs": 31
         },
         {
           "company": "xAI",
           "jobs": 29
         },
         {
-          "company": "Leidos",
+          "company": "University of Ottawa",
           "jobs": 27
+        },
+        {
+          "company": "Leidos",
+          "jobs": 26
         },
         {
           "company": "Stripe",
           "jobs": 25
+        },
+        {
+          "company": "Twilio",
+          "jobs": 24
         }
       ],
       "unique_companies": 216,
-      "avg_jobs_per_company": 6.8,
-      "timestamp": "2026-08-10T08:52:36.179697+00:00"
+      "avg_jobs_per_company": 5.79,
+      "timestamp": "2026-08-10T10:10:24.603313+00:00"
     }
   ]
 }
