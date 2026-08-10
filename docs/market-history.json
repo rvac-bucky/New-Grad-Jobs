@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-10T11:24:10.173836+00:00",
+    "last_updated": "2026-08-10T12:10:18.128580+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-12",
@@ -5621,26 +5621,30 @@
     },
     {
       "date": "2026-08-10",
-      "total_jobs": 1238,
+      "total_jobs": 1447,
       "categories": {
-        "software_engineering": 786,
-        "infrastructure_sre": 164,
-        "data_ml": 108,
-        "other": 141,
+        "software_engineering": 960,
+        "data_ml": 140,
+        "infrastructure_sre": 169,
+        "other": 139,
         "hardware": 14,
         "data_engineering": 18,
         "quant_finance": 5,
         "product_management": 2
       },
       "tiers": {
-        "unicorn": 690,
-        "other": 387,
+        "other": 597,
+        "unicorn": 689,
         "faang_plus": 161
       },
       "top_companies": [
         {
           "company": "SpaceX",
           "jobs": 239
+        },
+        {
+          "company": "Anduril Industries",
+          "jobs": 212
         },
         {
           "company": "OpenAI",
@@ -5673,15 +5677,11 @@
         {
           "company": "Twilio",
           "jobs": 24
-        },
-        {
-          "company": "Affirm",
-          "jobs": 24
         }
       ],
-      "unique_companies": 208,
-      "avg_jobs_per_company": 5.95,
-      "timestamp": "2026-08-10T11:24:10.172751+00:00"
+      "unique_companies": 206,
+      "avg_jobs_per_company": 7.02,
+      "timestamp": "2026-08-10T12:10:18.127576+00:00"
     }
   ]
 }
