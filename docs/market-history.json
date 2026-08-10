@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-10T20:26:45.930636+00:00",
+    "last_updated": "2026-08-10T21:13:47.045557+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-12",
@@ -5621,26 +5621,26 @@
     },
     {
       "date": "2026-08-10",
-      "total_jobs": 1452,
+      "total_jobs": 1431,
       "categories": {
-        "software_engineering": 975,
-        "data_engineering": 22,
-        "data_ml": 141,
-        "infrastructure_sre": 172,
-        "other": 120,
-        "hardware": 16,
+        "infrastructure_sre": 168,
+        "software_engineering": 963,
+        "data_engineering": 23,
+        "data_ml": 139,
+        "other": 118,
+        "hardware": 14,
         "quant_finance": 4,
         "product_management": 2
       },
       "tiers": {
-        "other": 614,
-        "unicorn": 691,
-        "faang_plus": 147
+        "unicorn": 685,
+        "other": 603,
+        "faang_plus": 143
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 239
+          "jobs": 238
         },
         {
           "company": "Anduril Industries",
@@ -5655,12 +5655,16 @@
           "jobs": 37
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 32
-        },
-        {
           "company": "xAI",
           "jobs": 29
+        },
+        {
+          "company": "Leidos",
+          "jobs": 27
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 27
         },
         {
           "company": "Boeing",
@@ -5671,17 +5675,13 @@
           "jobs": 24
         },
         {
-          "company": "Leidos",
-          "jobs": 24
-        },
-        {
           "company": "Stripe",
           "jobs": 24
         }
       ],
-      "unique_companies": 226,
-      "avg_jobs_per_company": 6.42,
-      "timestamp": "2026-08-10T20:26:45.929810+00:00"
+      "unique_companies": 214,
+      "avg_jobs_per_company": 6.69,
+      "timestamp": "2026-08-10T21:13:47.044532+00:00"
     }
   ]
 }
