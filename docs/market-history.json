@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-10T07:05:35.088015+00:00",
+    "last_updated": "2026-08-10T08:52:36.180693+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-12",
@@ -5621,21 +5621,21 @@
     },
     {
       "date": "2026-08-10",
-      "total_jobs": 1439,
+      "total_jobs": 1468,
       "categories": {
-        "software_engineering": 964,
-        "infrastructure_sre": 177,
-        "data_ml": 142,
-        "other": 115,
+        "software_engineering": 962,
+        "infrastructure_sre": 176,
+        "data_ml": 143,
+        "other": 146,
         "hardware": 15,
         "data_engineering": 19,
         "quant_finance": 5,
         "product_management": 2
       },
       "tiers": {
-        "other": 586,
         "unicorn": 690,
-        "faang_plus": 163
+        "other": 614,
+        "faang_plus": 164
       },
       "top_companies": [
         {
@@ -5659,6 +5659,10 @@
           "jobs": 36
         },
         {
+          "company": "University of Ottawa",
+          "jobs": 30
+        },
+        {
           "company": "Boeing",
           "jobs": 30
         },
@@ -5673,15 +5677,11 @@
         {
           "company": "Stripe",
           "jobs": 25
-        },
-        {
-          "company": "Twilio",
-          "jobs": 24
         }
       ],
-      "unique_companies": 217,
-      "avg_jobs_per_company": 6.63,
-      "timestamp": "2026-08-10T07:05:35.085650+00:00"
+      "unique_companies": 216,
+      "avg_jobs_per_company": 6.8,
+      "timestamp": "2026-08-10T08:52:36.179697+00:00"
     }
   ]
 }
