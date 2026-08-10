@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-10T13:44:59.171317+00:00",
+    "last_updated": "2026-08-10T14:48:38.869127+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-12",
@@ -5621,21 +5621,21 @@
     },
     {
       "date": "2026-08-10",
-      "total_jobs": 1446,
+      "total_jobs": 1444,
       "categories": {
-        "software_engineering": 962,
+        "software_engineering": 961,
+        "infrastructure_sre": 167,
         "data_ml": 141,
-        "infrastructure_sre": 168,
-        "hardware": 15,
-        "other": 136,
+        "other": 137,
+        "hardware": 14,
         "data_engineering": 17,
         "quant_finance": 5,
         "product_management": 2
       },
       "tiers": {
-        "other": 595,
-        "unicorn": 689,
-        "faang_plus": 162
+        "unicorn": 690,
+        "other": 591,
+        "faang_plus": 163
       },
       "top_companies": [
         {
@@ -5652,15 +5652,15 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 37
+          "jobs": 39
         },
         {
           "company": "Waymo",
-          "jobs": 36
+          "jobs": 37
         },
         {
           "company": "Boeing",
-          "jobs": 30
+          "jobs": 29
         },
         {
           "company": "xAI",
@@ -5668,7 +5668,7 @@
         },
         {
           "company": "University of Ottawa",
-          "jobs": 26
+          "jobs": 25
         },
         {
           "company": "Stripe",
@@ -5679,9 +5679,9 @@
           "jobs": 24
         }
       ],
-      "unique_companies": 206,
-      "avg_jobs_per_company": 7.02,
-      "timestamp": "2026-08-10T13:44:59.170292+00:00"
+      "unique_companies": 205,
+      "avg_jobs_per_company": 7.04,
+      "timestamp": "2026-08-10T14:48:38.867902+00:00"
     }
   ]
 }
