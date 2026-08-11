@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-11T05:21:12.663866+00:00",
+    "last_updated": "2026-08-11T06:14:08.323172+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-13",
@@ -5630,21 +5630,21 @@
     },
     {
       "date": "2026-08-11",
-      "total_jobs": 1433,
+      "total_jobs": 1429,
       "categories": {
-        "software_engineering": 961,
-        "infrastructure_sre": 172,
+        "software_engineering": 959,
+        "infrastructure_sre": 171,
         "data_ml": 142,
-        "data_engineering": 22,
+        "hardware": 13,
+        "data_engineering": 20,
         "other": 118,
-        "hardware": 12,
         "quant_finance": 4,
         "product_management": 2
       },
       "tiers": {
         "unicorn": 677,
-        "other": 615,
-        "faang_plus": 141
+        "faang_plus": 142,
+        "other": 610
       },
       "top_companies": [
         {
@@ -5672,11 +5672,11 @@
           "jobs": 25
         },
         {
-          "company": "Leidos",
-          "jobs": 25
+          "company": "Boeing",
+          "jobs": 24
         },
         {
-          "company": "Boeing",
+          "company": "Leidos",
           "jobs": 24
         },
         {
@@ -5688,9 +5688,9 @@
           "jobs": 24
         }
       ],
-      "unique_companies": 218,
-      "avg_jobs_per_company": 6.57,
-      "timestamp": "2026-08-11T05:21:12.662648+00:00"
+      "unique_companies": 220,
+      "avg_jobs_per_company": 6.5,
+      "timestamp": "2026-08-11T06:14:08.321954+00:00"
     }
   ]
 }
