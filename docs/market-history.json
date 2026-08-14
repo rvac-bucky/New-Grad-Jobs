@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-14T00:13:51.956347+00:00",
+    "last_updated": "2026-08-14T02:51:09.121493+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-16",
@@ -5657,21 +5657,21 @@
     },
     {
       "date": "2026-08-14",
-      "total_jobs": 1460,
+      "total_jobs": 1458,
       "categories": {
-        "software_engineering": 955,
-        "infrastructure_sre": 164,
-        "other": 132,
-        "data_engineering": 24,
-        "hardware": 25,
-        "data_ml": 154,
+        "infrastructure_sre": 168,
+        "data_ml": 152,
+        "software_engineering": 969,
+        "other": 114,
+        "data_engineering": 26,
+        "hardware": 23,
         "quant_finance": 4,
         "product_management": 2
       },
       "tiers": {
-        "faang_plus": 149,
-        "other": 626,
-        "unicorn": 685
+        "unicorn": 684,
+        "faang_plus": 150,
+        "other": 624
       },
       "top_companies": [
         {
@@ -5684,11 +5684,15 @@
         },
         {
           "company": "OpenAI",
-          "jobs": 44
+          "jobs": 45
         },
         {
           "company": "Waymo",
           "jobs": 34
+        },
+        {
+          "company": "Accenture",
+          "jobs": 32
         },
         {
           "company": "xAI",
@@ -5709,15 +5713,11 @@
         {
           "company": "Scale AI",
           "jobs": 23
-        },
-        {
-          "company": "Twilio",
-          "jobs": 23
         }
       ],
-      "unique_companies": 235,
-      "avg_jobs_per_company": 6.21,
-      "timestamp": "2026-08-14T00:13:51.955408+00:00"
+      "unique_companies": 230,
+      "avg_jobs_per_company": 6.34,
+      "timestamp": "2026-08-14T02:51:09.120461+00:00"
     }
   ]
 }
