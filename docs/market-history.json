@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-15T16:07:43.544230+00:00",
+    "last_updated": "2026-08-15T16:42:50.989388+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-17",
@@ -5666,12 +5666,12 @@
     },
     {
       "date": "2026-08-15",
-      "total_jobs": 1450,
+      "total_jobs": 1242,
       "categories": {
-        "data_ml": 146,
-        "software_engineering": 973,
-        "infrastructure_sre": 169,
-        "other": 107,
+        "data_ml": 114,
+        "software_engineering": 804,
+        "infrastructure_sre": 163,
+        "other": 106,
         "hardware": 24,
         "data_engineering": 25,
         "product_management": 3,
@@ -5679,17 +5679,13 @@
       },
       "tiers": {
         "unicorn": 693,
-        "other": 611,
-        "faang_plus": 146
+        "other": 404,
+        "faang_plus": 145
       },
       "top_companies": [
         {
           "company": "SpaceX",
           "jobs": 240
-        },
-        {
-          "company": "Anduril Industries",
-          "jobs": 206
         },
         {
           "company": "OpenAI",
@@ -5722,11 +5718,15 @@
         {
           "company": "Anthropic",
           "jobs": 22
+        },
+        {
+          "company": "Accenture",
+          "jobs": 22
         }
       ],
-      "unique_companies": 222,
-      "avg_jobs_per_company": 6.53,
-      "timestamp": "2026-08-15T16:07:43.543356+00:00"
+      "unique_companies": 219,
+      "avg_jobs_per_company": 5.67,
+      "timestamp": "2026-08-15T16:42:50.988279+00:00"
     }
   ]
 }
