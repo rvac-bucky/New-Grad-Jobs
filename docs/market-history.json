@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-15T01:52:11.632453+00:00",
+    "last_updated": "2026-08-15T02:46:28.389312+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-17",
@@ -5666,21 +5666,21 @@
     },
     {
       "date": "2026-08-15",
-      "total_jobs": 1446,
+      "total_jobs": 1476,
       "categories": {
         "infrastructure_sre": 172,
-        "data_ml": 146,
-        "software_engineering": 957,
-        "other": 109,
-        "hardware": 30,
+        "data_ml": 147,
+        "software_engineering": 982,
+        "other": 112,
+        "hardware": 31,
         "data_engineering": 26,
         "product_management": 3,
         "quant_finance": 3
       },
       "tiers": {
         "unicorn": 693,
-        "faang_plus": 154,
-        "other": 599
+        "other": 631,
+        "faang_plus": 152
       },
       "top_companies": [
         {
@@ -5704,6 +5704,10 @@
           "jobs": 31
         },
         {
+          "company": "Accenture",
+          "jobs": 29
+        },
+        {
           "company": "Leidos",
           "jobs": 28
         },
@@ -5718,15 +5722,11 @@
         {
           "company": "Twilio",
           "jobs": 23
-        },
-        {
-          "company": "Anthropic",
-          "jobs": 22
         }
       ],
-      "unique_companies": 228,
-      "avg_jobs_per_company": 6.34,
-      "timestamp": "2026-08-15T01:52:11.631667+00:00"
+      "unique_companies": 230,
+      "avg_jobs_per_company": 6.42,
+      "timestamp": "2026-08-15T02:46:28.388279+00:00"
     }
   ]
 }
