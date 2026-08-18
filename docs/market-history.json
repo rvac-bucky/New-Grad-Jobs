@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-18T20:31:46.052079+00:00",
+    "last_updated": "2026-08-18T20:56:48.102533+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-20",
@@ -5693,21 +5693,21 @@
     },
     {
       "date": "2026-08-18",
-      "total_jobs": 1494,
+      "total_jobs": 1491,
       "categories": {
+        "other": 154,
         "data_ml": 150,
         "software_engineering": 956,
-        "infrastructure_sre": 171,
-        "other": 156,
+        "infrastructure_sre": 172,
         "data_engineering": 34,
-        "hardware": 20,
+        "hardware": 18,
         "product_management": 4,
         "quant_finance": 3
       },
       "tiers": {
-        "other": 659,
         "unicorn": 687,
-        "faang_plus": 148
+        "other": 660,
+        "faang_plus": 144
       },
       "top_companies": [
         {
@@ -5732,14 +5732,14 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 29
-        },
-        {
-          "company": "Affirm",
-          "jobs": 24
+          "jobs": 28
         },
         {
           "company": "Leidos",
+          "jobs": 25
+        },
+        {
+          "company": "Affirm",
           "jobs": 24
         },
         {
@@ -5752,8 +5752,8 @@
         }
       ],
       "unique_companies": 227,
-      "avg_jobs_per_company": 6.58,
-      "timestamp": "2026-08-18T20:31:46.051000+00:00"
+      "avg_jobs_per_company": 6.57,
+      "timestamp": "2026-08-18T20:56:48.101373+00:00"
     }
   ]
 }
