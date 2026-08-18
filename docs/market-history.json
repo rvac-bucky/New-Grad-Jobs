@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-18T21:19:11.178709+00:00",
+    "last_updated": "2026-08-18T21:48:05.233169+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-20",
@@ -5693,21 +5693,21 @@
     },
     {
       "date": "2026-08-18",
-      "total_jobs": 1514,
+      "total_jobs": 1486,
       "categories": {
-        "other": 180,
-        "data_ml": 150,
-        "software_engineering": 956,
-        "infrastructure_sre": 172,
+        "software_engineering": 954,
+        "data_ml": 149,
+        "infrastructure_sre": 169,
+        "other": 156,
         "data_engineering": 34,
-        "hardware": 16,
+        "hardware": 17,
         "product_management": 4,
-        "quant_finance": 2
+        "quant_finance": 3
       },
       "tiers": {
-        "unicorn": 686,
-        "other": 684,
-        "faang_plus": 144
+        "other": 660,
+        "faang_plus": 143,
+        "unicorn": 683
       },
       "top_companies": [
         {
@@ -5724,7 +5724,7 @@
         },
         {
           "company": "Waymo",
-          "jobs": 35
+          "jobs": 34
         },
         {
           "company": "xAI",
@@ -5735,10 +5735,6 @@
           "jobs": 27
         },
         {
-          "company": "University of Ottawa",
-          "jobs": 25
-        },
-        {
           "company": "Leidos",
           "jobs": 25
         },
@@ -5747,13 +5743,17 @@
           "jobs": 24
         },
         {
+          "company": "Stripe",
+          "jobs": 23
+        },
+        {
           "company": "Twilio",
           "jobs": 23
         }
       ],
-      "unique_companies": 234,
-      "avg_jobs_per_company": 6.47,
-      "timestamp": "2026-08-18T21:19:11.177733+00:00"
+      "unique_companies": 233,
+      "avg_jobs_per_company": 6.38,
+      "timestamp": "2026-08-18T21:48:05.232111+00:00"
     }
   ]
 }
