@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-18T18:21:22.276888+00:00",
+    "last_updated": "2026-08-18T19:08:07.408397+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-20",
@@ -5693,21 +5693,21 @@
     },
     {
       "date": "2026-08-18",
-      "total_jobs": 1489,
+      "total_jobs": 1478,
       "categories": {
-        "software_engineering": 961,
-        "other": 156,
+        "data_ml": 151,
+        "software_engineering": 956,
+        "other": 149,
         "infrastructure_sre": 168,
-        "data_ml": 149,
         "data_engineering": 32,
-        "hardware": 16,
+        "hardware": 15,
         "product_management": 4,
         "quant_finance": 3
       },
       "tiers": {
-        "unicorn": 678,
-        "other": 661,
-        "faang_plus": 150
+        "faang_plus": 146,
+        "unicorn": 683,
+        "other": 649
       },
       "top_companies": [
         {
@@ -5723,16 +5723,16 @@
           "jobs": 40
         },
         {
+          "company": "Waymo",
+          "jobs": 34
+        },
+        {
           "company": "xAI",
           "jobs": 33
         },
         {
-          "company": "Waymo",
-          "jobs": 33
-        },
-        {
           "company": "Northrop Grumman",
-          "jobs": 28
+          "jobs": 26
         },
         {
           "company": "Leidos",
@@ -5747,13 +5747,13 @@
           "jobs": 24
         },
         {
-          "company": "Doane Grant Thornton LLP",
-          "jobs": 24
+          "company": "Twilio",
+          "jobs": 23
         }
       ],
-      "unique_companies": 235,
-      "avg_jobs_per_company": 6.34,
-      "timestamp": "2026-08-18T18:21:22.275733+00:00"
+      "unique_companies": 227,
+      "avg_jobs_per_company": 6.51,
+      "timestamp": "2026-08-18T19:08:07.407320+00:00"
     }
   ]
 }
