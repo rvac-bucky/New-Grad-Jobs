@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-18T20:56:48.102533+00:00",
+    "last_updated": "2026-08-18T21:19:11.178709+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-20",
@@ -5693,30 +5693,30 @@
     },
     {
       "date": "2026-08-18",
-      "total_jobs": 1491,
+      "total_jobs": 1514,
       "categories": {
-        "other": 154,
+        "other": 180,
         "data_ml": 150,
         "software_engineering": 956,
         "infrastructure_sre": 172,
         "data_engineering": 34,
-        "hardware": 18,
+        "hardware": 16,
         "product_management": 4,
-        "quant_finance": 3
+        "quant_finance": 2
       },
       "tiers": {
-        "unicorn": 687,
-        "other": 660,
+        "unicorn": 686,
+        "other": 684,
         "faang_plus": 144
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 231
+          "jobs": 230
         },
         {
           "company": "Anduril Industries",
-          "jobs": 205
+          "jobs": 204
         },
         {
           "company": "OpenAI",
@@ -5732,7 +5732,11 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 28
+          "jobs": 27
+        },
+        {
+          "company": "University of Ottawa",
+          "jobs": 25
         },
         {
           "company": "Leidos",
@@ -5745,15 +5749,11 @@
         {
           "company": "Twilio",
           "jobs": 23
-        },
-        {
-          "company": "Doane Grant Thornton LLP",
-          "jobs": 23
         }
       ],
-      "unique_companies": 227,
-      "avg_jobs_per_company": 6.57,
-      "timestamp": "2026-08-18T20:56:48.101373+00:00"
+      "unique_companies": 234,
+      "avg_jobs_per_company": 6.47,
+      "timestamp": "2026-08-18T21:19:11.177733+00:00"
     }
   ]
 }
