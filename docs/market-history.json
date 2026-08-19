@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-19T13:58:38.325764+00:00",
+    "last_updated": "2026-08-19T14:34:11.090895+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-21",
@@ -5702,21 +5702,21 @@
     },
     {
       "date": "2026-08-19",
-      "total_jobs": 1456,
+      "total_jobs": 1451,
       "categories": {
-        "software_engineering": 928,
+        "other": 160,
+        "infrastructure_sre": 167,
         "data_ml": 147,
-        "other": 159,
-        "infrastructure_sre": 168,
+        "software_engineering": 923,
         "hardware": 18,
         "data_engineering": 29,
         "quant_finance": 4,
         "product_management": 3
       },
       "tiers": {
-        "unicorn": 686,
-        "other": 644,
-        "faang_plus": 126
+        "unicorn": 683,
+        "other": 641,
+        "faang_plus": 127
       },
       "top_companies": [
         {
@@ -5748,21 +5748,21 @@
           "jobs": 24
         },
         {
-          "company": "Twilio",
-          "jobs": 23
-        },
-        {
           "company": "Stripe",
           "jobs": 23
         },
         {
           "company": "Scale AI",
           "jobs": 23
+        },
+        {
+          "company": "Anthropic",
+          "jobs": 23
         }
       ],
-      "unique_companies": 227,
-      "avg_jobs_per_company": 6.41,
-      "timestamp": "2026-08-19T13:58:38.324791+00:00"
+      "unique_companies": 226,
+      "avg_jobs_per_company": 6.42,
+      "timestamp": "2026-08-19T14:34:11.089818+00:00"
     }
   ]
 }
