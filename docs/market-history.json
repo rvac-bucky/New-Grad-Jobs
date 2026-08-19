@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-19T22:05:24.974844+00:00",
+    "last_updated": "2026-08-19T22:40:25.968509+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-21",
@@ -5702,21 +5702,21 @@
     },
     {
       "date": "2026-08-19",
-      "total_jobs": 1481,
+      "total_jobs": 1489,
       "categories": {
-        "data_ml": 145,
+        "data_ml": 144,
         "software_engineering": 940,
-        "other": 169,
-        "infrastructure_sre": 173,
+        "other": 172,
+        "infrastructure_sre": 176,
         "hardware": 18,
         "quant_finance": 6,
-        "product_management": 3,
-        "data_engineering": 27
+        "data_engineering": 30,
+        "product_management": 3
       },
       "tiers": {
-        "other": 675,
-        "unicorn": 685,
-        "faang_plus": 121
+        "other": 683,
+        "unicorn": 684,
+        "faang_plus": 122
       },
       "top_companies": [
         {
@@ -5732,23 +5732,23 @@
           "jobs": 41
         },
         {
-          "company": "Waymo",
-          "jobs": 33
-        },
-        {
           "company": "xAI",
           "jobs": 33
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 28
-        },
-        {
-          "company": "IMEG",
-          "jobs": 26
+          "company": "Waymo",
+          "jobs": 32
         },
         {
           "company": "Leidos",
+          "jobs": 29
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 27
+        },
+        {
+          "company": "IMEG",
           "jobs": 26
         },
         {
@@ -5760,9 +5760,9 @@
           "jobs": 23
         }
       ],
-      "unique_companies": 220,
-      "avg_jobs_per_company": 6.73,
-      "timestamp": "2026-08-19T22:05:24.973665+00:00"
+      "unique_companies": 219,
+      "avg_jobs_per_company": 6.8,
+      "timestamp": "2026-08-19T22:40:25.967337+00:00"
     }
   ]
 }
