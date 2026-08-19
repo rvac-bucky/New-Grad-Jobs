@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-19T21:42:48.648517+00:00",
+    "last_updated": "2026-08-19T22:05:24.974844+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-21",
@@ -5702,21 +5702,21 @@
     },
     {
       "date": "2026-08-19",
-      "total_jobs": 1482,
+      "total_jobs": 1481,
       "categories": {
+        "data_ml": 145,
+        "software_engineering": 940,
         "other": 169,
-        "software_engineering": 941,
-        "infrastructure_sre": 174,
-        "data_ml": 144,
+        "infrastructure_sre": 173,
         "hardware": 18,
         "quant_finance": 6,
-        "data_engineering": 27,
-        "product_management": 3
+        "product_management": 3,
+        "data_engineering": 27
       },
       "tiers": {
-        "other": 673,
+        "other": 675,
         "unicorn": 685,
-        "faang_plus": 124
+        "faang_plus": 121
       },
       "top_companies": [
         {
@@ -5741,7 +5741,7 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 30
+          "jobs": 28
         },
         {
           "company": "IMEG",
@@ -5760,9 +5760,9 @@
           "jobs": 23
         }
       ],
-      "unique_companies": 219,
-      "avg_jobs_per_company": 6.77,
-      "timestamp": "2026-08-19T21:42:48.646290+00:00"
+      "unique_companies": 220,
+      "avg_jobs_per_company": 6.73,
+      "timestamp": "2026-08-19T22:05:24.973665+00:00"
     }
   ]
 }
