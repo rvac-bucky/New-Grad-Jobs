@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-19T21:10:29.998999+00:00",
+    "last_updated": "2026-08-19T21:42:48.648517+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-21",
@@ -5702,21 +5702,21 @@
     },
     {
       "date": "2026-08-19",
-      "total_jobs": 1462,
+      "total_jobs": 1482,
       "categories": {
-        "software_engineering": 933,
-        "infrastructure_sre": 173,
-        "other": 157,
+        "other": 169,
+        "software_engineering": 941,
+        "infrastructure_sre": 174,
         "data_ml": 144,
-        "hardware": 19,
+        "hardware": 18,
         "quant_finance": 6,
-        "data_engineering": 28,
-        "product_management": 2
+        "data_engineering": 27,
+        "product_management": 3
       },
       "tiers": {
+        "other": 673,
         "unicorn": 685,
-        "other": 662,
-        "faang_plus": 115
+        "faang_plus": 124
       },
       "top_companies": [
         {
@@ -5740,6 +5740,10 @@
           "jobs": 33
         },
         {
+          "company": "Northrop Grumman",
+          "jobs": 30
+        },
+        {
           "company": "IMEG",
           "jobs": 26
         },
@@ -5754,15 +5758,11 @@
         {
           "company": "Stripe",
           "jobs": 23
-        },
-        {
-          "company": "Accenture",
-          "jobs": 23
         }
       ],
-      "unique_companies": 212,
-      "avg_jobs_per_company": 6.9,
-      "timestamp": "2026-08-19T21:10:29.998006+00:00"
+      "unique_companies": 219,
+      "avg_jobs_per_company": 6.77,
+      "timestamp": "2026-08-19T21:42:48.646290+00:00"
     }
   ]
 }
