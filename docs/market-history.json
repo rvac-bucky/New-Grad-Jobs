@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-19T17:19:52.770851+00:00",
+    "last_updated": "2026-08-19T17:52:43.224920+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-21",
@@ -5702,21 +5702,21 @@
     },
     {
       "date": "2026-08-19",
-      "total_jobs": 1417,
+      "total_jobs": 1449,
       "categories": {
-        "software_engineering": 908,
-        "other": 142,
-        "infrastructure_sre": 168,
+        "software_engineering": 940,
+        "other": 143,
+        "infrastructure_sre": 167,
         "data_ml": 145,
-        "hardware": 17,
+        "hardware": 16,
         "data_engineering": 31,
-        "quant_finance": 3,
+        "quant_finance": 4,
         "product_management": 3
       },
       "tiers": {
         "unicorn": 682,
-        "other": 620,
-        "faang_plus": 115
+        "other": 651,
+        "faang_plus": 116
       },
       "top_companies": [
         {
@@ -5740,8 +5740,12 @@
           "jobs": 33
         },
         {
+          "company": "Accenture",
+          "jobs": 30
+        },
+        {
           "company": "Leidos",
-          "jobs": 25
+          "jobs": 26
         },
         {
           "company": "Affirm",
@@ -5754,15 +5758,11 @@
         {
           "company": "Scale AI",
           "jobs": 23
-        },
-        {
-          "company": "Anthropic",
-          "jobs": 23
         }
       ],
-      "unique_companies": 219,
-      "avg_jobs_per_company": 6.47,
-      "timestamp": "2026-08-19T17:19:52.769500+00:00"
+      "unique_companies": 215,
+      "avg_jobs_per_company": 6.74,
+      "timestamp": "2026-08-19T17:52:43.223833+00:00"
     }
   ]
 }
