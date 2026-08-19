@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-19T07:27:23.247484+00:00",
+    "last_updated": "2026-08-19T08:07:01.486936+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-21",
@@ -5702,21 +5702,21 @@
     },
     {
       "date": "2026-08-19",
-      "total_jobs": 1476,
+      "total_jobs": 1472,
       "categories": {
-        "software_engineering": 952,
+        "software_engineering": 948,
         "infrastructure_sre": 167,
-        "other": 147,
+        "other": 146,
         "data_ml": 146,
+        "quant_finance": 4,
         "data_engineering": 35,
         "hardware": 23,
-        "quant_finance": 3,
         "product_management": 3
       },
       "tiers": {
         "unicorn": 680,
-        "other": 671,
-        "faang_plus": 125
+        "other": 669,
+        "faang_plus": 123
       },
       "top_companies": [
         {
@@ -5748,21 +5748,21 @@
           "jobs": 24
         },
         {
-          "company": "Accenture",
-          "jobs": 24
-        },
-        {
           "company": "Twilio",
           "jobs": 23
         },
         {
           "company": "Stripe",
           "jobs": 23
+        },
+        {
+          "company": "Accenture",
+          "jobs": 23
         }
       ],
-      "unique_companies": 238,
-      "avg_jobs_per_company": 6.2,
-      "timestamp": "2026-08-19T07:27:23.244699+00:00"
+      "unique_companies": 237,
+      "avg_jobs_per_company": 6.21,
+      "timestamp": "2026-08-19T08:07:01.486026+00:00"
     }
   ]
 }
