@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-21T17:11:29.553786+00:00",
+    "last_updated": "2026-08-21T17:48:00.430920+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-23",
@@ -5720,21 +5720,21 @@
     },
     {
       "date": "2026-08-21",
-      "total_jobs": 1503,
+      "total_jobs": 1497,
       "categories": {
-        "infrastructure_sre": 176,
-        "software_engineering": 934,
-        "data_ml": 149,
+        "software_engineering": 953,
+        "infrastructure_sre": 172,
+        "data_ml": 148,
         "product_management": 1,
         "data_engineering": 21,
-        "other": 195,
-        "quant_finance": 10,
-        "hardware": 17
+        "other": 178,
+        "hardware": 16,
+        "quant_finance": 8
       },
       "tiers": {
-        "unicorn": 697,
-        "other": 663,
-        "faang_plus": 143
+        "unicorn": 699,
+        "faang_plus": 145,
+        "other": 653
       },
       "top_companies": [
         {
@@ -5747,14 +5747,14 @@
         },
         {
           "company": "OpenAI",
-          "jobs": 47
-        },
-        {
-          "company": "Northrop Grumman",
-          "jobs": 36
+          "jobs": 48
         },
         {
           "company": "xAI",
+          "jobs": 35
+        },
+        {
+          "company": "Northrop Grumman",
           "jobs": 35
         },
         {
@@ -5766,21 +5766,21 @@
           "jobs": 31
         },
         {
+          "company": "Accenture",
+          "jobs": 28
+        },
+        {
           "company": "Affirm",
-          "jobs": 25
+          "jobs": 27
         },
         {
           "company": "Anthropic",
           "jobs": 24
-        },
-        {
-          "company": "Scale AI",
-          "jobs": 23
         }
       ],
-      "unique_companies": 246,
-      "avg_jobs_per_company": 6.11,
-      "timestamp": "2026-08-21T17:11:29.552611+00:00"
+      "unique_companies": 231,
+      "avg_jobs_per_company": 6.48,
+      "timestamp": "2026-08-21T17:48:00.429810+00:00"
     }
   ]
 }
