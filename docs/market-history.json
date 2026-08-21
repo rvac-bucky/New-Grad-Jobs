@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-21T05:59:19.482858+00:00",
+    "last_updated": "2026-08-21T06:44:51.733886+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-23",
@@ -5720,21 +5720,21 @@
     },
     {
       "date": "2026-08-21",
-      "total_jobs": 1487,
+      "total_jobs": 1479,
       "categories": {
-        "software_engineering": 947,
+        "software_engineering": 944,
         "infrastructure_sre": 168,
         "data_ml": 149,
-        "other": 176,
-        "data_engineering": 20,
+        "other": 172,
         "hardware": 15,
-        "quant_finance": 10,
+        "data_engineering": 20,
+        "quant_finance": 9,
         "product_management": 2
       },
       "tiers": {
-        "other": 646,
-        "unicorn": 699,
-        "faang_plus": 142
+        "unicorn": 700,
+        "other": 636,
+        "faang_plus": 143
       },
       "top_companies": [
         {
@@ -5758,12 +5758,12 @@
           "jobs": 33
         },
         {
-          "company": "Deloitte",
-          "jobs": 33
-        },
-        {
           "company": "Waymo",
           "jobs": 32
+        },
+        {
+          "company": "Deloitte",
+          "jobs": 28
         },
         {
           "company": "Leidos",
@@ -5778,9 +5778,9 @@
           "jobs": 24
         }
       ],
-      "unique_companies": 228,
-      "avg_jobs_per_company": 6.52,
-      "timestamp": "2026-08-21T05:59:19.480002+00:00"
+      "unique_companies": 226,
+      "avg_jobs_per_company": 6.54,
+      "timestamp": "2026-08-21T06:44:51.732856+00:00"
     }
   ]
 }
