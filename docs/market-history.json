@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-21T18:10:59.417062+00:00",
+    "last_updated": "2026-08-21T18:59:25.886569+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-23",
@@ -5720,26 +5720,26 @@
     },
     {
       "date": "2026-08-21",
-      "total_jobs": 1494,
+      "total_jobs": 1506,
       "categories": {
-        "software_engineering": 952,
-        "infrastructure_sre": 173,
+        "infrastructure_sre": 179,
+        "software_engineering": 953,
         "data_ml": 148,
         "product_management": 1,
-        "data_engineering": 21,
-        "other": 176,
+        "data_engineering": 20,
+        "other": 180,
         "hardware": 15,
-        "quant_finance": 8
+        "quant_finance": 10
       },
       "tiers": {
-        "other": 652,
-        "unicorn": 698,
-        "faang_plus": 144
+        "unicorn": 699,
+        "other": 659,
+        "faang_plus": 148
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 246
+          "jobs": 247
         },
         {
           "company": "Anduril Industries",
@@ -5750,20 +5750,20 @@
           "jobs": 48
         },
         {
+          "company": "Northrop Grumman",
+          "jobs": 37
+        },
+        {
           "company": "xAI",
           "jobs": 35
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 34
+          "company": "Deloitte",
+          "jobs": 33
         },
         {
           "company": "Waymo",
           "jobs": 32
-        },
-        {
-          "company": "Deloitte",
-          "jobs": 31
         },
         {
           "company": "Accenture",
@@ -5779,8 +5779,8 @@
         }
       ],
       "unique_companies": 230,
-      "avg_jobs_per_company": 6.5,
-      "timestamp": "2026-08-21T18:10:59.414920+00:00"
+      "avg_jobs_per_company": 6.55,
+      "timestamp": "2026-08-21T18:59:25.885651+00:00"
     }
   ]
 }
