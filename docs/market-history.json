@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-21T19:29:14.573780+00:00",
+    "last_updated": "2026-08-21T19:53:17.052704+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-23",
@@ -5720,21 +5720,21 @@
     },
     {
       "date": "2026-08-21",
-      "total_jobs": 1492,
+      "total_jobs": 1493,
       "categories": {
-        "data_engineering": 20,
-        "infrastructure_sre": 177,
         "software_engineering": 946,
-        "data_ml": 150,
+        "data_engineering": 20,
+        "infrastructure_sre": 175,
+        "quant_finance": 11,
+        "data_ml": 151,
         "product_management": 1,
-        "other": 169,
-        "hardware": 19,
-        "quant_finance": 10
+        "other": 171,
+        "hardware": 18
       },
       "tiers": {
-        "unicorn": 697,
-        "other": 649,
-        "faang_plus": 146
+        "other": 647,
+        "unicorn": 699,
+        "faang_plus": 147
       },
       "top_companies": [
         {
@@ -5750,11 +5750,15 @@
           "jobs": 48
         },
         {
+          "company": "Northrop Grumman",
+          "jobs": 36
+        },
+        {
           "company": "xAI",
           "jobs": 35
         },
         {
-          "company": "Northrop Grumman",
+          "company": "Deloitte",
           "jobs": 35
         },
         {
@@ -5762,15 +5766,11 @@
           "jobs": 32
         },
         {
-          "company": "Deloitte",
-          "jobs": 32
+          "company": "Affirm",
+          "jobs": 25
         },
         {
           "company": "Accenture",
-          "jobs": 28
-        },
-        {
-          "company": "Affirm",
           "jobs": 25
         },
         {
@@ -5778,9 +5778,9 @@
           "jobs": 24
         }
       ],
-      "unique_companies": 222,
-      "avg_jobs_per_company": 6.72,
-      "timestamp": "2026-08-21T19:29:14.571659+00:00"
+      "unique_companies": 227,
+      "avg_jobs_per_company": 6.58,
+      "timestamp": "2026-08-21T19:53:17.051552+00:00"
     }
   ]
 }
