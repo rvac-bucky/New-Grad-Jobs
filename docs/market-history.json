@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-22T07:37:12.790764+00:00",
+    "last_updated": "2026-08-22T08:04:13.242796+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-24",
@@ -5729,21 +5729,21 @@
     },
     {
       "date": "2026-08-22",
-      "total_jobs": 1377,
+      "total_jobs": 1461,
       "categories": {
-        "data_ml": 145,
-        "software_engineering": 902,
-        "other": 127,
-        "infrastructure_sre": 164,
-        "data_engineering": 18,
+        "data_ml": 149,
+        "software_engineering": 942,
+        "other": 156,
+        "infrastructure_sre": 171,
+        "data_engineering": 19,
         "quant_finance": 6,
         "product_management": 1,
-        "hardware": 14
+        "hardware": 17
       },
       "tiers": {
         "unicorn": 693,
         "other": 615,
-        "faang_plus": 69
+        "faang_plus": 153
       },
       "top_companies": [
         {
@@ -5757,6 +5757,10 @@
         {
           "company": "OpenAI",
           "jobs": 48
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 39
         },
         {
           "company": "xAI",
@@ -5781,15 +5785,11 @@
         {
           "company": "Anthropic",
           "jobs": 24
-        },
-        {
-          "company": "Scale AI",
-          "jobs": 23
         }
       ],
-      "unique_companies": 209,
-      "avg_jobs_per_company": 6.59,
-      "timestamp": "2026-08-22T07:37:12.789576+00:00"
+      "unique_companies": 216,
+      "avg_jobs_per_company": 6.76,
+      "timestamp": "2026-08-22T08:04:13.241878+00:00"
     }
   ]
 }
