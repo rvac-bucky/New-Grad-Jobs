@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-22T12:07:09.615798+00:00",
+    "last_updated": "2026-08-22T13:02:38.928957+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-24",
@@ -5729,20 +5729,20 @@
     },
     {
       "date": "2026-08-22",
-      "total_jobs": 1483,
+      "total_jobs": 1477,
       "categories": {
-        "data_ml": 149,
-        "software_engineering": 942,
-        "infrastructure_sre": 176,
-        "other": 171,
+        "data_ml": 148,
+        "software_engineering": 941,
+        "infrastructure_sre": 177,
         "hardware": 19,
+        "other": 167,
         "data_engineering": 19,
-        "quant_finance": 6,
+        "quant_finance": 5,
         "product_management": 1
       },
       "tiers": {
         "unicorn": 693,
-        "other": 636,
+        "other": 630,
         "faang_plus": 154
       },
       "top_companies": [
@@ -5771,10 +5771,6 @@
           "jobs": 30
         },
         {
-          "company": "Deloitte",
-          "jobs": 28
-        },
-        {
           "company": "Affirm",
           "jobs": 25
         },
@@ -5785,11 +5781,15 @@
         {
           "company": "Anthropic",
           "jobs": 24
+        },
+        {
+          "company": "Scale AI",
+          "jobs": 23
         }
       ],
-      "unique_companies": 229,
-      "avg_jobs_per_company": 6.48,
-      "timestamp": "2026-08-22T12:07:09.614742+00:00"
+      "unique_companies": 232,
+      "avg_jobs_per_company": 6.37,
+      "timestamp": "2026-08-22T13:02:38.927907+00:00"
     }
   ]
 }
