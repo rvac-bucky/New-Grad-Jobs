@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-23T13:17:12.978197+00:00",
+    "last_updated": "2026-08-23T13:53:04.131138+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-25",
@@ -5738,20 +5738,20 @@
     },
     {
       "date": "2026-08-23",
-      "total_jobs": 1482,
+      "total_jobs": 1471,
       "categories": {
-        "data_ml": 149,
-        "software_engineering": 928,
-        "infrastructure_sre": 177,
-        "other": 181,
+        "data_ml": 148,
+        "software_engineering": 929,
+        "infrastructure_sre": 175,
+        "other": 174,
         "data_engineering": 20,
-        "quant_finance": 7,
+        "quant_finance": 5,
         "product_management": 1,
         "hardware": 19
       },
       "tiers": {
         "unicorn": 690,
-        "other": 642,
+        "other": 631,
         "faang_plus": 150
       },
       "top_companies": [
@@ -5780,10 +5780,6 @@
           "jobs": 30
         },
         {
-          "company": "Deloitte",
-          "jobs": 30
-        },
-        {
           "company": "Affirm",
           "jobs": 25
         },
@@ -5794,11 +5790,15 @@
         {
           "company": "Leidos",
           "jobs": 24
+        },
+        {
+          "company": "Scale AI",
+          "jobs": 23
         }
       ],
-      "unique_companies": 229,
-      "avg_jobs_per_company": 6.47,
-      "timestamp": "2026-08-23T13:17:12.976204+00:00"
+      "unique_companies": 230,
+      "avg_jobs_per_company": 6.4,
+      "timestamp": "2026-08-23T13:53:04.130111+00:00"
     }
   ]
 }
