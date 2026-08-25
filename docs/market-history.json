@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-25T06:07:32.189865+00:00",
+    "last_updated": "2026-08-25T07:09:54.200271+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-27",
@@ -5748,21 +5748,21 @@
     },
     {
       "date": "2026-08-25",
-      "total_jobs": 1486,
+      "total_jobs": 1476,
       "categories": {
-        "infrastructure_sre": 174,
-        "software_engineering": 954,
+        "software_engineering": 951,
+        "infrastructure_sre": 176,
         "data_ml": 151,
+        "other": 154,
+        "quant_finance": 8,
         "data_engineering": 21,
-        "other": 161,
-        "hardware": 14,
-        "quant_finance": 9,
-        "product_management": 2
+        "product_management": 2,
+        "hardware": 13
       },
       "tiers": {
-        "unicorn": 689,
-        "other": 658,
-        "faang_plus": 139
+        "unicorn": 688,
+        "other": 644,
+        "faang_plus": 144
       },
       "top_companies": [
         {
@@ -5782,15 +5782,15 @@
           "jobs": 35
         },
         {
-          "company": "Accenture",
-          "jobs": 31
-        },
-        {
           "company": "Waymo",
           "jobs": 30
         },
         {
           "company": "Anthropic",
+          "jobs": 27
+        },
+        {
+          "company": "Accenture",
           "jobs": 27
         },
         {
@@ -5802,13 +5802,13 @@
           "jobs": 25
         },
         {
-          "company": "Deloitte",
+          "company": "Scale AI",
           "jobs": 23
         }
       ],
-      "unique_companies": 224,
-      "avg_jobs_per_company": 6.63,
-      "timestamp": "2026-08-25T06:07:32.188745+00:00"
+      "unique_companies": 222,
+      "avg_jobs_per_company": 6.65,
+      "timestamp": "2026-08-25T07:09:54.199168+00:00"
     }
   ]
 }
