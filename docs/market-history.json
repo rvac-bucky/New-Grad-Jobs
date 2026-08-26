@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-26T14:29:08.373321+00:00",
+    "last_updated": "2026-08-26T16:05:45.878293+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-28",
@@ -5749,21 +5749,21 @@
     },
     {
       "date": "2026-08-26",
-      "total_jobs": 1447,
+      "total_jobs": 1458,
       "categories": {
-        "software_engineering": 928,
-        "data_ml": 152,
-        "data_engineering": 23,
-        "infrastructure_sre": 177,
-        "product_management": 3,
-        "hardware": 11,
+        "software_engineering": 936,
+        "infrastructure_sre": 181,
+        "data_ml": 151,
+        "data_engineering": 24,
         "other": 142,
+        "hardware": 10,
+        "product_management": 3,
         "quant_finance": 11
       },
       "tiers": {
-        "unicorn": 684,
+        "unicorn": 685,
         "other": 624,
-        "faang_plus": 139
+        "faang_plus": 149
       },
       "top_companies": [
         {
@@ -5779,16 +5779,16 @@
           "jobs": 50
         },
         {
+          "company": "Northrop Grumman",
+          "jobs": 42
+        },
+        {
           "company": "xAI",
-          "jobs": 35
+          "jobs": 34
         },
         {
           "company": "Waymo",
           "jobs": 28
-        },
-        {
-          "company": "Northrop Grumman",
-          "jobs": 27
         },
         {
           "company": "Anthropic",
@@ -5808,8 +5808,8 @@
         }
       ],
       "unique_companies": 231,
-      "avg_jobs_per_company": 6.26,
-      "timestamp": "2026-08-26T14:29:08.372302+00:00"
+      "avg_jobs_per_company": 6.31,
+      "timestamp": "2026-08-26T16:05:45.877396+00:00"
     }
   ]
 }
