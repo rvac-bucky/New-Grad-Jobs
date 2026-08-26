@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-26T19:11:42.422978+00:00",
+    "last_updated": "2026-08-26T21:50:41.599550+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-05-28",
@@ -5749,30 +5749,30 @@
     },
     {
       "date": "2026-08-26",
-      "total_jobs": 1479,
+      "total_jobs": 1489,
       "categories": {
-        "software_engineering": 967,
-        "infrastructure_sre": 175,
-        "data_ml": 153,
+        "software_engineering": 971,
         "data_engineering": 22,
-        "hardware": 13,
-        "other": 137,
+        "data_ml": 156,
+        "infrastructure_sre": 184,
+        "hardware": 15,
+        "other": 129,
         "quant_finance": 10,
         "product_management": 2
       },
       "tiers": {
-        "unicorn": 691,
-        "other": 646,
-        "faang_plus": 142
+        "other": 645,
+        "unicorn": 693,
+        "faang_plus": 151
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 246
+          "jobs": 245
         },
         {
           "company": "Anduril Industries",
-          "jobs": 201
+          "jobs": 200
         },
         {
           "company": "OpenAI",
@@ -5780,7 +5780,7 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 36
+          "jobs": 37
         },
         {
           "company": "xAI",
@@ -5789,6 +5789,10 @@
         {
           "company": "Waymo",
           "jobs": 29
+        },
+        {
+          "company": "Leidos",
+          "jobs": 28
         },
         {
           "company": "Anthropic",
@@ -5801,15 +5805,11 @@
         {
           "company": "Affirm",
           "jobs": 25
-        },
-        {
-          "company": "Deloitte",
-          "jobs": 23
         }
       ],
-      "unique_companies": 222,
-      "avg_jobs_per_company": 6.66,
-      "timestamp": "2026-08-26T19:11:42.422040+00:00"
+      "unique_companies": 224,
+      "avg_jobs_per_company": 6.65,
+      "timestamp": "2026-08-26T21:50:41.598478+00:00"
     }
   ]
 }
