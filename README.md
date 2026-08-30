@@ -28,13 +28,13 @@
 
 🤖 [Data Science & ML](#data-science--ml) (<!-- COUNT:data_ml -->141<!-- /COUNT -->)
 
-📊 [Data Engineering](#data-engineering) (<!-- COUNT:data_engineering -->34<!-- /COUNT -->)
+📊 [Data Engineering](#data-engineering) (<!-- COUNT:data_engineering -->32<!-- /COUNT -->)
 
-🏗️ [Infrastructure & SRE](#infrastructure--sre) (<!-- COUNT:infrastructure_sre -->186<!-- /COUNT -->)
+🏗️ [Infrastructure & SRE](#infrastructure--sre) (<!-- COUNT:infrastructure_sre -->185<!-- /COUNT -->)
 
 🔧 [Hardware Engineering](#hardware-engineering) (<!-- COUNT:hardware -->16<!-- /COUNT -->)
 
-💼 [Other](#other) (<!-- COUNT:other -->147<!-- /COUNT -->)
+💼 [Other](#other) (<!-- COUNT:other -->150<!-- /COUNT -->)
 <!-- COUNTS:END -->
 
 ---
@@ -1201,4 +1201,4 @@ Found a job we're missing? Want to report a closed position?
 
 ⭐ **Star this repo** to stay updated with the latest new grad opportunities!
 
-*Last updated: 2026-08-30 11:26:59 UTC*
+*Last updated: 2026-08-30 15:30:29 UTC*
