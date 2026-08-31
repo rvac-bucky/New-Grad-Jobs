@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-31T09:49:02.358694+00:00",
+    "last_updated": "2026-08-31T17:22:15.560991+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-02",
@@ -5754,54 +5754,42 @@
     },
     {
       "date": "2026-08-31",
-      "total_jobs": 1506,
+      "total_jobs": 1491,
       "categories": {
-        "software_engineering": 959,
+        "software_engineering": 956,
         "data_ml": 138,
-        "hardware": 18,
-        "other": 162,
-        "infrastructure_sre": 185,
-        "data_engineering": 30,
-        "product_management": 3,
-        "quant_finance": 11
+        "infrastructure_sre": 179,
+        "hardware": 26,
+        "other": 149,
+        "data_engineering": 31,
+        "product_management": 4,
+        "quant_finance": 8
       },
       "tiers": {
-        "other": 653,
+        "other": 654,
         "unicorn": 703,
-        "faang_plus": 150
+        "faang_plus": 134
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 255
+          "jobs": 256
         },
         {
           "company": "Anduril Industries",
-          "jobs": 197
+          "jobs": 195
         },
         {
           "company": "OpenAI",
-          "jobs": 53
-        },
-        {
-          "company": "Advocate Aurora Health",
-          "jobs": 37
+          "jobs": 52
         },
         {
           "company": "xAI",
           "jobs": 35
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 29
-        },
-        {
           "company": "Waymo",
           "jobs": 28
-        },
-        {
-          "company": "Boeing",
-          "jobs": 27
         },
         {
           "company": "Anthropic",
@@ -5810,11 +5798,23 @@
         {
           "company": "Affirm",
           "jobs": 25
+        },
+        {
+          "company": "Advocate Aurora Health",
+          "jobs": 24
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 24
+        },
+        {
+          "company": "Lyft",
+          "jobs": 22
         }
       ],
-      "unique_companies": 242,
-      "avg_jobs_per_company": 6.22,
-      "timestamp": "2026-08-31T09:49:02.357667+00:00"
+      "unique_companies": 245,
+      "avg_jobs_per_company": 6.09,
+      "timestamp": "2026-08-31T17:22:15.560054+00:00"
     }
   ]
 }
