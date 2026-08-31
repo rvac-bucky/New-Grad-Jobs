@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-31T17:22:15.560991+00:00",
+    "last_updated": "2026-08-31T22:03:09.529598+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-02",
@@ -5754,34 +5754,38 @@
     },
     {
       "date": "2026-08-31",
-      "total_jobs": 1491,
+      "total_jobs": 1512,
       "categories": {
-        "software_engineering": 956,
+        "software_engineering": 969,
         "data_ml": 138,
-        "infrastructure_sre": 179,
-        "hardware": 26,
-        "other": 149,
-        "data_engineering": 31,
+        "infrastructure_sre": 191,
+        "data_engineering": 29,
+        "hardware": 20,
+        "other": 154,
         "product_management": 4,
-        "quant_finance": 8
+        "quant_finance": 7
       },
       "tiers": {
-        "other": 654,
-        "unicorn": 703,
-        "faang_plus": 134
+        "unicorn": 705,
+        "other": 669,
+        "faang_plus": 138
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 256
+          "jobs": 254
         },
         {
           "company": "Anduril Industries",
-          "jobs": 195
+          "jobs": 196
         },
         {
           "company": "OpenAI",
-          "jobs": 52
+          "jobs": 53
+        },
+        {
+          "company": "Atrium Health",
+          "jobs": 43
         },
         {
           "company": "xAI",
@@ -5792,29 +5796,25 @@
           "jobs": 28
         },
         {
+          "company": "Leidos",
+          "jobs": 27
+        },
+        {
           "company": "Anthropic",
           "jobs": 26
         },
         {
           "company": "Affirm",
-          "jobs": 25
+          "jobs": 23
         },
         {
-          "company": "Advocate Aurora Health",
-          "jobs": 24
-        },
-        {
-          "company": "Northrop Grumman",
-          "jobs": 24
-        },
-        {
-          "company": "Lyft",
-          "jobs": 22
+          "company": "Boeing",
+          "jobs": 23
         }
       ],
-      "unique_companies": 245,
-      "avg_jobs_per_company": 6.09,
-      "timestamp": "2026-08-31T17:22:15.560054+00:00"
+      "unique_companies": 239,
+      "avg_jobs_per_company": 6.33,
+      "timestamp": "2026-08-31T22:03:09.528542+00:00"
     }
   ]
 }
