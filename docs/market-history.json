@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-01T18:56:25.788328+00:00",
+    "last_updated": "2026-09-01T21:34:01.934234+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-03",
@@ -5755,21 +5755,21 @@
     },
     {
       "date": "2026-09-01",
-      "total_jobs": 1505,
+      "total_jobs": 1484,
       "categories": {
-        "software_engineering": 983,
-        "infrastructure_sre": 196,
-        "data_ml": 148,
-        "other": 117,
-        "hardware": 19,
-        "data_engineering": 30,
-        "quant_finance": 10,
+        "software_engineering": 951,
+        "infrastructure_sre": 204,
+        "data_engineering": 33,
+        "data_ml": 144,
+        "other": 124,
+        "hardware": 18,
+        "quant_finance": 8,
         "product_management": 2
       },
       "tiers": {
-        "other": 661,
         "unicorn": 701,
-        "faang_plus": 143
+        "faang_plus": 134,
+        "other": 649
       },
       "top_companies": [
         {
@@ -5793,29 +5793,29 @@
           "jobs": 28
         },
         {
-          "company": "Boeing",
-          "jobs": 26
-        },
-        {
           "company": "Anthropic",
-          "jobs": 26
+          "jobs": 27
         },
         {
-          "company": "Syms Strategic Group, LLC (SSG)",
-          "jobs": 24
-        },
-        {
-          "company": "Leidos",
+          "company": "Boeing",
           "jobs": 23
         },
         {
           "company": "Affirm",
           "jobs": 23
+        },
+        {
+          "company": "Lyft",
+          "jobs": 22
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 22
         }
       ],
-      "unique_companies": 244,
-      "avg_jobs_per_company": 6.17,
-      "timestamp": "2026-09-01T18:56:25.787207+00:00"
+      "unique_companies": 249,
+      "avg_jobs_per_company": 5.96,
+      "timestamp": "2026-09-01T21:34:01.933323+00:00"
     }
   ]
 }
