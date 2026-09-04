@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-04T20:02:06.966147+00:00",
+    "last_updated": "2026-09-04T22:18:29.483892+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-06",
@@ -5758,30 +5758,30 @@
     },
     {
       "date": "2026-09-04",
-      "total_jobs": 1524,
+      "total_jobs": 1519,
       "categories": {
-        "software_engineering": 997,
-        "infrastructure_sre": 195,
-        "data_ml": 143,
+        "software_engineering": 1006,
+        "data_ml": 144,
+        "infrastructure_sre": 193,
         "product_management": 2,
-        "data_engineering": 27,
-        "other": 137,
+        "data_engineering": 26,
+        "other": 125,
         "hardware": 16,
         "quant_finance": 7
       },
       "tiers": {
-        "unicorn": 705,
-        "other": 669,
-        "faang_plus": 150
+        "unicorn": 704,
+        "other": 664,
+        "faang_plus": 151
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 259
+          "jobs": 258
         },
         {
           "company": "Anduril Industries",
-          "jobs": 194
+          "jobs": 193
         },
         {
           "company": "OpenAI",
@@ -5792,12 +5792,16 @@
           "jobs": 38
         },
         {
+          "company": null,
+          "jobs": 38
+        },
+        {
           "company": "Northrop Grumman",
-          "jobs": 33
+          "jobs": 35
         },
         {
           "company": "Waymo",
-          "jobs": 28
+          "jobs": 29
         },
         {
           "company": "Anthropic",
@@ -5810,15 +5814,11 @@
         {
           "company": "Boeing",
           "jobs": 26
-        },
-        {
-          "company": "Affirm",
-          "jobs": 25
         }
       ],
-      "unique_companies": 256,
-      "avg_jobs_per_company": 5.95,
-      "timestamp": "2026-09-04T20:02:06.965025+00:00"
+      "unique_companies": 238,
+      "avg_jobs_per_company": 6.38,
+      "timestamp": "2026-09-04T22:18:29.482754+00:00"
     }
   ]
 }
