@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-08T20:26:49.070709+00:00",
+    "last_updated": "2026-09-08T22:54:30.688687+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-10",
@@ -5762,26 +5762,26 @@
     },
     {
       "date": "2026-09-08",
-      "total_jobs": 1523,
+      "total_jobs": 1487,
       "categories": {
+        "data_ml": 138,
         "software_engineering": 956,
-        "data_ml": 141,
-        "infrastructure_sre": 211,
-        "data_engineering": 40,
-        "quant_finance": 4,
-        "other": 137,
-        "hardware": 31,
-        "product_management": 3
+        "infrastructure_sre": 214,
+        "data_engineering": 31,
+        "quant_finance": 6,
+        "other": 120,
+        "hardware": 20,
+        "product_management": 2
       },
       "tiers": {
-        "other": 688,
-        "unicorn": 704,
-        "faang_plus": 131
+        "other": 661,
+        "unicorn": 705,
+        "faang_plus": 121
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 261
+          "jobs": 262
         },
         {
           "company": "Anduril Industries",
@@ -5789,40 +5789,40 @@
         },
         {
           "company": "OpenAI",
-          "jobs": 49
+          "jobs": 50
         },
         {
           "company": "xAI",
           "jobs": 37
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 31
-        },
-        {
-          "company": "Waymo",
-          "jobs": 27
-        },
-        {
           "company": "Anthropic",
           "jobs": 27
         },
         {
-          "company": "Accenture",
+          "company": "Waymo",
           "jobs": 25
+        },
+        {
+          "company": "Leidos",
+          "jobs": 24
         },
         {
           "company": "Affirm",
           "jobs": 24
         },
         {
-          "company": "Lyft",
-          "jobs": 24
+          "company": "Accenture",
+          "jobs": 23
+        },
+        {
+          "company": "Stripe",
+          "jobs": 23
         }
       ],
-      "unique_companies": 254,
-      "avg_jobs_per_company": 6.0,
-      "timestamp": "2026-09-08T20:26:49.069625+00:00"
+      "unique_companies": 239,
+      "avg_jobs_per_company": 6.22,
+      "timestamp": "2026-09-08T22:54:30.687710+00:00"
     }
   ]
 }
