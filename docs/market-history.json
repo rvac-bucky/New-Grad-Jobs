@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-08T05:05:00.709071+00:00",
+    "last_updated": "2026-09-08T09:39:35.013596+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-10",
@@ -5762,21 +5762,21 @@
     },
     {
       "date": "2026-09-08",
-      "total_jobs": 1493,
+      "total_jobs": 1469,
       "categories": {
-        "software_engineering": 965,
-        "other": 129,
-        "data_engineering": 31,
-        "infrastructure_sre": 199,
+        "software_engineering": 953,
         "data_ml": 138,
-        "hardware": 20,
+        "infrastructure_sre": 198,
+        "other": 120,
+        "data_engineering": 33,
+        "hardware": 21,
         "product_management": 2,
-        "quant_finance": 9
+        "quant_finance": 4
       },
       "tiers": {
+        "other": 626,
         "unicorn": 704,
-        "faang_plus": 143,
-        "other": 646
+        "faang_plus": 139
       },
       "top_companies": [
         {
@@ -5808,11 +5808,11 @@
           "jobs": 27
         },
         {
-          "company": "Lyft",
-          "jobs": 26
+          "company": "Affirm",
+          "jobs": 24
         },
         {
-          "company": "Affirm",
+          "company": "Lyft",
           "jobs": 24
         },
         {
@@ -5820,9 +5820,9 @@
           "jobs": 23
         }
       ],
-      "unique_companies": 245,
-      "avg_jobs_per_company": 6.09,
-      "timestamp": "2026-09-08T05:05:00.707975+00:00"
+      "unique_companies": 241,
+      "avg_jobs_per_company": 6.1,
+      "timestamp": "2026-09-08T09:39:35.012329+00:00"
     }
   ]
 }
