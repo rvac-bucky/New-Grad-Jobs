@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-09T20:36:39.053418+00:00",
+    "last_updated": "2026-09-09T22:49:36.159862+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-11",
@@ -5763,26 +5763,26 @@
     },
     {
       "date": "2026-09-09",
-      "total_jobs": 1517,
+      "total_jobs": 1497,
       "categories": {
-        "software_engineering": 948,
-        "infrastructure_sre": 221,
-        "data_ml": 139,
-        "data_engineering": 34,
+        "software_engineering": 927,
+        "data_ml": 151,
+        "infrastructure_sre": 201,
+        "data_engineering": 43,
         "quant_finance": 5,
-        "other": 151,
-        "hardware": 17,
-        "product_management": 2
+        "other": 152,
+        "hardware": 15,
+        "product_management": 3
       },
       "tiers": {
-        "other": 690,
-        "unicorn": 705,
-        "faang_plus": 122
+        "faang_plus": 135,
+        "unicorn": 704,
+        "other": 658
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 260
+          "jobs": 259
         },
         {
           "company": "Anduril Industries",
@@ -5802,7 +5802,7 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 27
+          "jobs": 30
         },
         {
           "company": "Waymo",
@@ -5813,17 +5813,17 @@
           "jobs": 24
         },
         {
-          "company": "Stripe",
-          "jobs": 21
+          "company": "Lyft",
+          "jobs": 23
         },
         {
-          "company": "MongoDB",
+          "company": "Stripe",
           "jobs": 21
         }
       ],
-      "unique_companies": 275,
-      "avg_jobs_per_company": 5.52,
-      "timestamp": "2026-09-09T20:36:39.051172+00:00"
+      "unique_companies": 266,
+      "avg_jobs_per_company": 5.63,
+      "timestamp": "2026-09-09T22:49:36.158723+00:00"
     }
   ]
 }
