@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-10T17:48:05.022822+00:00",
+    "last_updated": "2026-09-10T20:10:09.787892+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-12",
@@ -5764,34 +5764,34 @@
     },
     {
       "date": "2026-09-10",
-      "total_jobs": 1509,
+      "total_jobs": 1514,
       "categories": {
-        "software_engineering": 951,
-        "data_ml": 139,
-        "infrastructure_sre": 219,
-        "other": 137,
-        "hardware": 14,
-        "data_engineering": 42,
+        "infrastructure_sre": 214,
+        "software_engineering": 972,
+        "data_ml": 136,
+        "other": 138,
+        "hardware": 13,
+        "data_engineering": 34,
         "quant_finance": 5,
         "product_management": 2
       },
       "tiers": {
-        "unicorn": 722,
-        "faang_plus": 142,
-        "other": 645
+        "other": 661,
+        "faang_plus": 136,
+        "unicorn": 717
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 262
+          "jobs": 263
         },
         {
           "company": "Anduril Industries",
-          "jobs": 194
+          "jobs": 193
         },
         {
           "company": "OpenAI",
-          "jobs": 62
+          "jobs": 52
         },
         {
           "company": "xAI",
@@ -5803,7 +5803,11 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 25
+          "jobs": 26
+        },
+        {
+          "company": "Leidos",
+          "jobs": 26
         },
         {
           "company": "Waymo",
@@ -5816,15 +5820,11 @@
         {
           "company": "Affirm",
           "jobs": 23
-        },
-        {
-          "company": "Leidos",
-          "jobs": 23
         }
       ],
-      "unique_companies": 258,
-      "avg_jobs_per_company": 5.85,
-      "timestamp": "2026-09-10T17:48:05.021737+00:00"
+      "unique_companies": 269,
+      "avg_jobs_per_company": 5.63,
+      "timestamp": "2026-09-10T20:10:09.785016+00:00"
     }
   ]
 }
