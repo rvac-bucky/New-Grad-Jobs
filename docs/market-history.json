@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-11T13:58:04.550604+00:00",
+    "last_updated": "2026-09-11T17:31:07.598699+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-13",
@@ -5764,34 +5764,34 @@
     },
     {
       "date": "2026-09-11",
-      "total_jobs": 1480,
+      "total_jobs": 1521,
       "categories": {
-        "infrastructure_sre": 208,
-        "software_engineering": 961,
-        "data_ml": 134,
-        "other": 120,
-        "data_engineering": 36,
-        "hardware": 13,
+        "software_engineering": 979,
+        "data_ml": 148,
+        "infrastructure_sre": 206,
+        "data_engineering": 47,
+        "other": 119,
+        "hardware": 14,
         "quant_finance": 5,
         "product_management": 3
       },
       "tiers": {
-        "other": 620,
-        "unicorn": 720,
-        "faang_plus": 140
+        "other": 650,
+        "faang_plus": 148,
+        "unicorn": 723
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 266
+          "jobs": 267
         },
         {
           "company": "Anduril Industries",
-          "jobs": 196
+          "jobs": 195
         },
         {
           "company": "OpenAI",
-          "jobs": 52
+          "jobs": 54
         },
         {
           "company": "xAI",
@@ -5802,8 +5802,12 @@
           "jobs": 30
         },
         {
+          "company": "Lyft",
+          "jobs": 25
+        },
+        {
           "company": "Leidos",
-          "jobs": 26
+          "jobs": 25
         },
         {
           "company": "Waymo",
@@ -5814,17 +5818,13 @@
           "jobs": 23
         },
         {
-          "company": "Lyft",
-          "jobs": 23
-        },
-        {
           "company": "Affirm",
           "jobs": 23
         }
       ],
-      "unique_companies": 236,
-      "avg_jobs_per_company": 6.27,
-      "timestamp": "2026-09-11T13:58:04.549580+00:00"
+      "unique_companies": 268,
+      "avg_jobs_per_company": 5.68,
+      "timestamp": "2026-09-11T17:31:07.597948+00:00"
     }
   ]
 }
