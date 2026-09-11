@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-11T00:36:50.711538+00:00",
+    "last_updated": "2026-09-11T05:15:08.957598+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-13",
@@ -5764,21 +5764,21 @@
     },
     {
       "date": "2026-09-11",
-      "total_jobs": 1531,
+      "total_jobs": 1499,
       "categories": {
         "software_engineering": 965,
+        "infrastructure_sre": 206,
+        "other": 122,
         "data_engineering": 45,
-        "infrastructure_sre": 211,
         "hardware": 15,
-        "data_ml": 153,
-        "other": 136,
+        "data_ml": 139,
         "quant_finance": 4,
-        "product_management": 2
+        "product_management": 3
       },
       "tiers": {
-        "unicorn": 718,
-        "faang_plus": 137,
-        "other": 676
+        "unicorn": 721,
+        "other": 645,
+        "faang_plus": 133
       },
       "top_companies": [
         {
@@ -5791,7 +5791,7 @@
         },
         {
           "company": "OpenAI",
-          "jobs": 52
+          "jobs": 54
         },
         {
           "company": "xAI",
@@ -5803,7 +5803,7 @@
         },
         {
           "company": "Leidos",
-          "jobs": 28
+          "jobs": 29
         },
         {
           "company": "Waymo",
@@ -5822,9 +5822,9 @@
           "jobs": 22
         }
       ],
-      "unique_companies": 267,
-      "avg_jobs_per_company": 5.73,
-      "timestamp": "2026-09-11T00:36:50.709603+00:00"
+      "unique_companies": 239,
+      "avg_jobs_per_company": 6.27,
+      "timestamp": "2026-09-11T05:15:08.954697+00:00"
     }
   ]
 }
