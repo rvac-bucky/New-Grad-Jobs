@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-16T00:33:26.297916+00:00",
+    "last_updated": "2026-09-16T05:13:47.188290+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-18",
@@ -5768,21 +5768,21 @@
     },
     {
       "date": "2026-09-16",
-      "total_jobs": 1514,
+      "total_jobs": 1522,
       "categories": {
+        "other": 124,
+        "data_ml": 153,
         "software_engineering": 970,
-        "data_ml": 147,
-        "data_engineering": 32,
-        "other": 133,
-        "infrastructure_sre": 210,
-        "hardware": 14,
+        "infrastructure_sre": 212,
+        "data_engineering": 35,
+        "hardware": 20,
         "quant_finance": 6,
         "product_management": 2
       },
       "tiers": {
-        "other": 643,
-        "faang_plus": 147,
-        "unicorn": 724
+        "other": 639,
+        "unicorn": 726,
+        "faang_plus": 157
       },
       "top_companies": [
         {
@@ -5791,11 +5791,11 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 202
+          "jobs": 203
         },
         {
           "company": "OpenAI",
-          "jobs": 54
+          "jobs": 55
         },
         {
           "company": "xAI",
@@ -5806,12 +5806,12 @@
           "jobs": 32
         },
         {
-          "company": "Leidos",
-          "jobs": 32
-        },
-        {
           "company": "Anthropic",
           "jobs": 31
+        },
+        {
+          "company": "Leidos",
+          "jobs": 28
         },
         {
           "company": "Lyft",
@@ -5826,9 +5826,9 @@
           "jobs": 23
         }
       ],
-      "unique_companies": 235,
-      "avg_jobs_per_company": 6.44,
-      "timestamp": "2026-09-16T00:33:26.296764+00:00"
+      "unique_companies": 245,
+      "avg_jobs_per_company": 6.21,
+      "timestamp": "2026-09-16T05:13:47.187196+00:00"
     }
   ]
 }
