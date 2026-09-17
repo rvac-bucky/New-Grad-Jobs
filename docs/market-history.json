@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-17T02:47:13.483494+00:00",
+    "last_updated": "2026-09-17T08:04:49.858714+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-19",
@@ -5769,21 +5769,21 @@
     },
     {
       "date": "2026-09-17",
-      "total_jobs": 1581,
+      "total_jobs": 1556,
       "categories": {
-        "software_engineering": 1015,
-        "other": 154,
-        "data_ml": 150,
-        "infrastructure_sre": 212,
+        "software_engineering": 1009,
+        "infrastructure_sre": 211,
+        "other": 132,
+        "data_ml": 152,
         "data_engineering": 28,
-        "hardware": 12,
-        "quant_finance": 7,
-        "product_management": 3
+        "hardware": 14,
+        "product_management": 3,
+        "quant_finance": 7
       },
       "tiers": {
-        "other": 678,
-        "faang_plus": 177,
-        "unicorn": 726
+        "unicorn": 725,
+        "other": 652,
+        "faang_plus": 179
       },
       "top_companies": [
         {
@@ -5815,21 +5815,21 @@
           "jobs": 29
         },
         {
-          "company": "Accenture",
-          "jobs": 29
-        },
-        {
           "company": "Lyft",
           "jobs": 25
         },
         {
           "company": "Stripe",
           "jobs": 24
+        },
+        {
+          "company": "Accenture",
+          "jobs": 24
         }
       ],
-      "unique_companies": 266,
-      "avg_jobs_per_company": 5.94,
-      "timestamp": "2026-09-17T02:47:13.482641+00:00"
+      "unique_companies": 249,
+      "avg_jobs_per_company": 6.25,
+      "timestamp": "2026-09-17T08:04:49.857731+00:00"
     }
   ]
 }
