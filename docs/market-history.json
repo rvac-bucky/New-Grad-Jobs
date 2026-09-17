@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-17T20:40:38.124493+00:00",
+    "last_updated": "2026-09-17T23:10:30.287499+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-19",
@@ -5769,26 +5769,26 @@
     },
     {
       "date": "2026-09-17",
-      "total_jobs": 1514,
+      "total_jobs": 1523,
       "categories": {
-        "infrastructure_sre": 211,
-        "software_engineering": 967,
-        "data_ml": 150,
-        "other": 140,
-        "hardware": 11,
-        "data_engineering": 27,
-        "quant_finance": 6,
+        "software_engineering": 951,
+        "infrastructure_sre": 222,
+        "data_ml": 153,
+        "other": 145,
+        "hardware": 18,
+        "quant_finance": 7,
+        "data_engineering": 25,
         "product_management": 2
       },
       "tiers": {
+        "faang_plus": 156,
         "unicorn": 716,
-        "other": 642,
-        "faang_plus": 156
+        "other": 651
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 275
+          "jobs": 276
         },
         {
           "company": "Anduril Industries",
@@ -5804,7 +5804,7 @@
         },
         {
           "company": "Leidos",
-          "jobs": 31
+          "jobs": 32
         },
         {
           "company": "Anthropic",
@@ -5812,7 +5812,11 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 29
+          "jobs": 26
+        },
+        {
+          "company": "Boeing",
+          "jobs": 25
         },
         {
           "company": "Lyft",
@@ -5821,15 +5825,11 @@
         {
           "company": "Stripe",
           "jobs": 24
-        },
-        {
-          "company": "Boeing",
-          "jobs": 23
         }
       ],
-      "unique_companies": 252,
-      "avg_jobs_per_company": 6.01,
-      "timestamp": "2026-09-17T20:40:38.123241+00:00"
+      "unique_companies": 256,
+      "avg_jobs_per_company": 5.95,
+      "timestamp": "2026-09-17T23:10:30.286361+00:00"
     }
   ]
 }
