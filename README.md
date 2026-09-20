@@ -26,7 +26,7 @@
 
 💻 [Software Engineering](#software-engineering) (<!-- COUNT:software_engineering -->950<!-- /COUNT -->)
 
-🤖 [Data Science & ML](#data-science--ml) (<!-- COUNT:data_ml -->150<!-- /COUNT -->)
+🤖 [Data Science & ML](#data-science--ml) (<!-- COUNT:data_ml -->149<!-- /COUNT -->)
 
 📊 [Data Engineering](#data-engineering) (<!-- COUNT:data_engineering -->25<!-- /COUNT -->)
 
@@ -34,7 +34,7 @@
 
 🔧 [Hardware Engineering](#hardware-engineering) (<!-- COUNT:hardware -->18<!-- /COUNT -->)
 
-💼 [Other](#other) (<!-- COUNT:other -->138<!-- /COUNT -->)
+💼 [Other](#other) (<!-- COUNT:other -->139<!-- /COUNT -->)
 <!-- COUNTS:END -->
 
 ---
@@ -1201,4 +1201,4 @@ Found a job we're missing? Want to report a closed position?
 
 ⭐ **Star this repo** to stay updated with the latest new grad opportunities!
 
-*Last updated: 2026-09-20 18:56:35 UTC*
+*Last updated: 2026-09-20 21:13:08 UTC*
