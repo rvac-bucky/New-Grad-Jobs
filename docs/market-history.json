@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-23T14:59:25.703743+00:00",
+    "last_updated": "2026-09-23T18:58:52.309240+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-06-25",
@@ -5770,30 +5770,30 @@
     },
     {
       "date": "2026-09-23",
-      "total_jobs": 1510,
+      "total_jobs": 1544,
       "categories": {
-        "software_engineering": 972,
-        "data_ml": 159,
+        "software_engineering": 1002,
         "infrastructure_sre": 206,
-        "other": 127,
-        "hardware": 13,
-        "data_engineering": 24,
-        "quant_finance": 6,
-        "product_management": 3
+        "data_ml": 158,
+        "data_engineering": 25,
+        "other": 132,
+        "product_management": 4,
+        "hardware": 12,
+        "quant_finance": 5
       },
       "tiers": {
-        "unicorn": 721,
-        "other": 642,
-        "faang_plus": 147
+        "other": 658,
+        "unicorn": 727,
+        "faang_plus": 159
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 275
+          "jobs": 277
         },
         {
           "company": "Anduril Industries",
-          "jobs": 214
+          "jobs": 216
         },
         {
           "company": "OpenAI",
@@ -5808,12 +5808,16 @@
           "jobs": 34
         },
         {
+          "company": "Leidos",
+          "jobs": 31
+        },
+        {
           "company": "Boeing",
           "jobs": 29
         },
         {
-          "company": "Leidos",
-          "jobs": 29
+          "company": "Accenture",
+          "jobs": 28
         },
         {
           "company": "Stripe",
@@ -5822,15 +5826,11 @@
         {
           "company": "Lyft",
           "jobs": 26
-        },
-        {
-          "company": "Affirm",
-          "jobs": 22
         }
       ],
-      "unique_companies": 239,
-      "avg_jobs_per_company": 6.32,
-      "timestamp": "2026-09-23T14:59:25.701612+00:00"
+      "unique_companies": 231,
+      "avg_jobs_per_company": 6.68,
+      "timestamp": "2026-09-23T18:58:52.308054+00:00"
     }
   ]
 }
