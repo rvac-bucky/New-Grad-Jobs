@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-29T08:50:06.523342+00:00",
+    "last_updated": "2026-09-29T15:14:16.403825+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-07-01",
@@ -5770,21 +5770,21 @@
     },
     {
       "date": "2026-09-29",
-      "total_jobs": 1497,
+      "total_jobs": 1501,
       "categories": {
-        "software_engineering": 974,
-        "infrastructure_sre": 214,
+        "infrastructure_sre": 210,
+        "software_engineering": 979,
+        "other": 116,
         "hardware": 15,
-        "data_ml": 153,
-        "other": 112,
-        "data_engineering": 24,
-        "quant_finance": 4,
-        "product_management": 1
+        "product_management": 2,
+        "data_engineering": 26,
+        "data_ml": 150,
+        "quant_finance": 3
       },
       "tiers": {
-        "unicorn": 726,
-        "other": 622,
-        "faang_plus": 149
+        "unicorn": 725,
+        "other": 623,
+        "faang_plus": 153
       },
       "top_companies": [
         {
@@ -5809,7 +5809,7 @@
         },
         {
           "company": "Leidos",
-          "jobs": 28
+          "jobs": 29
         },
         {
           "company": "Stripe",
@@ -5828,9 +5828,9 @@
           "jobs": 22
         }
       ],
-      "unique_companies": 222,
-      "avg_jobs_per_company": 6.74,
-      "timestamp": "2026-09-29T08:50:06.520072+00:00"
+      "unique_companies": 221,
+      "avg_jobs_per_company": 6.79,
+      "timestamp": "2026-09-29T15:14:16.402685+00:00"
     }
   ]
 }
