@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-06T06:42:46.460397+00:00",
+    "last_updated": "2026-10-06T13:44:06.055084+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-07-08",
@@ -5770,21 +5770,21 @@
     },
     {
       "date": "2026-10-06",
-      "total_jobs": 1542,
+      "total_jobs": 1546,
       "categories": {
         "software_engineering": 1005,
+        "data_ml": 160,
         "infrastructure_sre": 212,
-        "data_ml": 164,
-        "other": 112,
-        "data_engineering": 29,
-        "hardware": 13,
+        "hardware": 16,
+        "other": 120,
+        "data_engineering": 27,
         "product_management": 2,
-        "quant_finance": 5
+        "quant_finance": 4
       },
       "tiers": {
-        "unicorn": 735,
-        "faang_plus": 171,
-        "other": 636
+        "unicorn": 734,
+        "faang_plus": 169,
+        "other": 643
       },
       "top_companies": [
         {
@@ -5805,7 +5805,7 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 36
+          "jobs": 37
         },
         {
           "company": "Anthropic",
@@ -5820,17 +5820,17 @@
           "jobs": 29
         },
         {
-          "company": "Boeing",
+          "company": "VHC Health",
           "jobs": 28
         },
         {
-          "company": "Leidos",
-          "jobs": 26
+          "company": "Boeing",
+          "jobs": 27
         }
       ],
-      "unique_companies": 220,
-      "avg_jobs_per_company": 7.01,
-      "timestamp": "2026-10-06T06:42:46.459307+00:00"
+      "unique_companies": 228,
+      "avg_jobs_per_company": 6.78,
+      "timestamp": "2026-10-06T13:44:06.053924+00:00"
     }
   ]
 }
