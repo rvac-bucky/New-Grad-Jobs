@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-10T02:27:40.059039+00:00",
+    "last_updated": "2026-10-10T08:50:36.480922+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-07-12",
@@ -5770,21 +5770,21 @@
     },
     {
       "date": "2026-10-10",
-      "total_jobs": 1590,
+      "total_jobs": 1580,
       "categories": {
-        "infrastructure_sre": 217,
-        "software_engineering": 1047,
-        "data_engineering": 38,
-        "other": 92,
-        "data_ml": 172,
+        "infrastructure_sre": 216,
+        "software_engineering": 1058,
+        "other": 82,
         "hardware": 18,
+        "data_ml": 163,
+        "data_engineering": 37,
         "product_management": 3,
         "quant_finance": 3
       },
       "tiers": {
-        "other": 674,
-        "unicorn": 770,
-        "faang_plus": 146
+        "unicorn": 768,
+        "other": 662,
+        "faang_plus": 150
       },
       "top_companies": [
         {
@@ -5797,7 +5797,7 @@
         },
         {
           "company": "OpenAI",
-          "jobs": 62
+          "jobs": 61
         },
         {
           "company": "xAI",
@@ -5805,32 +5805,32 @@
         },
         {
           "company": "Affirm",
-          "jobs": 35
+          "jobs": 34
         },
         {
           "company": "Anthropic",
           "jobs": 31
         },
         {
-          "company": "Leidos",
-          "jobs": 29
-        },
-        {
           "company": "Stripe",
           "jobs": 29
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 27
+          "company": "Leidos",
+          "jobs": 29
         },
         {
           "company": "Lyft",
           "jobs": 27
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 26
         }
       ],
-      "unique_companies": 278,
-      "avg_jobs_per_company": 5.72,
-      "timestamp": "2026-10-10T02:27:40.058073+00:00"
+      "unique_companies": 269,
+      "avg_jobs_per_company": 5.87,
+      "timestamp": "2026-10-10T08:50:36.480226+00:00"
     }
   ]
 }
