@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-13T00:04:20.985563+00:00",
+    "last_updated": "2026-10-13T06:45:00.762581+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-07-15",
@@ -5770,21 +5770,21 @@
     },
     {
       "date": "2026-10-13",
-      "total_jobs": 1546,
+      "total_jobs": 1552,
       "categories": {
-        "infrastructure_sre": 221,
-        "software_engineering": 1016,
-        "other": 87,
-        "hardware": 17,
-        "data_engineering": 38,
-        "data_ml": 162,
+        "software_engineering": 1026,
+        "infrastructure_sre": 218,
+        "data_ml": 158,
+        "data_engineering": 37,
+        "other": 92,
+        "hardware": 16,
         "product_management": 3,
         "quant_finance": 2
       },
       "tiers": {
-        "faang_plus": 140,
-        "other": 658,
-        "unicorn": 748
+        "unicorn": 745,
+        "other": 665,
+        "faang_plus": 142
       },
       "top_companies": [
         {
@@ -5797,7 +5797,7 @@
         },
         {
           "company": "OpenAI",
-          "jobs": 58
+          "jobs": 57
         },
         {
           "company": "xAI",
@@ -5808,19 +5808,19 @@
           "jobs": 32
         },
         {
+          "company": "Affirm",
+          "jobs": 30
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 29
+        },
+        {
           "company": "Stripe",
           "jobs": 29
         },
         {
           "company": "Leidos",
-          "jobs": 29
-        },
-        {
-          "company": "Affirm",
-          "jobs": 29
-        },
-        {
-          "company": "Northrop Grumman",
           "jobs": 27
         },
         {
@@ -5828,9 +5828,9 @@
           "jobs": 26
         }
       ],
-      "unique_companies": 273,
-      "avg_jobs_per_company": 5.66,
-      "timestamp": "2026-10-13T00:04:20.984464+00:00"
+      "unique_companies": 278,
+      "avg_jobs_per_company": 5.58,
+      "timestamp": "2026-10-13T06:45:00.760470+00:00"
     }
   ]
 }
