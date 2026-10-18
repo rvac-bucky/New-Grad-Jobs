@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-18T05:34:24.766726+00:00",
+    "last_updated": "2026-10-18T09:56:04.508611+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-07-20",
@@ -5770,26 +5770,26 @@
     },
     {
       "date": "2026-10-18",
-      "total_jobs": 1571,
+      "total_jobs": 1551,
       "categories": {
-        "software_engineering": 1038,
+        "software_engineering": 1029,
+        "infrastructure_sre": 204,
         "other": 107,
-        "infrastructure_sre": 207,
-        "data_ml": 160,
-        "hardware": 15,
+        "data_ml": 153,
         "data_engineering": 40,
+        "hardware": 14,
         "product_management": 2,
         "quant_finance": 2
       },
       "tiers": {
-        "other": 659,
-        "faang_plus": 158,
-        "unicorn": 754
+        "unicorn": 757,
+        "other": 635,
+        "faang_plus": 159
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 300
+          "jobs": 301
         },
         {
           "company": "Anduril Industries",
@@ -5821,16 +5821,16 @@
         },
         {
           "company": "Lyft",
-          "jobs": 27
+          "jobs": 28
         },
         {
           "company": "Boeing",
           "jobs": 23
         }
       ],
-      "unique_companies": 285,
-      "avg_jobs_per_company": 5.51,
-      "timestamp": "2026-10-18T05:34:24.765776+00:00"
+      "unique_companies": 267,
+      "avg_jobs_per_company": 5.81,
+      "timestamp": "2026-10-18T09:56:04.506655+00:00"
     }
   ]
 }
