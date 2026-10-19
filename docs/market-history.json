@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-19T14:41:29.272070+00:00",
+    "last_updated": "2026-10-19T20:16:53.090278+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-07-21",
@@ -5770,21 +5770,21 @@
     },
     {
       "date": "2026-10-19",
-      "total_jobs": 1520,
+      "total_jobs": 1525,
       "categories": {
-        "data_ml": 152,
-        "infrastructure_sre": 204,
-        "software_engineering": 1015,
-        "data_engineering": 40,
-        "other": 93,
+        "data_ml": 150,
+        "software_engineering": 1016,
+        "infrastructure_sre": 208,
+        "data_engineering": 42,
+        "other": 91,
+        "hardware": 13,
         "quant_finance": 3,
-        "hardware": 11,
         "product_management": 2
       },
       "tiers": {
-        "unicorn": 756,
-        "other": 618,
-        "faang_plus": 146
+        "unicorn": 755,
+        "other": 623,
+        "faang_plus": 147
       },
       "top_companies": [
         {
@@ -5805,32 +5805,32 @@
         },
         {
           "company": "Affirm",
-          "jobs": 39
-        },
-        {
-          "company": "Anthropic",
-          "jobs": 30
+          "jobs": 40
         },
         {
           "company": "Stripe",
           "jobs": 30
         },
         {
+          "company": "Anthropic",
+          "jobs": 29
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 26
+        },
+        {
           "company": "Lyft",
           "jobs": 26
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 25
-        },
-        {
-          "company": "Nuro",
-          "jobs": 21
+          "company": "Leidos",
+          "jobs": 24
         }
       ],
-      "unique_companies": 253,
-      "avg_jobs_per_company": 6.01,
-      "timestamp": "2026-10-19T14:41:29.270801+00:00"
+      "unique_companies": 256,
+      "avg_jobs_per_company": 5.96,
+      "timestamp": "2026-10-19T20:16:53.089045+00:00"
     }
   ]
 }
