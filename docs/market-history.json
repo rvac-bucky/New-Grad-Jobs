@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-19T01:51:08.957860+00:00",
+    "last_updated": "2026-10-19T07:04:04.108035+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-07-21",
@@ -5770,21 +5770,21 @@
     },
     {
       "date": "2026-10-19",
-      "total_jobs": 1548,
+      "total_jobs": 1554,
       "categories": {
-        "software_engineering": 1024,
-        "other": 107,
-        "data_ml": 155,
-        "infrastructure_sre": 205,
-        "hardware": 14,
+        "software_engineering": 1033,
+        "infrastructure_sre": 208,
         "data_engineering": 39,
-        "product_management": 2,
-        "quant_finance": 2
+        "quant_finance": 3,
+        "data_ml": 155,
+        "other": 100,
+        "hardware": 14,
+        "product_management": 2
       },
       "tiers": {
-        "unicorn": 756,
-        "other": 639,
-        "faang_plus": 153
+        "unicorn": 759,
+        "other": 640,
+        "faang_plus": 155
       },
       "top_companies": [
         {
@@ -5808,29 +5808,29 @@
           "jobs": 40
         },
         {
+          "company": "Anthropic",
+          "jobs": 30
+        },
+        {
           "company": "Stripe",
           "jobs": 30
         },
         {
-          "company": "Anthropic",
-          "jobs": 29
-        },
-        {
           "company": "Lyft",
-          "jobs": 27
+          "jobs": 28
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 26
+          "jobs": 24
         },
         {
           "company": "Boeing",
-          "jobs": 23
+          "jobs": 22
         }
       ],
-      "unique_companies": 271,
-      "avg_jobs_per_company": 5.71,
-      "timestamp": "2026-10-19T01:51:08.956599+00:00"
+      "unique_companies": 277,
+      "avg_jobs_per_company": 5.61,
+      "timestamp": "2026-10-19T07:04:04.107093+00:00"
     }
   ]
 }
