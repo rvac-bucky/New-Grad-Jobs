@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-20T18:00:03.624780+00:00",
+    "last_updated": "2026-10-20T21:21:04.703814+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-07-22",
@@ -5770,21 +5770,21 @@
     },
     {
       "date": "2026-10-20",
-      "total_jobs": 1531,
+      "total_jobs": 1554,
       "categories": {
-        "software_engineering": 1034,
+        "software_engineering": 1055,
         "data_ml": 156,
         "infrastructure_sre": 198,
         "other": 82,
-        "hardware": 17,
-        "product_management": 2,
-        "data_engineering": 39,
-        "quant_finance": 3
+        "hardware": 16,
+        "data_engineering": 41,
+        "quant_finance": 4,
+        "product_management": 2
       },
       "tiers": {
-        "other": 616,
-        "unicorn": 755,
-        "faang_plus": 160
+        "unicorn": 758,
+        "faang_plus": 155,
+        "other": 641
       },
       "top_companies": [
         {
@@ -5797,7 +5797,7 @@
         },
         {
           "company": "OpenAI",
-          "jobs": 57
+          "jobs": 59
         },
         {
           "company": "xAI",
@@ -5812,25 +5812,25 @@
           "jobs": 30
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 27
-        },
-        {
           "company": "Lyft",
-          "jobs": 26
+          "jobs": 25
         },
         {
           "company": "Glean",
           "jobs": 24
         },
         {
-          "company": "Leidos",
-          "jobs": 23
+          "company": "Northrop Grumman",
+          "jobs": 24
+        },
+        {
+          "company": "Boeing",
+          "jobs": 24
         }
       ],
-      "unique_companies": 257,
-      "avg_jobs_per_company": 5.96,
-      "timestamp": "2026-10-20T18:00:03.622317+00:00"
+      "unique_companies": 285,
+      "avg_jobs_per_company": 5.45,
+      "timestamp": "2026-10-20T21:21:04.702748+00:00"
     }
   ]
 }
