@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-23T19:40:23.742878+00:00",
+    "last_updated": "2026-10-23T22:43:28.088855+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-07-25",
@@ -5770,30 +5770,30 @@
     },
     {
       "date": "2026-10-23",
-      "total_jobs": 1547,
+      "total_jobs": 1549,
       "categories": {
-        "infrastructure_sre": 196,
-        "software_engineering": 1052,
-        "data_ml": 161,
-        "data_engineering": 35,
-        "other": 87,
-        "quant_finance": 4,
-        "hardware": 10,
+        "software_engineering": 1040,
+        "infrastructure_sre": 205,
+        "data_ml": 160,
+        "data_engineering": 37,
+        "other": 89,
+        "quant_finance": 5,
+        "hardware": 11,
         "product_management": 2
       },
       "tiers": {
-        "unicorn": 777,
-        "other": 614,
-        "faang_plus": 156
+        "faang_plus": 157,
+        "other": 617,
+        "unicorn": 775
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 308
+          "jobs": 309
         },
         {
           "company": "Anduril Industries",
-          "jobs": 220
+          "jobs": 218
         },
         {
           "company": "OpenAI",
@@ -5808,11 +5808,15 @@
           "jobs": 40
         },
         {
+          "company": "Leidos",
+          "jobs": 35
+        },
+        {
           "company": "Stripe",
           "jobs": 33
         },
         {
-          "company": "Leidos",
+          "company": "Boeing",
           "jobs": 26
         },
         {
@@ -5822,15 +5826,11 @@
         {
           "company": "Lyft",
           "jobs": 25
-        },
-        {
-          "company": "Boeing",
-          "jobs": 24
         }
       ],
-      "unique_companies": 263,
-      "avg_jobs_per_company": 5.88,
-      "timestamp": "2026-10-23T19:40:23.741893+00:00"
+      "unique_companies": 260,
+      "avg_jobs_per_company": 5.96,
+      "timestamp": "2026-10-23T22:43:28.087947+00:00"
     }
   ]
 }
