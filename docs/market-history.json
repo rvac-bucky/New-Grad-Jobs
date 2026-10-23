@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-23T11:21:55.572361+00:00",
+    "last_updated": "2026-10-23T15:53:46.089431+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-07-25",
@@ -5770,21 +5770,21 @@
     },
     {
       "date": "2026-10-23",
-      "total_jobs": 1534,
+      "total_jobs": 1556,
       "categories": {
-        "software_engineering": 1041,
+        "software_engineering": 1056,
         "infrastructure_sre": 200,
-        "data_engineering": 36,
-        "data_ml": 158,
-        "other": 80,
+        "data_engineering": 34,
+        "data_ml": 165,
+        "other": 82,
         "quant_finance": 5,
         "hardware": 11,
         "product_management": 3
       },
       "tiers": {
-        "faang_plus": 155,
+        "other": 624,
         "unicorn": 776,
-        "other": 603
+        "faang_plus": 156
       },
       "top_companies": [
         {
@@ -5793,7 +5793,7 @@
         },
         {
           "company": "Anduril Industries",
-          "jobs": 221
+          "jobs": 222
         },
         {
           "company": "OpenAI",
@@ -5809,28 +5809,28 @@
         },
         {
           "company": "Stripe",
-          "jobs": 34
+          "jobs": 33
+        },
+        {
+          "company": "Leidos",
+          "jobs": 27
         },
         {
           "company": "Glean",
           "jobs": 26
         },
         {
+          "company": "Boeing",
+          "jobs": 26
+        },
+        {
           "company": "Lyft",
           "jobs": 25
-        },
-        {
-          "company": "Leidos",
-          "jobs": 25
-        },
-        {
-          "company": "Boeing",
-          "jobs": 23
         }
       ],
-      "unique_companies": 256,
-      "avg_jobs_per_company": 5.99,
-      "timestamp": "2026-10-23T11:21:55.569980+00:00"
+      "unique_companies": 271,
+      "avg_jobs_per_company": 5.74,
+      "timestamp": "2026-10-23T15:53:46.088307+00:00"
     }
   ]
 }
