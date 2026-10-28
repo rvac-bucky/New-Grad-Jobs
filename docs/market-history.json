@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-28T06:03:49.150191+00:00",
+    "last_updated": "2026-10-28T12:44:30.822000+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-07-30",
@@ -5770,21 +5770,21 @@
     },
     {
       "date": "2026-10-28",
-      "total_jobs": 1546,
+      "total_jobs": 1596,
       "categories": {
-        "data_engineering": 39,
-        "infrastructure_sre": 198,
-        "software_engineering": 1049,
-        "data_ml": 156,
-        "other": 86,
-        "hardware": 12,
-        "quant_finance": 4,
+        "software_engineering": 1087,
+        "infrastructure_sre": 200,
+        "data_engineering": 44,
+        "data_ml": 167,
+        "other": 80,
+        "hardware": 11,
+        "quant_finance": 5,
         "product_management": 2
       },
       "tiers": {
-        "other": 597,
-        "unicorn": 792,
-        "faang_plus": 157
+        "unicorn": 794,
+        "faang_plus": 165,
+        "other": 637
       },
       "top_companies": [
         {
@@ -5801,36 +5801,36 @@
         },
         {
           "company": "xAI",
-          "jobs": 46
+          "jobs": 50
         },
         {
           "company": "Affirm",
-          "jobs": 43
+          "jobs": 44
         },
         {
           "company": "Stripe",
-          "jobs": 32
+          "jobs": 33
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 27
         },
         {
           "company": "Boeing",
           "jobs": 27
         },
         {
-          "company": "Glean",
+          "company": "Leidos",
           "jobs": 26
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 25
-        },
-        {
-          "company": "Leidos",
-          "jobs": 25
+          "company": "Glean",
+          "jobs": 26
         }
       ],
-      "unique_companies": 261,
-      "avg_jobs_per_company": 5.92,
-      "timestamp": "2026-10-28T06:03:49.149141+00:00"
+      "unique_companies": 304,
+      "avg_jobs_per_company": 5.25,
+      "timestamp": "2026-10-28T12:44:30.821154+00:00"
     }
   ]
 }
