@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-29T02:04:01.214715+00:00",
+    "last_updated": "2026-10-29T08:25:51.877373+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-07-31",
@@ -5770,21 +5770,21 @@
     },
     {
       "date": "2026-10-29",
-      "total_jobs": 1618,
+      "total_jobs": 1602,
       "categories": {
-        "software_engineering": 1078,
-        "infrastructure_sre": 217,
-        "other": 94,
-        "data_engineering": 46,
+        "infrastructure_sre": 203,
+        "software_engineering": 1080,
+        "data_ml": 163,
+        "other": 96,
+        "data_engineering": 44,
+        "hardware": 8,
         "quant_finance": 6,
-        "data_ml": 166,
-        "hardware": 9,
         "product_management": 2
       },
       "tiers": {
-        "other": 648,
-        "unicorn": 792,
-        "faang_plus": 178
+        "other": 622,
+        "unicorn": 795,
+        "faang_plus": 185
       },
       "top_companies": [
         {
@@ -5797,15 +5797,15 @@
         },
         {
           "company": "OpenAI",
-          "jobs": 58
+          "jobs": 62
         },
         {
           "company": "xAI",
-          "jobs": 50
+          "jobs": 51
         },
         {
           "company": "Affirm",
-          "jobs": 42
+          "jobs": 43
         },
         {
           "company": "Stripe",
@@ -5813,24 +5813,24 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 34
+          "jobs": 35
         },
         {
           "company": "Boeing",
-          "jobs": 31
+          "jobs": 32
         },
         {
           "company": "Glean",
           "jobs": 26
         },
         {
-          "company": "Samsara",
+          "company": "Lyft",
           "jobs": 23
         }
       ],
-      "unique_companies": 308,
-      "avg_jobs_per_company": 5.25,
-      "timestamp": "2026-10-29T02:04:01.213562+00:00"
+      "unique_companies": 282,
+      "avg_jobs_per_company": 5.68,
+      "timestamp": "2026-10-29T08:25:51.876274+00:00"
     }
   ]
 }
