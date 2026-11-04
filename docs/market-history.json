@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-04T08:02:02.000173+00:00",
+    "last_updated": "2026-11-04T16:14:23.062155+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-08-06",
@@ -5770,21 +5770,21 @@
     },
     {
       "date": "2026-11-04",
-      "total_jobs": 1559,
+      "total_jobs": 1549,
       "categories": {
-        "software_engineering": 1035,
         "infrastructure_sre": 194,
-        "data_ml": 162,
-        "data_engineering": 42,
-        "hardware": 16,
+        "software_engineering": 1021,
+        "data_engineering": 43,
+        "data_ml": 164,
+        "hardware": 17,
         "other": 104,
         "quant_finance": 5,
         "product_management": 1
       },
       "tiers": {
-        "other": 601,
-        "unicorn": 792,
-        "faang_plus": 166
+        "unicorn": 791,
+        "other": 590,
+        "faang_plus": 168
       },
       "top_companies": [
         {
@@ -5797,7 +5797,7 @@
         },
         {
           "company": "OpenAI",
-          "jobs": 57
+          "jobs": 56
         },
         {
           "company": "xAI",
@@ -5805,32 +5805,32 @@
         },
         {
           "company": "Affirm",
-          "jobs": 44
+          "jobs": 43
         },
         {
           "company": "Stripe",
           "jobs": 38
         },
         {
-          "company": "Boeing",
-          "jobs": 36
+          "company": "Northrop Grumman",
+          "jobs": 34
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 31
+          "company": "Boeing",
+          "jobs": 34
         },
         {
           "company": "Glean",
           "jobs": 24
         },
         {
-          "company": "Anthropic",
+          "company": "Leidos",
           "jobs": 22
         }
       ],
-      "unique_companies": 266,
-      "avg_jobs_per_company": 5.86,
-      "timestamp": "2026-11-04T08:02:01.999370+00:00"
+      "unique_companies": 253,
+      "avg_jobs_per_company": 6.12,
+      "timestamp": "2026-11-04T16:14:23.061196+00:00"
     }
   ]
 }
