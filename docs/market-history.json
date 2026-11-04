@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-04T16:14:23.062155+00:00",
+    "last_updated": "2026-11-04T21:58:23.276453+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-08-06",
@@ -5770,30 +5770,30 @@
     },
     {
       "date": "2026-11-04",
-      "total_jobs": 1549,
+      "total_jobs": 1554,
       "categories": {
-        "infrastructure_sre": 194,
         "software_engineering": 1021,
+        "infrastructure_sre": 197,
+        "data_ml": 159,
         "data_engineering": 43,
-        "data_ml": 164,
-        "hardware": 17,
-        "other": 104,
+        "other": 109,
+        "hardware": 19,
         "quant_finance": 5,
         "product_management": 1
       },
       "tiers": {
-        "unicorn": 791,
-        "other": 590,
-        "faang_plus": 168
+        "other": 591,
+        "unicorn": 786,
+        "faang_plus": 177
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 308
+          "jobs": 309
         },
         {
           "company": "Anduril Industries",
-          "jobs": 222
+          "jobs": 220
         },
         {
           "company": "OpenAI",
@@ -5801,36 +5801,36 @@
         },
         {
           "company": "xAI",
-          "jobs": 45
-        },
-        {
-          "company": "Affirm",
-          "jobs": 43
-        },
-        {
-          "company": "Stripe",
-          "jobs": 38
-        },
-        {
-          "company": "Northrop Grumman",
-          "jobs": 34
+          "jobs": 44
         },
         {
           "company": "Boeing",
-          "jobs": 34
+          "jobs": 42
+        },
+        {
+          "company": "Affirm",
+          "jobs": 41
+        },
+        {
+          "company": "Stripe",
+          "jobs": 37
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 35
         },
         {
           "company": "Glean",
           "jobs": 24
         },
         {
-          "company": "Leidos",
+          "company": "Lyft",
           "jobs": 22
         }
       ],
-      "unique_companies": 253,
-      "avg_jobs_per_company": 6.12,
-      "timestamp": "2026-11-04T16:14:23.061196+00:00"
+      "unique_companies": 258,
+      "avg_jobs_per_company": 6.02,
+      "timestamp": "2026-11-04T21:58:23.275510+00:00"
     }
   ]
 }
