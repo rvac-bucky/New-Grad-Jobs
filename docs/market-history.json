@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-12T10:59:33.446668+00:00",
+    "last_updated": "2026-11-12T18:47:25.551482+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-08-14",
@@ -5770,26 +5770,26 @@
     },
     {
       "date": "2026-11-12",
-      "total_jobs": 1549,
+      "total_jobs": 1555,
       "categories": {
-        "software_engineering": 1027,
+        "software_engineering": 1033,
         "infrastructure_sre": 204,
-        "other": 93,
-        "data_engineering": 45,
-        "data_ml": 158,
-        "quant_finance": 6,
+        "data_ml": 159,
+        "data_engineering": 43,
+        "other": 98,
+        "hardware": 10,
         "product_management": 2,
-        "hardware": 14
+        "quant_finance": 6
       },
       "tiers": {
-        "other": 608,
-        "unicorn": 780,
-        "faang_plus": 161
+        "other": 607,
+        "unicorn": 783,
+        "faang_plus": 165
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 320
+          "jobs": 321
         },
         {
           "company": "Anduril Industries",
@@ -5800,24 +5800,24 @@
           "jobs": 55
         },
         {
+          "company": "Boeing",
+          "jobs": 40
+        },
+        {
           "company": "Stripe",
           "jobs": 37
         },
         {
-          "company": "Boeing",
-          "jobs": 32
-        },
-        {
-          "company": "Northrop Grumman",
-          "jobs": 31
+          "company": "Affirm",
+          "jobs": 30
         },
         {
           "company": "xAI",
           "jobs": 30
         },
         {
-          "company": "Affirm",
-          "jobs": 29
+          "company": "Northrop Grumman",
+          "jobs": 25
         },
         {
           "company": "Leidos",
@@ -5828,9 +5828,9 @@
           "jobs": 22
         }
       ],
-      "unique_companies": 262,
-      "avg_jobs_per_company": 5.91,
-      "timestamp": "2026-11-12T10:59:33.445687+00:00"
+      "unique_companies": 256,
+      "avg_jobs_per_company": 6.07,
+      "timestamp": "2026-11-12T18:47:25.550429+00:00"
     }
   ]
 }
