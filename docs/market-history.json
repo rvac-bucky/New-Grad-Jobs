@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-14T14:30:15.357065+00:00",
+    "last_updated": "2026-11-14T19:30:15.997658+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-08-16",
@@ -5770,21 +5770,21 @@
     },
     {
       "date": "2026-11-14",
-      "total_jobs": 1384,
+      "total_jobs": 1494,
       "categories": {
-        "software_engineering": 932,
-        "other": 65,
-        "data_engineering": 42,
-        "infrastructure_sre": 194,
-        "data_ml": 137,
-        "hardware": 10,
+        "software_engineering": 980,
+        "other": 101,
+        "data_engineering": 39,
+        "data_ml": 146,
+        "infrastructure_sre": 210,
+        "hardware": 13,
         "product_management": 2,
-        "quant_finance": 2
+        "quant_finance": 3
       },
       "tiers": {
-        "other": 553,
-        "unicorn": 765,
-        "faang_plus": 66
+        "other": 589,
+        "unicorn": 763,
+        "faang_plus": 142
       },
       "top_companies": [
         {
@@ -5808,29 +5808,29 @@
           "jobs": 30
         },
         {
+          "company": "Boeing",
+          "jobs": 30
+        },
+        {
           "company": "Affirm",
           "jobs": 27
         },
         {
-          "company": "Glean",
+          "company": "Leidos",
+          "jobs": 24
+        },
+        {
+          "company": "Northrop Grumman",
           "jobs": 22
         },
         {
-          "company": "Samsara",
-          "jobs": 19
-        },
-        {
-          "company": "Anthropic",
-          "jobs": 19
-        },
-        {
-          "company": "Vercel",
-          "jobs": 18
+          "company": "Glean",
+          "jobs": 22
         }
       ],
-      "unique_companies": 262,
-      "avg_jobs_per_company": 5.28,
-      "timestamp": "2026-11-14T14:30:15.355847+00:00"
+      "unique_companies": 270,
+      "avg_jobs_per_company": 5.53,
+      "timestamp": "2026-11-14T19:30:15.996560+00:00"
     }
   ]
 }
