@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-17T10:48:46.486557+00:00",
+    "last_updated": "2026-11-17T19:33:29.519515+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-08-19",
@@ -5770,30 +5770,29 @@
     },
     {
       "date": "2026-11-17",
-      "total_jobs": 1380,
+      "total_jobs": 1388,
       "categories": {
-        "infrastructure_sre": 193,
-        "software_engineering": 946,
-        "data_ml": 133,
-        "other": 61,
-        "data_engineering": 35,
+        "software_engineering": 958,
+        "data_ml": 135,
+        "data_engineering": 40,
+        "infrastructure_sre": 189,
+        "other": 55,
         "hardware": 9,
-        "product_management": 2,
-        "quant_finance": 1
+        "product_management": 2
       },
       "tiers": {
-        "unicorn": 749,
-        "other": 564,
-        "faang_plus": 67
+        "unicorn": 761,
+        "other": 561,
+        "faang_plus": 66
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 312
+          "jobs": 314
         },
         {
           "company": "Anduril Industries",
-          "jobs": 214
+          "jobs": 216
         },
         {
           "company": "OpenAI",
@@ -5817,20 +5816,20 @@
         },
         {
           "company": "Roblox",
-          "jobs": 19
-        },
-        {
-          "company": "Samsara",
-          "jobs": 19
+          "jobs": 20
         },
         {
           "company": "Vercel",
           "jobs": 18
+        },
+        {
+          "company": "Samsara",
+          "jobs": 18
         }
       ],
-      "unique_companies": 278,
-      "avg_jobs_per_company": 4.96,
-      "timestamp": "2026-11-17T10:48:46.485396+00:00"
+      "unique_companies": 268,
+      "avg_jobs_per_company": 5.18,
+      "timestamp": "2026-11-17T19:33:29.518183+00:00"
     }
   ]
 }
