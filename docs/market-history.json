@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-19T16:57:56.359696+00:00",
+    "last_updated": "2026-11-19T23:28:18.594699+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-08-21",
@@ -5768,50 +5768,49 @@
     },
     {
       "date": "2026-11-19",
-      "total_jobs": 1480,
+      "total_jobs": 1485,
       "categories": {
-        "software_engineering": 991,
-        "infrastructure_sre": 205,
         "data_ml": 166,
-        "data_engineering": 37,
-        "other": 68,
+        "software_engineering": 977,
+        "infrastructure_sre": 215,
+        "data_engineering": 41,
+        "other": 75,
         "product_management": 3,
-        "hardware": 9,
-        "quant_finance": 1
+        "hardware": 8
       },
       "tiers": {
-        "other": 616,
-        "unicorn": 785,
-        "faang_plus": 79
+        "faang_plus": 62,
+        "other": 638,
+        "unicorn": 785
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 321
+          "jobs": 316
         },
         {
           "company": "Anduril Industries",
-          "jobs": 220
+          "jobs": 221
         },
         {
           "company": "OpenAI",
           "jobs": 56
         },
         {
-          "company": "Stripe",
-          "jobs": 37
+          "company": "Affirm",
+          "jobs": 31
         },
         {
           "company": "xAI",
           "jobs": 31
         },
         {
-          "company": "Affirm",
-          "jobs": 29
+          "company": "Stripe",
+          "jobs": 27
         },
         {
           "company": "Samsara",
-          "jobs": 22
+          "jobs": 24
         },
         {
           "company": "Glean",
@@ -5819,16 +5818,16 @@
         },
         {
           "company": "Vercel",
-          "jobs": 20
+          "jobs": 21
         },
         {
           "company": "Roblox",
           "jobs": 19
         }
       ],
-      "unique_companies": 305,
-      "avg_jobs_per_company": 4.85,
-      "timestamp": "2026-11-19T16:57:56.358680+00:00"
+      "unique_companies": 311,
+      "avg_jobs_per_company": 4.77,
+      "timestamp": "2026-11-19T23:28:18.593593+00:00"
     }
   ]
 }
