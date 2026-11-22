@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-22T17:32:51.771054+00:00",
+    "last_updated": "2026-11-22T22:48:57.433494+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-08-24",
@@ -5765,20 +5765,20 @@
     },
     {
       "date": "2026-11-22",
-      "total_jobs": 1504,
+      "total_jobs": 1452,
       "categories": {
-        "software_engineering": 983,
-        "data_ml": 167,
-        "hardware": 13,
-        "infrastructure_sre": 209,
-        "other": 84,
+        "software_engineering": 956,
+        "data_ml": 160,
+        "hardware": 12,
+        "infrastructure_sre": 201,
+        "other": 74,
         "data_engineering": 46,
-        "product_management": 2
+        "product_management": 3
       },
       "tiers": {
         "unicorn": 773,
-        "faang_plus": 85,
-        "other": 646
+        "other": 613,
+        "faang_plus": 66
       },
       "top_companies": [
         {
@@ -5802,10 +5802,6 @@
           "jobs": 31
         },
         {
-          "company": "Leidos",
-          "jobs": 28
-        },
-        {
           "company": "Stripe",
           "jobs": 27
         },
@@ -5820,11 +5816,15 @@
         {
           "company": "Vercel",
           "jobs": 21
+        },
+        {
+          "company": "Roblox",
+          "jobs": 18
         }
       ],
-      "unique_companies": 309,
-      "avg_jobs_per_company": 4.87,
-      "timestamp": "2026-11-22T17:32:51.769948+00:00"
+      "unique_companies": 300,
+      "avg_jobs_per_company": 4.84,
+      "timestamp": "2026-11-22T22:48:57.432483+00:00"
     }
   ]
 }
