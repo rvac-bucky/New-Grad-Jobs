@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-25T13:44:36.393396+00:00",
+    "last_updated": "2026-11-25T22:53:23.480022+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-08-27",
@@ -5763,30 +5763,30 @@
     },
     {
       "date": "2026-11-25",
-      "total_jobs": 1533,
+      "total_jobs": 1489,
       "categories": {
-        "software_engineering": 996,
-        "data_engineering": 43,
-        "data_ml": 151,
-        "other": 110,
-        "infrastructure_sre": 218,
+        "software_engineering": 970,
+        "data_ml": 152,
+        "data_engineering": 45,
+        "infrastructure_sre": 207,
+        "other": 97,
+        "hardware": 13,
         "quant_finance": 1,
-        "hardware": 12,
-        "product_management": 2
+        "product_management": 4
       },
       "tiers": {
-        "unicorn": 778,
-        "other": 657,
-        "faang_plus": 98
+        "unicorn": 782,
+        "other": 620,
+        "faang_plus": 87
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 326
+          "jobs": 331
         },
         {
           "company": "Anduril Industries",
-          "jobs": 220
+          "jobs": 221
         },
         {
           "company": "OpenAI",
@@ -5802,15 +5802,15 @@
         },
         {
           "company": "Stripe",
-          "jobs": 28
-        },
-        {
-          "company": "Leidos",
           "jobs": 27
         },
         {
           "company": "Glean",
           "jobs": 22
+        },
+        {
+          "company": "Samsara",
+          "jobs": 21
         },
         {
           "company": "Vercel",
@@ -5821,9 +5821,9 @@
           "jobs": 20
         }
       ],
-      "unique_companies": 300,
-      "avg_jobs_per_company": 5.11,
-      "timestamp": "2026-11-25T13:44:36.392119+00:00"
+      "unique_companies": 302,
+      "avg_jobs_per_company": 4.93,
+      "timestamp": "2026-11-25T22:53:23.479204+00:00"
     }
   ]
 }
