@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-25T03:54:19.313348+00:00",
+    "last_updated": "2026-11-25T13:44:36.393396+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-08-27",
@@ -5763,21 +5763,21 @@
     },
     {
       "date": "2026-11-25",
-      "total_jobs": 1463,
+      "total_jobs": 1533,
       "categories": {
-        "software_engineering": 968,
-        "data_ml": 141,
-        "infrastructure_sre": 208,
-        "other": 84,
-        "data_engineering": 44,
+        "software_engineering": 996,
+        "data_engineering": 43,
+        "data_ml": 151,
+        "other": 110,
+        "infrastructure_sre": 218,
         "quant_finance": 1,
         "hardware": 12,
-        "product_management": 5
+        "product_management": 2
       },
       "tiers": {
-        "other": 626,
-        "unicorn": 780,
-        "faang_plus": 57
+        "unicorn": 778,
+        "other": 657,
+        "faang_plus": 98
       },
       "top_companies": [
         {
@@ -5805,6 +5805,10 @@
           "jobs": 28
         },
         {
+          "company": "Leidos",
+          "jobs": 27
+        },
+        {
           "company": "Glean",
           "jobs": 22
         },
@@ -5813,17 +5817,13 @@
           "jobs": 21
         },
         {
-          "company": "Samsara",
-          "jobs": 20
-        },
-        {
           "company": "Roblox",
           "jobs": 20
         }
       ],
-      "unique_companies": 302,
-      "avg_jobs_per_company": 4.84,
-      "timestamp": "2026-11-25T03:54:19.312330+00:00"
+      "unique_companies": 300,
+      "avg_jobs_per_company": 5.11,
+      "timestamp": "2026-11-25T13:44:36.392119+00:00"
     }
   ]
 }
