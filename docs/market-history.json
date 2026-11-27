@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-27T15:03:47.352646+00:00",
+    "last_updated": "2026-11-27T23:27:57.398748+00:00",
     "total_snapshots": 91,
     "date_range": {
       "start": "2026-08-29",
@@ -5763,21 +5763,21 @@
     },
     {
       "date": "2026-11-27",
-      "total_jobs": 1423,
+      "total_jobs": 1435,
       "categories": {
-        "software_engineering": 952,
-        "data_ml": 140,
-        "infrastructure_sre": 197,
-        "other": 74,
-        "hardware": 12,
-        "data_engineering": 44,
+        "data_ml": 145,
+        "software_engineering": 956,
+        "infrastructure_sre": 194,
+        "other": 80,
+        "hardware": 11,
+        "data_engineering": 45,
         "quant_finance": 1,
         "product_management": 3
       },
       "tiers": {
-        "unicorn": 784,
-        "other": 580,
-        "faang_plus": 59
+        "unicorn": 779,
+        "faang_plus": 78,
+        "other": 578
       },
       "top_companies": [
         {
@@ -5790,27 +5790,23 @@
         },
         {
           "company": "OpenAI",
-          "jobs": 56
+          "jobs": 55
         },
         {
           "company": "Affirm",
-          "jobs": 35
+          "jobs": 34
+        },
+        {
+          "company": "Stripe",
+          "jobs": 31
         },
         {
           "company": "xAI",
           "jobs": 30
         },
         {
-          "company": "Stripe",
-          "jobs": 27
-        },
-        {
           "company": "Glean",
           "jobs": 22
-        },
-        {
-          "company": "Vercel",
-          "jobs": 21
         },
         {
           "company": "Roblox",
@@ -5819,11 +5815,15 @@
         {
           "company": "Samsara",
           "jobs": 20
+        },
+        {
+          "company": "Vercel",
+          "jobs": 20
         }
       ],
-      "unique_companies": 273,
-      "avg_jobs_per_company": 5.21,
-      "timestamp": "2026-11-27T15:03:47.351462+00:00"
+      "unique_companies": 276,
+      "avg_jobs_per_company": 5.2,
+      "timestamp": "2026-11-27T23:27:57.397775+00:00"
     }
   ]
 }
